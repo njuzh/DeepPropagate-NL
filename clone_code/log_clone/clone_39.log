@@ -1,0 +1,155 @@
+nohup: ignoring input
+Cloning into '/root/repos/repos39/cdi'...
+Cloning into '/root/repos/repos39/carpentersblocks'...
+Cloning into '/root/repos/repos39/spring-cloud-azure'...
+Cloning into '/root/repos/repos39/jing-trang'...
+Cloning into '/root/repos/repos39/ActuallyAdditions'...
+Cloning into '/root/repos/repos39/cm_platform_sdk'...
+Cloning into '/root/repos/repos39/egeria'...
+Checking out files:  92% (4585/4936)   Checking out files:  93% (4591/4936)   Checking out files:  94% (4640/4936)   Checking out files:  95% (4690/4936)   Checking out files:  96% (4739/4936)   Checking out files:  97% (4788/4936)   Checking out files:  98% (4838/4936)   Checking out files:  99% (4887/4936)   Checking out files: 100% (4936/4936)   Checking out files: 100% (4936/4936), done.
+Cloning into '/root/repos/repos39/xwiki-enterprise'...
+Cloning into '/root/repos/repos39/supernode'...
+Cloning into '/root/repos/repos39/Draconic-Evolution'...
+Cloning into '/root/repos/repos39/dd-trace-java'...
+Cloning into '/root/repos/repos39/v2ex-android'...
+Cloning into '/root/repos/repos39/hama'...
+Cloning into '/root/repos/repos39/sonar-scanner-jenkins'...
+Cloning into '/root/repos/repos39/HoloIRC'...
+Cloning into '/root/repos/repos39/org.openwms'...
+Cloning into '/root/repos/repos39/TickThreading'...
+Cloning into '/root/repos/repos39/Dictionary'...
+Cloning into '/root/repos/repos39/avenir'...
+Cloning into '/root/repos/repos39/blaze-persistence'...
+Cloning into '/root/repos/repos39/Simple-Solitaire'...
+Cloning into '/root/repos/repos39/myrobotlab'...
+Cloning into '/root/repos/repos39/odyssey'...
+Cloning into '/root/repos/repos39/fcrepo4'...
+Cloning into '/root/repos/repos39/OpenTripPlanner-for-Android'...
+Cloning into '/root/repos/repos39/RomRaider'...
+Cloning into '/root/repos/repos39/sdbg'...
+Cloning into '/root/repos/repos39/sonar-python'...
+Cloning into '/root/repos/repos39/Rhombus'...
+Cloning into '/root/repos/repos39/GregTech'...
+Cloning into '/root/repos/repos39/cantaloupe'...
+Cloning into '/root/repos/repos39/Morph'...
+Cloning into '/root/repos/repos39/mycontroller'...
+Cloning into '/root/repos/repos39/api-themoviedb'...
+Cloning into '/root/repos/repos39/jira-plugin'...
+Cloning into '/root/repos/repos39/Hyperium'...
+Cloning into '/root/repos/repos39/ProPPR'...
+Checking out files:  34% (184/538)   Checking out files:  35% (189/538)   Checking out files:  36% (194/538)   Checking out files:  37% (200/538)   Checking out files:  38% (205/538)   Checking out files:  39% (210/538)   Checking out files:  40% (216/538)   Checking out files:  41% (221/538)   Checking out files:  42% (226/538)   Checking out files:  43% (232/538)   Checking out files:  44% (237/538)   Checking out files:  45% (243/538)   Checking out files:  46% (248/538)   Checking out files:  47% (253/538)   Checking out files:  48% (259/538)   Checking out files:  49% (264/538)   Checking out files:  50% (269/538)   Checking out files:  51% (275/538)   Checking out files:  52% (280/538)   Checking out files:  53% (286/538)   Checking out files:  54% (291/538)   Checking out files:  55% (296/538)   Checking out files:  56% (302/538)   Checking out files:  57% (307/538)   Checking out files:  58% (313/538)   Checking out files:  59% (318/538)   Checking out files:  60% (323/538)   Checking out files:  61% (329/538)   Checking out files:  62% (334/538)   Checking out files:  63% (339/538)   Checking out files:  64% (345/538)   Checking out files:  65% (350/538)   Checking out files:  66% (356/538)   Checking out files:  67% (361/538)   Checking out files:  68% (366/538)   Checking out files:  69% (372/538)   Checking out files:  70% (377/538)   Checking out files:  71% (382/538)   Checking out files:  72% (388/538)   Checking out files:  73% (393/538)   Checking out files:  74% (399/538)   Checking out files:  75% (404/538)   Checking out files:  76% (409/538)   Checking out files:  77% (415/538)   Checking out files:  78% (420/538)   Checking out files:  79% (426/538)   Checking out files:  80% (431/538)   Checking out files:  81% (436/538)   Checking out files:  82% (442/538)   Checking out files:  83% (447/538)   Checking out files:  84% (452/538)   Checking out files:  85% (458/538)   Checking out files:  86% (463/538)   Checking out files:  87% (469/538)   Checking out files:  88% (474/538)   Checking out files:  89% (479/538)   Checking out files:  90% (485/538)   Checking out files:  91% (490/538)   Checking out files:  92% (495/538)   Checking out files:  93% (501/538)   Checking out files:  94% (506/538)   Checking out files:  95% (512/538)   Checking out files:  96% (517/538)   Checking out files:  97% (522/538)   Checking out files:  98% (528/538)   Checking out files:  99% (533/538)   Checking out files: 100% (538/538)   Checking out files: 100% (538/538), done.
+Cloning into '/root/repos/repos39/opensoc-streaming'...
+Cloning into '/root/repos/repos39/hypergraphdb'...
+Cloning into '/root/repos/repos39/vertx-rx'...
+Cloning into '/root/repos/repos39/tchannel-java'...
+Cloning into '/root/repos/repos39/icafe'...
+Checking out files:  77% (1572/2026)   Checking out files:  78% (1581/2026)   Checking out files:  78% (1589/2026)   Checking out files:  79% (1601/2026)   Checking out files:  80% (1621/2026)   Checking out files:  81% (1642/2026)   Checking out files:  82% (1662/2026)   Checking out files:  83% (1682/2026)   Checking out files:  84% (1702/2026)   Checking out files:  85% (1723/2026)   Checking out files:  86% (1743/2026)   Checking out files:  87% (1763/2026)   Checking out files:  88% (1783/2026)   Checking out files:  89% (1804/2026)   Checking out files:  90% (1824/2026)   Checking out files:  91% (1844/2026)   Checking out files:  92% (1864/2026)   Checking out files:  93% (1885/2026)   Checking out files:  94% (1905/2026)   Checking out files:  95% (1925/2026)   Checking out files:  96% (1945/2026)   Checking out files:  97% (1966/2026)   Checking out files:  98% (1986/2026)   Checking out files:  99% (2006/2026)   Checking out files: 100% (2026/2026)   Checking out files: 100% (2026/2026), done.
+Cloning into '/root/repos/repos39/bitquest'...
+Cloning into '/root/repos/repos39/cfr'...
+Cloning into '/root/repos/repos39/k'...
+Cloning into '/root/repos/repos39/datashare'...
+Cloning into '/root/repos/repos39/ExtraCells2'...
+Cloning into '/root/repos/repos39/ReplayMod'...
+Cloning into '/root/repos/repos39/omegat'...
+Cloning into '/root/repos/repos39/Plan'...
+1 https://github.com/cdi-spec/cdi  
+git clone https://github.com/cdi-spec/cdi  
+2 https://github.com/Mineshopper/carpentersblocks  
+git clone https://github.com/Mineshopper/carpentersblocks  
+3 https://github.com/microsoft/spring-cloud-azure  
+git clone https://github.com/microsoft/spring-cloud-azure  
+4 https://github.com/relaxng/jing-trang  
+git clone https://github.com/relaxng/jing-trang  
+5 https://github.com/Ellpeck/ActuallyAdditions  
+git clone https://github.com/Ellpeck/ActuallyAdditions  
+6 https://github.com/CyanogenMod/cm_platform_sdk  
+git clone https://github.com/CyanogenMod/cm_platform_sdk  
+7 https://github.com/odpi/egeria  
+git clone https://github.com/odpi/egeria  
+8 https://github.com/xwiki-attic/xwiki-enterprise  
+git clone https://github.com/xwiki-attic/xwiki-enterprise  
+9 https://github.com/bitsofproof/supernode  
+git clone https://github.com/bitsofproof/supernode  
+10 https://github.com/brandon3055/Draconic-Evolution  
+git clone https://github.com/brandon3055/Draconic-Evolution  
+11 https://github.com/DataDog/dd-trace-java  
+git clone https://github.com/DataDog/dd-trace-java  
+12 https://github.com/CzBiX/v2ex-android  
+git clone https://github.com/CzBiX/v2ex-android  
+13 https://github.com/apache/hama  
+git clone https://github.com/apache/hama  
+14 https://github.com/SonarSource/sonar-scanner-jenkins  
+git clone https://github.com/SonarSource/sonar-scanner-jenkins  
+15 https://github.com/tilal6991/HoloIRC  
+git clone https://github.com/tilal6991/HoloIRC  
+16 https://github.com/openwms/org.openwms  
+git clone https://github.com/openwms/org.openwms  
+17 https://github.com/MinimallyCorrect/TickThreading  
+git clone https://github.com/MinimallyCorrect/TickThreading  
+18 https://github.com/rdoeffinger/Dictionary  
+git clone https://github.com/rdoeffinger/Dictionary  
+19 https://github.com/pranab/avenir  
+git clone https://github.com/pranab/avenir  
+20 https://github.com/Blazebit/blaze-persistence  
+git clone https://github.com/Blazebit/blaze-persistence  
+21 https://github.com/TobiasBielefeld/Simple-Solitaire  
+git clone https://github.com/TobiasBielefeld/Simple-Solitaire  
+22 https://github.com/MyRobotLab/myrobotlab  
+git clone https://github.com/MyRobotLab/myrobotlab  
+23 https://github.com/gateship-one/odyssey  
+git clone https://github.com/gateship-one/odyssey  
+24 https://github.com/fcrepo4/fcrepo4  
+git clone https://github.com/fcrepo4/fcrepo4  
+25 https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android  
+git clone https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android  
+26 https://github.com/RomRaider/RomRaider  
+git clone https://github.com/RomRaider/RomRaider  
+27 https://github.com/sdbg/sdbg  
+git clone https://github.com/sdbg/sdbg  
+28 https://github.com/SonarSource/sonar-python  
+git clone https://github.com/SonarSource/sonar-python  
+29 https://github.com/Pardot/Rhombus  
+git clone https://github.com/Pardot/Rhombus  
+30 https://github.com/GregTechCE/GregTech  
+git clone https://github.com/GregTechCE/GregTech  
+31 https://github.com/cantaloupe-project/cantaloupe  
+git clone https://github.com/cantaloupe-project/cantaloupe  
+32 https://github.com/iChun/Morph  
+git clone https://github.com/iChun/Morph  
+33 https://github.com/mycontroller-org/mycontroller  
+git clone https://github.com/mycontroller-org/mycontroller  
+34 https://github.com/Omertron/api-themoviedb  
+git clone https://github.com/Omertron/api-themoviedb  
+35 https://github.com/jenkinsci/jira-plugin  
+git clone https://github.com/jenkinsci/jira-plugin  
+36 https://github.com/HyperiumClient/Hyperium  
+git clone https://github.com/HyperiumClient/Hyperium  
+37 https://github.com/TeamCohen/ProPPR  
+git clone https://github.com/TeamCohen/ProPPR  
+38 https://github.com/OpenSOC/opensoc-streaming  
+git clone https://github.com/OpenSOC/opensoc-streaming  
+39 https://github.com/hypergraphdb/hypergraphdb  
+git clone https://github.com/hypergraphdb/hypergraphdb  
+40 https://github.com/vert-x3/vertx-rx  
+git clone https://github.com/vert-x3/vertx-rx  
+41 https://github.com/uber/tchannel-java  
+git clone https://github.com/uber/tchannel-java  
+42 https://github.com/dragon66/icafe  
+git clone https://github.com/dragon66/icafe  
+43 https://github.com/bitquest/bitquest  
+git clone https://github.com/bitquest/bitquest  
+44 https://github.com/leibnitz27/cfr  
+git clone https://github.com/leibnitz27/cfr  
+45 https://github.com/kframework/k  
+git clone https://github.com/kframework/k  
+46 https://github.com/ICIJ/datashare  
+git clone https://github.com/ICIJ/datashare  
+47 https://github.com/ExtraCells/ExtraCells2  
+git clone https://github.com/ExtraCells/ExtraCells2  
+48 https://github.com/ReplayMod/ReplayMod  
+git clone https://github.com/ReplayMod/ReplayMod  
+49 https://github.com/omegat-org/omegat  
+git clone https://github.com/omegat-org/omegat  
+50 https://github.com/plan-player-analytics/Plan  
+git clone https://github.com/plan-player-analytics/Plan  
+50

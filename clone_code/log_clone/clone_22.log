@@ -1,0 +1,155 @@
+nohup: ignoring input
+Cloning into '/root/repos/repos22/logbook'...
+Cloning into '/root/repos/repos22/arcgis-runtime-samples-android'...
+Cloning into '/root/repos/repos22/zulip-android'...
+Cloning into '/root/repos/repos22/lunar-unity-console'...
+Cloning into '/root/repos/repos22/spring-petclinic-microservices'...
+Cloning into '/root/repos/repos22/scala-maven-plugin'...
+Cloning into '/root/repos/repos22/Argus'...
+Cloning into '/root/repos/repos22/nfe'...
+Cloning into '/root/repos/repos22/asciidoctorj'...
+Cloning into '/root/repos/repos22/jtransc'...
+Cloning into '/root/repos/repos22/MercuryTrade'...
+Cloning into '/root/repos/repos22/JAVMovieScraper'...
+Cloning into '/root/repos/repos22/FairEmail'...
+Cloning into '/root/repos/repos22/roaster'...
+Cloning into '/root/repos/repos22/Web-Karma'...
+Cloning into '/root/repos/repos22/pgjdbc-ng'...
+Cloning into '/root/repos/repos22/choco-solver'...
+Cloning into '/root/repos/repos22/SonarJS'...
+Cloning into '/root/repos/repos22/sdrtrunk'...
+Cloning into '/root/repos/repos22/threetenbp'...
+Cloning into '/root/repos/repos22/chatty'...
+Cloning into '/root/repos/repos22/javaewah'...
+Cloning into '/root/repos/repos22/classpy'...
+Cloning into '/root/repos/repos22/fest-assert-2.x'...
+Cloning into '/root/repos/repos22/jcabi-aspects'...
+Cloning into '/root/repos/repos22/docker-plugin'...
+Cloning into '/root/repos/repos22/libjitsi'...
+Cloning into '/root/repos/repos22/dble'...
+Cloning into '/root/repos/repos22/collect'...
+Cloning into '/root/repos/repos22/lumify'...
+Checking out files:  55% (2868/5172)   Checking out files:  56% (2897/5172)   Checking out files:  57% (2949/5172)   Checking out files:  58% (3000/5172)   Checking out files:  59% (3052/5172)   Checking out files:  60% (3104/5172)   Checking out files:  61% (3155/5172)   Checking out files:  62% (3207/5172)   Checking out files:  63% (3259/5172)   Checking out files:  64% (3311/5172)   Checking out files:  65% (3362/5172)   Checking out files:  66% (3414/5172)   Checking out files:  67% (3466/5172)   Checking out files:  68% (3517/5172)   Checking out files:  69% (3569/5172)   Checking out files:  70% (3621/5172)   Checking out files:  71% (3673/5172)   Checking out files:  72% (3724/5172)   Checking out files:  73% (3776/5172)   Checking out files:  74% (3828/5172)   Checking out files:  75% (3879/5172)   Checking out files:  76% (3931/5172)   Checking out files:  77% (3983/5172)   Checking out files:  78% (4035/5172)   Checking out files:  79% (4086/5172)   Checking out files:  80% (4138/5172)   Checking out files:  81% (4190/5172)   Checking out files:  82% (4242/5172)   Checking out files:  83% (4293/5172)   Checking out files:  84% (4345/5172)   Checking out files:  85% (4397/5172)   Checking out files:  86% (4448/5172)   Checking out files:  87% (4500/5172)   Checking out files:  88% (4552/5172)   Checking out files:  89% (4604/5172)   Checking out files:  90% (4655/5172)   Checking out files:  91% (4707/5172)   Checking out files:  92% (4759/5172)   Checking out files:  93% (4810/5172)   Checking out files:  94% (4862/5172)   Checking out files:  95% (4914/5172)   Checking out files:  96% (4966/5172)   Checking out files:  97% (5017/5172)   Checking out files:  98% (5069/5172)   Checking out files:  99% (5121/5172)   Checking out files: 100% (5172/5172)   Checking out files: 100% (5172/5172), done.
+Cloning into '/root/repos/repos22/sirix'...
+Cloning into '/root/repos/repos22/es4j'...
+Cloning into '/root/repos/repos22/json-schema'...
+Cloning into '/root/repos/repos22/runnerup'...
+Cloning into '/root/repos/repos22/redpen'...
+Cloning into '/root/repos/repos22/sls'...
+Cloning into '/root/repos/repos22/clarity'...
+Cloning into '/root/repos/repos22/deltachat-android'...
+Cloning into '/root/repos/repos22/openiot'...
+Cloning into '/root/repos/repos22/KeePassDX'...
+Cloning into '/root/repos/repos22/azure-sdk-for-java'...
+Checking out files:  28% (10463/37214)   Checking out files:  29% (10793/37214)   Checking out files:  30% (11165/37214)   Checking out files:  31% (11537/37214)   Checking out files:  32% (11909/37214)   Checking out files:  33% (12281/37214)   Checking out files:  34% (12653/37214)   Checking out files:  35% (13025/37214)   Checking out files:  36% (13398/37214)   Checking out files:  37% (13770/37214)   Checking out files:  38% (14142/37214)   Checking out files:  39% (14514/37214)   Checking out files:  40% (14886/37214)   Checking out files:  41% (15258/37214)   Checking out files:  42% (15630/37214)   Checking out files:  43% (16003/37214)   Checking out files:  44% (16375/37214)   Checking out files:  45% (16747/37214)   Checking out files:  46% (17119/37214)   Checking out files:  47% (17491/37214)   Checking out files:  48% (17863/37214)   Checking out files:  49% (18235/37214)   Checking out files:  50% (18607/37214)   Checking out files:  51% (18980/37214)   Checking out files:  52% (19352/37214)   Checking out files:  53% (19724/37214)   Checking out files:  54% (20096/37214)   Checking out files:  54% (20336/37214)   Checking out files:  55% (20468/37214)   Checking out files:  56% (20840/37214)   Checking out files:  57% (21212/37214)   Checking out files:  58% (21585/37214)   Checking out files:  59% (21957/37214)   Checking out files:  60% (22329/37214)   Checking out files:  61% (22701/37214)   Checking out files:  62% (23073/37214)   Checking out files:  63% (23445/37214)   Checking out files:  64% (23817/37214)   Checking out files:  65% (24190/37214)   Checking out files:  66% (24562/37214)   Checking out files:  67% (24934/37214)   Checking out files:  68% (25306/37214)   Checking out files:  69% (25678/37214)   Checking out files:  70% (26050/37214)   Checking out files:  71% (26422/37214)   Checking out files:  72% (26795/37214)   Checking out files:  73% (27167/37214)   Checking out files:  74% (27539/37214)   Checking out files:  75% (27911/37214)   Checking out files:  76% (28283/37214)   Checking out files:  77% (28655/37214)   Checking out files:  78% (29027/37214)   Checking out files:  79% (29400/37214)   Checking out files:  80% (29772/37214)   Checking out files:  81% (30144/37214)   Checking out files:  82% (30516/37214)   Checking out files:  82% (30623/37214)   Checking out files:  83% (30888/37214)   Checking out files:  84% (31260/37214)   Checking out files:  85% (31632/37214)   Checking out files:  86% (32005/37214)   Checking out files:  87% (32377/37214)   Checking out files:  88% (32749/37214)   Checking out files:  89% (33121/37214)   Checking out files:  90% (33493/37214)   Checking out files:  91% (33865/37214)   Checking out files:  92% (34237/37214)   Checking out files:  93% (34610/37214)   Checking out files:  94% (34982/37214)   Checking out files:  95% (35354/37214)   Checking out files:  96% (35726/37214)   Checking out files:  97% (36098/37214)   Checking out files:  98% (36470/37214)   Checking out files:  99% (36842/37214)   Checking out files: 100% (37214/37214)   Checking out files: 100% (37214/37214), done.
+Cloning into '/root/repos/repos22/line-bot-sdk-java'...
+Cloning into '/root/repos/repos22/ghprb-plugin'...
+Cloning into '/root/repos/repos22/equalsverifier'...
+Cloning into '/root/repos/repos22/FishBun'...
+Cloning into '/root/repos/repos22/prey-android-client'...
+Cloning into '/root/repos/repos22/database'...
+Checking out files:  78% (5842/7398)   Checking out files:  79% (5845/7398)   Checking out files:  80% (5919/7398)   Checking out files:  81% (5993/7398)   Checking out files:  82% (6067/7398)   Checking out files:  83% (6141/7398)   Checking out files:  84% (6215/7398)   Checking out files:  85% (6289/7398)   Checking out files:  86% (6363/7398)   Checking out files:  87% (6437/7398)   Checking out files:  88% (6511/7398)   Checking out files:  89% (6585/7398)   Checking out files:  90% (6659/7398)   Checking out files:  91% (6733/7398)   Checking out files:  92% (6807/7398)   Checking out files:  93% (6881/7398)   Checking out files:  94% (6955/7398)   Checking out files:  95% (7029/7398)   Checking out files:  96% (7103/7398)   Checking out files:  97% (7177/7398)   Checking out files:  98% (7251/7398)   Checking out files:  99% (7325/7398)   Checking out files: 100% (7398/7398)   Checking out files: 100% (7398/7398), done.
+Cloning into '/root/repos/repos22/FirefoxReality'...
+Cloning into '/root/repos/repos22/robocode'...
+Cloning into '/root/repos/repos22/Railcraft'...
+1 https://github.com/zalando/logbook  
+git clone https://github.com/zalando/logbook  
+2 https://github.com/Esri/arcgis-runtime-samples-android  
+git clone https://github.com/Esri/arcgis-runtime-samples-android  
+3 https://github.com/zulip/zulip-android  
+git clone https://github.com/zulip/zulip-android  
+4 https://github.com/SpaceMadness/lunar-unity-console  
+git clone https://github.com/SpaceMadness/lunar-unity-console  
+5 https://github.com/spring-petclinic/spring-petclinic-microservices  
+git clone https://github.com/spring-petclinic/spring-petclinic-microservices  
+6 https://github.com/davidB/scala-maven-plugin  
+git clone https://github.com/davidB/scala-maven-plugin  
+7 https://github.com/salesforce/Argus  
+git clone https://github.com/salesforce/Argus  
+8 https://github.com/wmixvideo/nfe  
+git clone https://github.com/wmixvideo/nfe  
+9 https://github.com/asciidoctor/asciidoctorj  
+git clone https://github.com/asciidoctor/asciidoctorj  
+10 https://github.com/jtransc/jtransc  
+git clone https://github.com/jtransc/jtransc  
+11 https://github.com/Exslims/MercuryTrade  
+git clone https://github.com/Exslims/MercuryTrade  
+12 https://github.com/DoctorD1501/JAVMovieScraper  
+git clone https://github.com/DoctorD1501/JAVMovieScraper  
+13 https://github.com/M66B/FairEmail  
+git clone https://github.com/M66B/FairEmail  
+14 https://github.com/forge/roaster  
+git clone https://github.com/forge/roaster  
+15 https://github.com/usc-isi-i2/Web-Karma  
+git clone https://github.com/usc-isi-i2/Web-Karma  
+16 https://github.com/impossibl/pgjdbc-ng  
+git clone https://github.com/impossibl/pgjdbc-ng  
+17 https://github.com/chocoteam/choco-solver  
+git clone https://github.com/chocoteam/choco-solver  
+18 https://github.com/SonarSource/SonarJS  
+git clone https://github.com/SonarSource/SonarJS  
+19 https://github.com/DSheirer/sdrtrunk  
+git clone https://github.com/DSheirer/sdrtrunk  
+20 https://github.com/ThreeTen/threetenbp  
+git clone https://github.com/ThreeTen/threetenbp  
+21 https://github.com/chatty/chatty  
+git clone https://github.com/chatty/chatty  
+22 https://github.com/lemire/javaewah  
+git clone https://github.com/lemire/javaewah  
+23 https://github.com/zxh0/classpy  
+git clone https://github.com/zxh0/classpy  
+24 https://github.com/alexruiz/fest-assert-2.x  
+git clone https://github.com/alexruiz/fest-assert-2.x  
+25 https://github.com/jcabi/jcabi-aspects  
+git clone https://github.com/jcabi/jcabi-aspects  
+26 https://github.com/jenkinsci/docker-plugin  
+git clone https://github.com/jenkinsci/docker-plugin  
+27 https://github.com/jitsi/libjitsi  
+git clone https://github.com/jitsi/libjitsi  
+28 https://github.com/actiontech/dble  
+git clone https://github.com/actiontech/dble  
+29 https://github.com/opendatakit/collect  
+git clone https://github.com/opendatakit/collect  
+30 https://github.com/lumifyio/lumify  
+git clone https://github.com/lumifyio/lumify  
+31 https://github.com/sirixdb/sirix  
+git clone https://github.com/sirixdb/sirix  
+32 https://github.com/eventsourcing/es4j  
+git clone https://github.com/eventsourcing/es4j  
+33 https://github.com/everit-org/json-schema  
+git clone https://github.com/everit-org/json-schema  
+34 https://github.com/jonasoreland/runnerup  
+git clone https://github.com/jonasoreland/runnerup  
+35 https://github.com/redpen-cc/redpen  
+git clone https://github.com/redpen-cc/redpen  
+36 https://github.com/tgwizard/sls  
+git clone https://github.com/tgwizard/sls  
+37 https://github.com/skadistats/clarity  
+git clone https://github.com/skadistats/clarity  
+38 https://github.com/deltachat/deltachat-android  
+git clone https://github.com/deltachat/deltachat-android  
+39 https://github.com/OpenIotOrg/openiot  
+git clone https://github.com/OpenIotOrg/openiot  
+40 https://github.com/Kunzisoft/KeePassDX  
+git clone https://github.com/Kunzisoft/KeePassDX  
+41 https://github.com/Azure/azure-sdk-for-java  
+git clone https://github.com/Azure/azure-sdk-for-java  
+42 https://github.com/line/line-bot-sdk-java  
+git clone https://github.com/line/line-bot-sdk-java  
+43 https://github.com/jenkinsci/ghprb-plugin  
+git clone https://github.com/jenkinsci/ghprb-plugin  
+44 https://github.com/jqno/equalsverifier  
+git clone https://github.com/jqno/equalsverifier  
+45 https://github.com/sangcomz/FishBun  
+git clone https://github.com/sangcomz/FishBun  
+46 https://github.com/prey/prey-android-client  
+git clone https://github.com/prey/prey-android-client  
+47 https://github.com/blazegraph/database  
+git clone https://github.com/blazegraph/database  
+48 https://github.com/MozillaReality/FirefoxReality  
+git clone https://github.com/MozillaReality/FirefoxReality  
+49 https://github.com/robo-code/robocode  
+git clone https://github.com/robo-code/robocode  
+50 https://github.com/Railcraft/Railcraft  
+git clone https://github.com/Railcraft/Railcraft  
+50

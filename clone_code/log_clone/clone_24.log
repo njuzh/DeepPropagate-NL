@@ -1,0 +1,306 @@
+nohup: ignoring input
+Cloning into '/root/repos/repos24/hazelcast-jet'...
+Cloning into '/root/repos/repos24/shimmer'...
+Cloning into '/root/repos/repos24/getdown'...
+Cloning into '/root/repos/repos24/play-pac4j'...
+Cloning into '/root/repos/repos24/ShaderEditor'...
+Cloning into '/root/repos/repos24/docker-compose-rule'...
+Cloning into '/root/repos/repos24/seadroid'...
+Cloning into '/root/repos/repos24/jdeb'...
+Cloning into '/root/repos/repos24/QuickLyric'...
+Cloning into '/root/repos/repos24/dependency-track'...
+Cloning into '/root/repos/repos24/zoie'...
+Cloning into '/root/repos/repos24/sonarlint-intellij'...
+Cloning into '/root/repos/repos24/osmosis'...
+Cloning into '/root/repos/repos24/dddlib'...
+Cloning into '/root/repos/repos24/jasperreports'...
+Cloning into '/root/repos/repos24/opensearchserver'...
+Cloning into '/root/repos/repos24/struts-examples'...
+Cloning into '/root/repos/repos24/leshan'...
+Cloning into '/root/repos/repos24/btm'...
+Cloning into '/root/repos/repos24/luwak'...
+Cloning into '/root/repos/repos24/Kore'...
+Cloning into '/root/repos/repos24/ForestryMC'...
+Cloning into '/root/repos/repos24/mybatis-dynamic-sql'...
+Cloning into '/root/repos/repos24/swagger-parser'...
+Cloning into '/root/repos/repos24/jinjava'...
+Cloning into '/root/repos/repos24/heimdall'...
+Cloning into '/root/repos/repos24/acs-aem-commons'...
+Cloning into '/root/repos/repos24/onebusaway-android'...
+Cloning into '/root/repos/repos24/gerrit-intellij-plugin'...
+Cloning into '/root/repos/repos24/vraptor4'...
+Cloning into '/root/repos/repos24/threadfix'...
+Cloning into '/root/repos/repos24/batfish'...
+Cloning into '/root/repos/repos24/gwtbootstrap3'...
+Cloning into '/root/repos/repos24/android-support-preference'...
+Cloning into '/root/repos/repos24/spring-data-solr'...
+Cloning into '/root/repos/repos24/spotify-web-api-java'...
+Cloning into '/root/repos/repos24/nuls'...
+Cloning into '/root/repos/repos24/japicmp'...
+Cloning into '/root/repos/repos24/BiglyBT'...
+Cloning into '/root/repos/repos24/waffle'...
+Cloning into '/root/repos/repos24/apex-core'...
+Cloning into '/root/repos/repos24/mesh'...
+Checking out files:  98% (2990/3044)   Checking out files:  99% (3014/3044)   Checking out files: 100% (3044/3044)   Checking out files: 100% (3044/3044), done.
+Cloning into '/root/repos/repos24/GWTP'...
+Cloning into '/root/repos/repos24/problem-spring-web'...
+Cloning into '/root/repos/repos24/la4j'...
+Cloning into '/root/repos/repos24/spring-security-saml'...
+Cloning into '/root/repos/repos24/glucosio-android'...
+Cloning into '/root/repos/repos24/neuroph'...
+Checking out files:  33% (2262/6742)   Checking out files:  34% (2293/6742)   Checking out files:  35% (2360/6742)   Checking out files:  36% (2428/6742)   Checking out files:  37% (2495/6742)   Checking out files:  38% (2562/6742)   Checking out files:  39% (2630/6742)   Checking out files:  40% (2697/6742)   Checking out files:  41% (2765/6742)   Checking out files:  42% (2832/6742)   Checking out files:  43% (2900/6742)   Checking out files:  44% (2967/6742)   Checking out files:  45% (3034/6742)   Checking out files:  46% (3102/6742)   Checking out files:  47% (3169/6742)   Checking out files:  48% (3237/6742)   Checking out files:  49% (3304/6742)   Checking out files:  50% (3371/6742)   Checking out files:  51% (3439/6742)   Checking out files:  52% (3506/6742)   Checking out files:  53% (3574/6742)   Checking out files:  54% (3641/6742)   Checking out files:  55% (3709/6742)   Checking out files:  56% (3776/6742)   Checking out files:  57% (3843/6742)   Checking out files:  58% (3911/6742)   Checking out files:  59% (3978/6742)   Checking out files:  60% (4046/6742)   Checking out files:  61% (4113/6742)   Checking out files:  62% (4181/6742)   Checking out files:  63% (4248/6742)   Checking out files:  64% (4315/6742)   Checking out files:  65% (4383/6742)   Checking out files:  66% (4450/6742)   Checking out files:  67% (4518/6742)   Checking out files:  68% (4585/6742)   Checking out files:  69% (4652/6742)   Checking out files:  70% (4720/6742)   Checking out files:  71% (4787/6742)   Checking out files:  72% (4855/6742)   Checking out files:  73% (4922/6742)   Checking out files:  74% (4990/6742)   Checking out files:  75% (5057/6742)   Checking out files:  76% (5124/6742)   Checking out files:  77% (5192/6742)   Checking out files:  78% (5259/6742)   Checking out files:  79% (5327/6742)   Checking out files:  80% (5394/6742)   Checking out files:  81% (5462/6742)   Checking out files:  82% (5529/6742)   Checking out files:  83% (5596/6742)   Checking out files:  84% (5664/6742)   Checking out files:  85% (5731/6742)   Checking out files:  86% (5799/6742)   Checking out files:  87% (5866/6742)   Checking out files:  88% (5933/6742)   Checking out files:  89% (6001/6742)   Checking out files:  90% (6068/6742)   Checking out files:  91% (6136/6742)   Checking out files:  92% (6203/6742)   Checking out files:  93% (6271/6742)   Checking out files:  94% (6338/6742)   Checking out files:  95% (6405/6742)   Checking out files:  96% (6473/6742)   Checking out files:  97% (6540/6742)   Checking out files:  98% (6608/6742)   Checking out files:  98% (6617/6742)   Checking out files:  99% (6675/6742)   Checking out files: 100% (6742/6742)   Checking out files: 100% (6742/6742), done.
+Cloning into '/root/repos/repos24/msf4j'...
+Cloning into '/root/repos/repos24/athenz'...
+Cloning into '/root/repos/repos24/Images-to-PDF'...
+Cloning into '/root/repos/repos24/twilio-java'...
+Cloning into '/root/repos/repos24/stag-java'...
+Cloning into '/root/repos/repos24/jpmml-sklearn'...
+Cloning into '/root/repos/repos24/hibernate-search'...
+Cloning into '/root/repos/repos24/httl'...
+Cloning into '/root/repos/repos24/mamute'...
+Cloning into '/root/repos/repos24/nem.core'...
+Cloning into '/root/repos/repos24/esapi-java-legacy'...
+Cloning into '/root/repos/repos24/tatami'...
+Cloning into '/root/repos/repos24/spring-cloud-gcp'...
+Cloning into '/root/repos/repos24/greenmail'...
+Cloning into '/root/repos/repos24/kontraktor'...
+Cloning into '/root/repos/repos24/milo'...
+Cloning into '/root/repos/repos24/pojobuilder'...
+Cloning into '/root/repos/repos24/fabric-net-server'...
+Cloning into '/root/repos/repos24/Opengur'...
+Cloning into '/root/repos/repos24/universa'...
+Cloning into '/root/repos/repos24/streamsupport'...
+Cloning into '/root/repos/repos24/UniAuth'...
+Cloning into '/root/repos/repos24/jeddict'...
+Cloning into '/root/repos/repos24/BiomesOPlenty'...
+Cloning into '/root/repos/repos24/biojava'...
+Cloning into '/root/repos/repos24/funktion-connectors'...
+Cloning into '/root/repos/repos24/antlr4cs'...
+Cloning into '/root/repos/repos24/SweetBlue'...
+Cloning into '/root/repos/repos24/jmockit1'...
+Cloning into '/root/repos/repos24/scalecube-services'...
+Cloning into '/root/repos/repos24/symmetric-ds'...
+Cloning into '/root/repos/repos24/concourse'...
+Cloning into '/root/repos/repos24/AndroidRivers'...
+Cloning into '/root/repos/repos24/hubroid'...
+Cloning into '/root/repos/repos24/arduino-eclipse-plugin'...
+1 https://github.com/hazelcast/hazelcast-jet  
+git clone https://github.com/hazelcast/hazelcast-jet  
+2 https://github.com/openmhealth/shimmer  
+git clone https://github.com/openmhealth/shimmer  
+3 https://github.com/threerings/getdown  
+git clone https://github.com/threerings/getdown  
+4 https://github.com/pac4j/play-pac4j  
+git clone https://github.com/pac4j/play-pac4j  
+5 https://github.com/markusfisch/ShaderEditor  
+git clone https://github.com/markusfisch/ShaderEditor  
+6 https://github.com/palantir/docker-compose-rule  
+git clone https://github.com/palantir/docker-compose-rule  
+7 https://github.com/haiwen/seadroid  
+git clone https://github.com/haiwen/seadroid  
+8 https://github.com/tcurdt/jdeb  
+git clone https://github.com/tcurdt/jdeb  
+9 https://github.com/QuickLyric/QuickLyric  
+git clone https://github.com/QuickLyric/QuickLyric  
+10 https://github.com/DependencyTrack/dependency-track  
+git clone https://github.com/DependencyTrack/dependency-track  
+11 https://github.com/senseidb/zoie  
+git clone https://github.com/senseidb/zoie  
+12 https://github.com/SonarSource/sonarlint-intellij  
+git clone https://github.com/SonarSource/sonarlint-intellij  
+13 https://github.com/openstreetmap/osmosis  
+git clone https://github.com/openstreetmap/osmosis  
+14 https://github.com/dayatang/dddlib  
+git clone https://github.com/dayatang/dddlib  
+15 https://github.com/TIBCOSoftware/jasperreports  
+git clone https://github.com/TIBCOSoftware/jasperreports  
+16 https://github.com/jaeksoft/opensearchserver  
+git clone https://github.com/jaeksoft/opensearchserver  
+17 https://github.com/apache/struts-examples  
+git clone https://github.com/apache/struts-examples  
+18 https://github.com/eclipse/leshan  
+git clone https://github.com/eclipse/leshan  
+19 https://github.com/bitronix/btm  
+git clone https://github.com/bitronix/btm  
+20 https://github.com/flaxsearch/luwak  
+git clone https://github.com/flaxsearch/luwak  
+21 https://github.com/xbmc/Kore  
+git clone https://github.com/xbmc/Kore  
+22 https://github.com/ForestryMC/ForestryMC  
+git clone https://github.com/ForestryMC/ForestryMC  
+23 https://github.com/mybatis/mybatis-dynamic-sql  
+git clone https://github.com/mybatis/mybatis-dynamic-sql  
+24 https://github.com/swagger-api/swagger-parser  
+git clone https://github.com/swagger-api/swagger-parser  
+25 https://github.com/HubSpot/jinjava  
+git clone https://github.com/HubSpot/jinjava  
+26 https://github.com/getheimdall/heimdall  
+git clone https://github.com/getheimdall/heimdall  
+27 https://github.com/Adobe-Consulting-Services/acs-aem-commons  
+git clone https://github.com/Adobe-Consulting-Services/acs-aem-commons  
+28 https://github.com/OneBusAway/onebusaway-android  
+git clone https://github.com/OneBusAway/onebusaway-android  
+29 https://github.com/uwolfer/gerrit-intellij-plugin  
+git clone https://github.com/uwolfer/gerrit-intellij-plugin  
+30 https://github.com/caelum/vraptor4  
+git clone https://github.com/caelum/vraptor4  
+31 https://github.com/denimgroup/threadfix  
+git clone https://github.com/denimgroup/threadfix  
+32 https://github.com/batfish/batfish  
+git clone https://github.com/batfish/batfish  
+33 https://github.com/gwtbootstrap3/gwtbootstrap3  
+git clone https://github.com/gwtbootstrap3/gwtbootstrap3  
+34 https://github.com/consp1racy/android-support-preference  
+git clone https://github.com/consp1racy/android-support-preference  
+35 https://github.com/spring-projects/spring-data-solr  
+git clone https://github.com/spring-projects/spring-data-solr  
+36 https://github.com/thelinmichael/spotify-web-api-java  
+git clone https://github.com/thelinmichael/spotify-web-api-java  
+37 https://github.com/nuls-io/nuls  
+git clone https://github.com/nuls-io/nuls  
+38 https://github.com/siom79/japicmp  
+git clone https://github.com/siom79/japicmp  
+39 https://github.com/BiglySoftware/BiglyBT  
+git clone https://github.com/BiglySoftware/BiglyBT  
+40 https://github.com/Waffle/waffle  
+git clone https://github.com/Waffle/waffle  
+41 https://github.com/apache/apex-core  
+git clone https://github.com/apache/apex-core  
+42 https://github.com/gentics/mesh  
+git clone https://github.com/gentics/mesh  
+43 https://github.com/ArcBees/GWTP  
+git clone https://github.com/ArcBees/GWTP  
+44 https://github.com/zalando/problem-spring-web  
+git clone https://github.com/zalando/problem-spring-web  
+45 https://github.com/vkostyukov/la4j  
+git clone https://github.com/vkostyukov/la4j  
+46 https://github.com/spring-projects/spring-security-saml  
+git clone https://github.com/spring-projects/spring-security-saml  
+47 https://github.com/Glucosio/glucosio-android  
+git clone https://github.com/Glucosio/glucosio-android  
+48 https://github.com/neuroph/neuroph  
+git clone https://github.com/neuroph/neuroph  
+49 https://github.com/wso2/msf4j  
+git clone https://github.com/wso2/msf4j  
+50 https://github.com/yahoo/athenz  
+git clone https://github.com/yahoo/athenz  
+51 https://github.com/Swati4star/Images-to-PDF  
+git clone https://github.com/Swati4star/Images-to-PDF  
+52 https://github.com/twilio/twilio-java  
+git clone https://github.com/twilio/twilio-java  
+53 https://github.com/vimeo/stag-java  
+git clone https://github.com/vimeo/stag-java  
+54 https://github.com/jpmml/jpmml-sklearn  
+git clone https://github.com/jpmml/jpmml-sklearn  
+55 https://github.com/hibernate/hibernate-search  
+git clone https://github.com/hibernate/hibernate-search  
+56 https://github.com/httl/httl  
+git clone https://github.com/httl/httl  
+57 https://github.com/caelum/mamute  
+git clone https://github.com/caelum/mamute  
+58 https://github.com/NemProject/nem.core  
+git clone https://github.com/NemProject/nem.core  
+59 https://github.com/ESAPI/esapi-java-legacy  
+git clone https://github.com/ESAPI/esapi-java-legacy  
+60 https://github.com/ippontech/tatami  
+git clone https://github.com/ippontech/tatami  
+61 https://github.com/spring-cloud/spring-cloud-gcp  
+git clone https://github.com/spring-cloud/spring-cloud-gcp  
+62 https://github.com/greenmail-mail-test/greenmail  
+git clone https://github.com/greenmail-mail-test/greenmail  
+63 https://github.com/RuedigerMoeller/kontraktor  
+git clone https://github.com/RuedigerMoeller/kontraktor  
+64 https://github.com/eclipse/milo  
+git clone https://github.com/eclipse/milo  
+65 https://github.com/mkarneim/pojobuilder  
+git clone https://github.com/mkarneim/pojobuilder  
+66 https://github.com/aberic/fabric-net-server  
+git clone https://github.com/aberic/fabric-net-server  
+67 https://github.com/Kennyc1012/Opengur  
+git clone https://github.com/Kennyc1012/Opengur  
+68 https://github.com/UniversaBlockchain/universa  
+git clone https://github.com/UniversaBlockchain/universa  
+69 https://github.com/streamsupport/streamsupport  
+git clone https://github.com/streamsupport/streamsupport  
+70 https://github.com/dianrong/UniAuth  
+git clone https://github.com/dianrong/UniAuth  
+71 https://github.com/jeddict/jeddict  
+git clone https://github.com/jeddict/jeddict  
+72 https://github.com/Glitchfiend/BiomesOPlenty  
+git clone https://github.com/Glitchfiend/BiomesOPlenty  
+73 https://github.com/biojava/biojava  
+git clone https://github.com/biojava/biojava  
+74 https://github.com/funktionio/funktion-connectors  
+git clone https://github.com/funktionio/funktion-connectors  
+75 https://github.com/tunnelvisionlabs/antlr4cs  
+git clone https://github.com/tunnelvisionlabs/antlr4cs  
+76 https://github.com/iDevicesInc/SweetBlue  
+git clone https://github.com/iDevicesInc/SweetBlue  
+77 https://github.com/jmockit/jmockit1  
+git clone https://github.com/jmockit/jmockit1  
+78 https://github.com/scalecube/scalecube-services  
+git clone https://github.com/scalecube/scalecube-services  
+79 https://github.com/JumpMind/symmetric-ds  
+git clone https://github.com/JumpMind/symmetric-ds  
+80 https://github.com/cinchapi/concourse  
+git clone https://github.com/cinchapi/concourse  
+81 https://github.com/dodyg/AndroidRivers  
+git clone https://github.com/dodyg/AndroidRivers  
+82 https://github.com/EddieRingle/hubroid  
+git clone https://github.com/EddieRingle/hubroid  
+83 https://github.com/Sloeber/arduino-eclipse-plugin  
+git clone https://github.com/Sloeber/arduino-eclipse-plugin  
+84 https://github.com/camelinaction/camelinaction2  Cloning into '/root/repos/repos24/camelinaction2'...
+Cloning into '/root/repos/repos24/sqlite-provider'...
+Cloning into '/root/repos/repos24/VUE'...
+Cloning into '/root/repos/repos24/jediterm'...
+Cloning into '/root/repos/repos24/james-project'...
+Checking out files:  81% (5693/6963)   Checking out files:  82% (5710/6963)   Checking out files:  83% (5780/6963)   Checking out files:  84% (5849/6963)   Checking out files:  85% (5919/6963)   Checking out files:  86% (5989/6963)   Checking out files:  87% (6058/6963)   Checking out files:  88% (6128/6963)   Checking out files:  89% (6198/6963)   Checking out files:  90% (6267/6963)   Checking out files:  91% (6337/6963)   Checking out files:  92% (6406/6963)   Checking out files:  93% (6476/6963)   Checking out files:  94% (6546/6963)   Checking out files:  95% (6615/6963)   Checking out files:  96% (6685/6963)   Checking out files:  97% (6755/6963)   Checking out files:  98% (6824/6963)   Checking out files:  99% (6894/6963)   Checking out files: 100% (6963/6963)   Checking out files: 100% (6963/6963), done.
+Cloning into '/root/repos/repos24/spring-cloud-commons'...
+Cloning into '/root/repos/repos24/Book-Catalogue'...
+Cloning into '/root/repos/repos24/phoenicis'...
+Cloning into '/root/repos/repos24/hbase-indexer'...
+Cloning into '/root/repos/repos24/openrouteservice'...
+Cloning into '/root/repos/repos24/proctor'...
+Cloning into '/root/repos/repos24/fineract'...
+Cloning into '/root/repos/repos24/cascading'...
+Cloning into '/root/repos/repos24/reader'...
+Cloning into '/root/repos/repos24/Subsonic'...
+Cloning into '/root/repos/repos24/aion'...
+Checking out files:  99% (1443/1450)   Checking out files: 100% (1450/1450)   Checking out files: 100% (1450/1450), done.
+Cloning into '/root/repos/repos24/webprotege'...
+
+git clone https://github.com/camelinaction/camelinaction2  
+85 https://github.com/novoda/sqlite-provider  
+git clone https://github.com/novoda/sqlite-provider  
+86 https://github.com/VUE/VUE  
+git clone https://github.com/VUE/VUE  
+87 https://github.com/JetBrains/jediterm  
+git clone https://github.com/JetBrains/jediterm  
+88 https://github.com/apache/james-project  
+git clone https://github.com/apache/james-project  
+89 https://github.com/spring-cloud/spring-cloud-commons  
+git clone https://github.com/spring-cloud/spring-cloud-commons  
+90 https://github.com/eleybourn/Book-Catalogue  
+git clone https://github.com/eleybourn/Book-Catalogue  
+91 https://github.com/PhoenicisOrg/phoenicis  
+git clone https://github.com/PhoenicisOrg/phoenicis  
+92 https://github.com/NGDATA/hbase-indexer  
+git clone https://github.com/NGDATA/hbase-indexer  
+93 https://github.com/GIScience/openrouteservice  
+git clone https://github.com/GIScience/openrouteservice  
+94 https://github.com/indeedeng/proctor  
+git clone https://github.com/indeedeng/proctor  
+95 https://github.com/apache/fineract  
+git clone https://github.com/apache/fineract  
+96 https://github.com/cwensel/cascading  
+git clone https://github.com/cwensel/cascading  
+97 https://github.com/sismics/reader  
+git clone https://github.com/sismics/reader  
+98 https://github.com/daneren2005/Subsonic  
+git clone https://github.com/daneren2005/Subsonic  
+99 https://github.com/aionnetwork/aion  
+git clone https://github.com/aionnetwork/aion  
+100 https://github.com/protegeproject/webprotege  
+git clone https://github.com/protegeproject/webprotege  
+100

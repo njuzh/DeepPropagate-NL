@@ -1,0 +1,155 @@
+nohup: ignoring input
+Cloning into '/root/repos/repos36/gradoop'...
+Cloning into '/root/repos/repos36/Zom-Android-XMPP'...
+Cloning into '/root/repos/repos36/spf4j'...
+Cloning into '/root/repos/repos36/dcache'...
+Cloning into '/root/repos/repos36/meka'...
+Cloning into '/root/repos/repos36/selenium-tests'...
+Cloning into '/root/repos/repos36/nextcloud-deck'...
+Cloning into '/root/repos/repos36/AcademyCraft'...
+Cloning into '/root/repos/repos36/ingestion'...
+Cloning into '/root/repos/repos36/LibreraReader'...
+Checking out files:  83% (4426/5331)   Checking out files:  84% (4479/5331)   Checking out files:  85% (4532/5331)   Checking out files:  86% (4585/5331)   Checking out files:  87% (4638/5331)   Checking out files:  88% (4692/5331)   Checking out files:  89% (4745/5331)   Checking out files:  90% (4798/5331)   Checking out files:  91% (4852/5331)   Checking out files:  92% (4905/5331)   Checking out files:  93% (4958/5331)   Checking out files:  94% (5012/5331)   Checking out files:  95% (5065/5331)   Checking out files:  96% (5118/5331)   Checking out files:  97% (5172/5331)   Checking out files:  98% (5225/5331)   Checking out files:  99% (5278/5331)   Checking out files: 100% (5331/5331)   Checking out files: 100% (5331/5331), done.
+Cloning into '/root/repos/repos36/imixs-workflow'...
+Cloning into '/root/repos/repos36/puma'...
+Cloning into '/root/repos/repos36/congress-android'...
+Cloning into '/root/repos/repos36/rxjava2-extras'...
+Cloning into '/root/repos/repos36/cucumber-eclipse'...
+Cloning into '/root/repos/repos36/xp'...
+Cloning into '/root/repos/repos36/crnk-framework'...
+Cloning into '/root/repos/repos36/GWT-Maps-V3-Api'...
+Cloning into '/root/repos/repos36/Chronicle-Wire'...
+Cloning into '/root/repos/repos36/MaterialFiles'...
+Cloning into '/root/repos/repos36/rhq'...
+Checking out files:  69% (7118/10309)   Checking out files:  70% (7217/10309)   Checking out files:  71% (7320/10309)   Checking out files:  72% (7423/10309)   Checking out files:  73% (7526/10309)   Checking out files:  74% (7629/10309)   Checking out files:  75% (7732/10309)   Checking out files:  76% (7835/10309)   Checking out files:  77% (7938/10309)   Checking out files:  78% (8042/10309)   Checking out files:  79% (8145/10309)   Checking out files:  80% (8248/10309)   Checking out files:  81% (8351/10309)   Checking out files:  82% (8454/10309)   Checking out files:  83% (8557/10309)   Checking out files:  84% (8660/10309)   Checking out files:  85% (8763/10309)   Checking out files:  86% (8866/10309)   Checking out files:  87% (8969/10309)   Checking out files:  88% (9072/10309)   Checking out files:  89% (9176/10309)   Checking out files:  90% (9279/10309)   Checking out files:  91% (9382/10309)   Checking out files:  91% (9456/10309)   Checking out files:  92% (9485/10309)   Checking out files:  93% (9588/10309)   Checking out files:  94% (9691/10309)   Checking out files:  95% (9794/10309)   Checking out files:  96% (9897/10309)   Checking out files:  97% (10000/10309)   Checking out files:  98% (10103/10309)   Checking out files:  99% (10206/10309)   Checking out files: 100% (10309/10309)   Checking out files: 100% (10309/10309), done.
+Cloning into '/root/repos/repos36/metl'...
+Cloning into '/root/repos/repos36/http-builder-ng'...
+Cloning into '/root/repos/repos36/DynamicJasper'...
+Cloning into '/root/repos/repos36/traccar-web'...
+Cloning into '/root/repos/repos36/alfresco-sdk'...
+Cloning into '/root/repos/repos36/spring-cloud-connectors'...
+Cloning into '/root/repos/repos36/fenixedu-academic'...
+Cloning into '/root/repos/repos36/serenity-android'...
+Cloning into '/root/repos/repos36/randomizedtesting'...
+Cloning into '/root/repos/repos36/OkapiBarcode'...
+Cloning into '/root/repos/repos36/fluxtream-app'...
+Cloning into '/root/repos/repos36/osmeditor4android'...
+Cloning into '/root/repos/repos36/hadoop-common'...
+Checking out files:  83% (5565/6704)   Checking out files:  84% (5632/6704)   Checking out files:  85% (5699/6704)   Checking out files:  86% (5766/6704)   Checking out files:  87% (5833/6704)   Checking out files:  88% (5900/6704)   Checking out files:  89% (5967/6704)   Checking out files:  90% (6034/6704)   Checking out files:  91% (6101/6704)   Checking out files:  92% (6168/6704)   Checking out files:  93% (6235/6704)   Checking out files:  94% (6302/6704)   Checking out files:  95% (6369/6704)   Checking out files:  96% (6436/6704)   Checking out files:  97% (6503/6704)   Checking out files:  98% (6570/6704)   Checking out files:  99% (6637/6704)   Checking out files: 100% (6704/6704)   Checking out files: 100% (6704/6704), done.
+Cloning into '/root/repos/repos36/tesseract4java'...
+Cloning into '/root/repos/repos36/performance-plugin'...
+Cloning into '/root/repos/repos36/api-snippets'...
+Cloning into '/root/repos/repos36/incubator-brooklyn'...
+Cloning into '/root/repos/repos36/pyramid'...
+Cloning into '/root/repos/repos36/jfxtras-labs'...
+Cloning into '/root/repos/repos36/WorldWindAndroid'...
+Cloning into '/root/repos/repos36/tetrad'...
+Cloning into '/root/repos/repos36/AgriCraft'...
+Cloning into '/root/repos/repos36/hivemq-mqtt-client'...
+Cloning into '/root/repos/repos36/hudson-2.x'...
+Cloning into '/root/repos/repos36/arangodb-java-driver'...
+Cloning into '/root/repos/repos36/commons-text'...
+Cloning into '/root/repos/repos36/Ardor3D'...
+Cloning into '/root/repos/repos36/operaprestodriver'...
+Cloning into '/root/repos/repos36/copper-engine'...
+1 https://github.com/dbs-leipzig/gradoop  
+git clone https://github.com/dbs-leipzig/gradoop  
+2 https://github.com/zom/Zom-Android-XMPP  
+git clone https://github.com/zom/Zom-Android-XMPP  
+3 https://github.com/zolyfarkas/spf4j  
+git clone https://github.com/zolyfarkas/spf4j  
+4 https://github.com/dCache/dcache  
+git clone https://github.com/dCache/dcache  
+5 https://github.com/Waikato/meka  
+git clone https://github.com/Waikato/meka  
+6 https://github.com/Wikia/selenium-tests  
+git clone https://github.com/Wikia/selenium-tests  
+7 https://github.com/stefan-niedermann/nextcloud-deck  
+git clone https://github.com/stefan-niedermann/nextcloud-deck  
+8 https://github.com/LambdaInnovation/AcademyCraft  
+git clone https://github.com/LambdaInnovation/AcademyCraft  
+9 https://github.com/Stratio/ingestion  
+git clone https://github.com/Stratio/ingestion  
+10 https://github.com/foobnix/LibreraReader  
+git clone https://github.com/foobnix/LibreraReader  
+11 https://github.com/imixs/imixs-workflow  
+git clone https://github.com/imixs/imixs-workflow  
+12 https://github.com/dianping/puma  
+git clone https://github.com/dianping/puma  
+13 https://github.com/konklone/congress-android  
+git clone https://github.com/konklone/congress-android  
+14 https://github.com/davidmoten/rxjava2-extras  
+git clone https://github.com/davidmoten/rxjava2-extras  
+15 https://github.com/cucumber/cucumber-eclipse  
+git clone https://github.com/cucumber/cucumber-eclipse  
+16 https://github.com/enonic/xp  
+git clone https://github.com/enonic/xp  
+17 https://github.com/crnk-project/crnk-framework  
+git clone https://github.com/crnk-project/crnk-framework  
+18 https://github.com/branflake2267/GWT-Maps-V3-Api  
+git clone https://github.com/branflake2267/GWT-Maps-V3-Api  
+19 https://github.com/OpenHFT/Chronicle-Wire  
+git clone https://github.com/OpenHFT/Chronicle-Wire  
+20 https://github.com/zhanghai/MaterialFiles  
+git clone https://github.com/zhanghai/MaterialFiles  
+21 https://github.com/rhq-project/rhq  
+git clone https://github.com/rhq-project/rhq  
+22 https://github.com/JumpMind/metl  
+git clone https://github.com/JumpMind/metl  
+23 https://github.com/http-builder-ng/http-builder-ng  
+git clone https://github.com/http-builder-ng/http-builder-ng  
+24 https://github.com/intive-FDV/DynamicJasper  
+git clone https://github.com/intive-FDV/DynamicJasper  
+25 https://github.com/vitalidze/traccar-web  
+git clone https://github.com/vitalidze/traccar-web  
+26 https://github.com/Alfresco/alfresco-sdk  
+git clone https://github.com/Alfresco/alfresco-sdk  
+27 https://github.com/spring-cloud/spring-cloud-connectors  
+git clone https://github.com/spring-cloud/spring-cloud-connectors  
+28 https://github.com/FenixEdu/fenixedu-academic  
+git clone https://github.com/FenixEdu/fenixedu-academic  
+29 https://github.com/NineWorlds/serenity-android  
+git clone https://github.com/NineWorlds/serenity-android  
+30 https://github.com/randomizedtesting/randomizedtesting  
+git clone https://github.com/randomizedtesting/randomizedtesting  
+31 https://github.com/woo-j/OkapiBarcode  
+git clone https://github.com/woo-j/OkapiBarcode  
+32 https://github.com/fluxtream/fluxtream-app  
+git clone https://github.com/fluxtream/fluxtream-app  
+33 https://github.com/MarcusWolschon/osmeditor4android  
+git clone https://github.com/MarcusWolschon/osmeditor4android  
+34 https://github.com/apache/hadoop-common  
+git clone https://github.com/apache/hadoop-common  
+35 https://github.com/tesseract4java/tesseract4java  
+git clone https://github.com/tesseract4java/tesseract4java  
+36 https://github.com/jenkinsci/performance-plugin  
+git clone https://github.com/jenkinsci/performance-plugin  
+37 https://github.com/TwilioDevEd/api-snippets  
+git clone https://github.com/TwilioDevEd/api-snippets  
+38 https://github.com/apache/incubator-brooklyn  
+git clone https://github.com/apache/incubator-brooklyn  
+39 https://github.com/cheng-li/pyramid  
+git clone https://github.com/cheng-li/pyramid  
+40 https://github.com/JFXtras/jfxtras-labs  
+git clone https://github.com/JFXtras/jfxtras-labs  
+41 https://github.com/NASAWorldWind/WorldWindAndroid  
+git clone https://github.com/NASAWorldWind/WorldWindAndroid  
+42 https://github.com/cmu-phil/tetrad  
+git clone https://github.com/cmu-phil/tetrad  
+43 https://github.com/AgriCraft/AgriCraft  
+git clone https://github.com/AgriCraft/AgriCraft  
+44 https://github.com/hivemq/hivemq-mqtt-client  
+git clone https://github.com/hivemq/hivemq-mqtt-client  
+45 https://github.com/hudson/hudson-2.x  
+git clone https://github.com/hudson/hudson-2.x  
+46 https://github.com/arangodb/arangodb-java-driver  
+git clone https://github.com/arangodb/arangodb-java-driver  
+47 https://github.com/apache/commons-text  
+git clone https://github.com/apache/commons-text  
+48 https://github.com/Renanse/Ardor3D  
+git clone https://github.com/Renanse/Ardor3D  
+49 https://github.com/operasoftware/operaprestodriver  
+git clone https://github.com/operasoftware/operaprestodriver  
+50 https://github.com/copper-engine/copper-engine  
+git clone https://github.com/copper-engine/copper-engine  
+50

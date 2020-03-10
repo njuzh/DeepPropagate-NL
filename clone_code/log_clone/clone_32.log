@@ -1,0 +1,157 @@
+nohup: ignoring input
+Cloning into '/root/repos/repos32/velocity-engine'...
+Cloning into '/root/repos/repos32/Rebuild'...
+Cloning into '/root/repos/repos32/androidbible'...
+Cloning into '/root/repos/repos32/netbeans-gradle-project'...
+Cloning into '/root/repos/repos32/prim-ftpd'...
+Cloning into '/root/repos/repos32/minecolonies'...
+Checking out files:  87% (4989/5686)   Checking out files:  88% (5004/5686)   Checking out files:  89% (5061/5686)   Checking out files:  90% (5118/5686)   Checking out files:  91% (5175/5686)   Checking out files:  92% (5232/5686)   Checking out files:  93% (5288/5686)   Checking out files:  94% (5345/5686)   Checking out files:  95% (5402/5686)   Checking out files:  96% (5459/5686)   Checking out files:  97% (5516/5686)   Checking out files:  98% (5573/5686)   Checking out files:  99% (5630/5686)   Checking out files: 100% (5686/5686)   Checking out files: 100% (5686/5686), done.
+Cloning into '/root/repos/repos32/depgraph-maven-plugin'...
+Cloning into '/root/repos/repos32/openrtb-doubleclick'...
+Cloning into '/root/repos/repos32/newts'...
+Cloning into '/root/repos/repos32/pentaho-reporting'...
+Checking out files:  44% (5487/12398)   Checking out files:  45% (5580/12398)   Checking out files:  46% (5704/12398)   Checking out files:  46% (5782/12398)   Checking out files:  47% (5828/12398)   Checking out files:  48% (5952/12398)   Checking out files:  48% (6047/12398)   Checking out files:  49% (6076/12398)   Checking out files:  50% (6199/12398)   Checking out files:  51% (6323/12398)   Checking out files:  52% (6447/12398)   Checking out files:  53% (6571/12398)   Checking out files:  54% (6695/12398)   Checking out files:  55% (6819/12398)   Checking out files:  56% (6943/12398)   Checking out files:  57% (7067/12398)   Checking out files:  58% (7191/12398)   Checking out files:  59% (7315/12398)   Checking out files:  60% (7439/12398)   Checking out files:  61% (7563/12398)   Checking out files:  62% (7687/12398)   Checking out files:  62% (7791/12398)   Checking out files:  63% (7811/12398)   Checking out files:  64% (7935/12398)   Checking out files:  65% (8059/12398)   Checking out files:  66% (8183/12398)   Checking out files:  66% (8187/12398)   Checking out files:  66% (8201/12398)   Checking out files:  67% (8307/12398)   Checking out files:  68% (8431/12398)   Checking out files:  69% (8555/12398)   Checking out files:  69% (8629/12398)   Checking out files:  70% (8679/12398)   Checking out files:  71% (8803/12398)   Checking out files:  71% (8848/12398)   Checking out files:  72% (8927/12398)   Checking out files:  73% (9051/12398)   Checking out files:  74% (9175/12398)   Checking out files:  75% (9299/12398)   Checking out files:  75% (9300/12398)   Checking out files:  76% (9423/12398)   Checking out files:  77% (9547/12398)   Checking out files:  78% (9671/12398)   Checking out files:  79% (9795/12398)   Checking out files:  80% (9919/12398)   Checking out files:  81% (10043/12398)   Checking out files:  82% (10167/12398)   Checking out files:  83% (10291/12398)   Checking out files:  84% (10415/12398)   Checking out files:  85% (10539/12398)   Checking out files:  86% (10663/12398)   Checking out files:  87% (10787/12398)   Checking out files:  88% (10911/12398)   Checking out files:  89% (11035/12398)   Checking out files:  90% (11159/12398)   Checking out files:  91% (11283/12398)   Checking out files:  92% (11407/12398)   Checking out files:  93% (11531/12398)   Checking out files:  94% (11655/12398)   Checking out files:  95% (11779/12398)   Checking out files:  96% (11903/12398)   Checking out files:  96% (11999/12398)   Checking out files:  97% (12027/12398)   Checking out files:  98% (12151/12398)   Checking out files:  99% (12275/12398)   Checking out files: 100% (12398/12398)   Checking out files: 100% (12398/12398), done.
+Cloning into '/root/repos/repos32/jsunit'...
+Cloning into '/root/repos/repos32/droolsjbpm-integration'...
+Cloning into '/root/repos/repos32/zorka'...
+Cloning into '/root/repos/repos32/estatio'...
+Cloning into '/root/repos/repos32/jnr-posix'...
+Cloning into '/root/repos/repos32/triplea'...
+Cloning into '/root/repos/repos32/hdiv'...
+Cloning into '/root/repos/repos32/pircbotx'...
+Cloning into '/root/repos/repos32/netbeans-mmd-plugin'...
+Cloning into '/root/repos/repos32/multibit-hd'...
+Cloning into '/root/repos/repos32/onedev'...
+Cloning into '/root/repos/repos32/reasonml-idea-plugin'...
+Cloning into '/root/repos/repos32/shifu'...
+Cloning into '/root/repos/repos32/htmlunit'...
+Checking out files:  96% (6616/6846)   Checking out files:  97% (6641/6846)   Checking out files:  98% (6710/6846)   Checking out files:  99% (6778/6846)   Checking out files: 100% (6846/6846)   Checking out files: 100% (6846/6846), done.
+Cloning into '/root/repos/repos32/bboss-elasticsearch'...
+Cloning into '/root/repos/repos32/xDrip-plus'...
+Cloning into '/root/repos/repos32/dcm4chee-arc-light'...
+Cloning into '/root/repos/repos32/GreenLightning'...
+Cloning into '/root/repos/repos32/matrix-android-sdk'...
+Cloning into '/root/repos/repos32/AuthMeReloaded'...
+Cloning into '/root/repos/repos32/FXForm2'...
+Cloning into '/root/repos/repos32/Velocity'...
+Cloning into '/root/repos/repos32/litiengine'...
+Cloning into '/root/repos/repos32/Asqatasun'...
+Checking out files:  43% (6983/15977)   Checking out files:  44% (7030/15977)   Checking out files:  45% (7190/15977)   Checking out files:  46% (7350/15977)   Checking out files:  47% (7510/15977)   Checking out files:  48% (7669/15977)   Checking out files:  49% (7829/15977)   Checking out files:  50% (7989/15977)   Checking out files:  51% (8149/15977)   Checking out files:  52% (8309/15977)   Checking out files:  53% (8468/15977)   Checking out files:  54% (8628/15977)   Checking out files:  55% (8788/15977)   Checking out files:  56% (8948/15977)   Checking out files:  57% (9107/15977)   Checking out files:  58% (9267/15977)   Checking out files:  59% (9427/15977)   Checking out files:  60% (9587/15977)   Checking out files:  61% (9746/15977)   Checking out files:  62% (9906/15977)   Checking out files:  63% (10066/15977)   Checking out files:  64% (10226/15977)   Checking out files:  65% (10386/15977)   Checking out files:  66% (10545/15977)   Checking out files:  67% (10705/15977)   Checking out files:  68% (10865/15977)   Checking out files:  69% (11025/15977)   Checking out files:  70% (11184/15977)   Checking out files:  71% (11344/15977)   Checking out files:  72% (11504/15977)   Checking out files:  73% (11664/15977)   Checking out files:  74% (11823/15977)   Checking out files:  75% (11983/15977)   Checking out files:  76% (12143/15977)   Checking out files:  77% (12303/15977)   Checking out files:  78% (12463/15977)   Checking out files:  79% (12622/15977)   Checking out files:  80% (12782/15977)   Checking out files:  81% (12942/15977)   Checking out files:  82% (13102/15977)   Checking out files:  83% (13261/15977)   Checking out files:  84% (13421/15977)   Checking out files:  85% (13581/15977)   Checking out files:  86% (13741/15977)   Checking out files:  87% (13900/15977)   Checking out files:  88% (14060/15977)   Checking out files:  89% (14220/15977)   Checking out files:  90% (14380/15977)   Checking out files:  91% (14540/15977)   Checking out files:  92% (14699/15977)   Checking out files:  93% (14859/15977)   Checking out files:  94% (15019/15977)   Checking out files:  95% (15179/15977)   Checking out files:  96% (15338/15977)   Checking out files:  97% (15498/15977)   Checking out files:  98% (15658/15977)   Checking out files:  99% (15818/15977)   Checking out files:  99% (15841/15977)   Checking out files: 100% (15977/15977)   Checking out files: 100% (15977/15977), done.
+Cloning into '/root/repos/repos32/platform_packages_apps_camera'...
+Cloning into '/root/repos/repos32/barcodescanner-sdk-cordova'...
+Cloning into '/root/repos/repos32/ormlite-jdbc'...
+Cloning into '/root/repos/repos32/VWorkflows'...
+Cloning into '/root/repos/repos32/jbidwatcher'...
+Cloning into '/root/repos/repos32/dbfit'...
+Cloning into '/root/repos/repos32/phrasal'...
+Cloning into '/root/repos/repos32/openstack-java-sdk'...
+Cloning into '/root/repos/repos32/vectorz'...
+Cloning into '/root/repos/repos32/jsr354-ri'...
+Cloning into '/root/repos/repos32/ElectricalAge'...
+Cloning into '/root/repos/repos32/refinedstorage'...
+Cloning into '/root/repos/repos32/ORCID-Source'...
+Checking out files:  75% (6123/8086)   Checking out files:  76% (6146/8086)   Checking out files:  77% (6227/8086)   Checking out files:  78% (6308/8086)   Checking out files:  79% (6388/8086)   Checking out files:  80% (6469/8086)   Checking out files:  81% (6550/8086)   Checking out files:  82% (6631/8086)   Checking out files:  83% (6712/8086)   Checking out files:  84% (6793/8086)   Checking out files:  85% (6874/8086)   Checking out files:  86% (6954/8086)   Checking out files:  87% (7035/8086)   Checking out files:  88% (7116/8086)   Checking out files:  89% (7197/8086)   Checking out files:  90% (7278/8086)   Checking out files:  91% (7359/8086)   Checking out files:  92% (7440/8086)   Checking out files:  93% (7520/8086)   Checking out files:  94% (7601/8086)   Checking out files:  95% (7682/8086)   Checking out files:  96% (7763/8086)   Checking out files:  97% (7844/8086)   Checking out files:  98% (7925/8086)   Checking out files:  99% (8006/8086)   Checking out files: 100% (8086/8086)   Checking out files: 100% (8086/8086), done.
+Cloning into '/root/repos/repos32/Ghost-Android'...
+Cloning into '/root/repos/repos32/eurekastreams'...
+Cloning into '/root/repos/repos32/hank'...
+1 https://github.com/apache/velocity-engine  
+git clone https://github.com/apache/velocity-engine  
+2 https://github.com/rejasupotaro/Rebuild  
+git clone https://github.com/rejasupotaro/Rebuild  
+3 https://github.com/yukuku/androidbible  
+git clone https://github.com/yukuku/androidbible  
+4 https://github.com/kelemen/netbeans-gradle-project  
+git clone https://github.com/kelemen/netbeans-gradle-project  
+5 https://github.com/wolpi/prim-ftpd  
+git clone https://github.com/wolpi/prim-ftpd  
+6 https://github.com/ldtteam/minecolonies  
+git clone https://github.com/ldtteam/minecolonies  
+7 https://github.com/ferstl/depgraph-maven-plugin  
+git clone https://github.com/ferstl/depgraph-maven-plugin  
+8 https://github.com/google/openrtb-doubleclick  
+git clone https://github.com/google/openrtb-doubleclick  
+9 https://github.com/OpenNMS/newts  
+git clone https://github.com/OpenNMS/newts  
+10 https://github.com/pentaho/pentaho-reporting  
+git clone https://github.com/pentaho/pentaho-reporting  
+11 https://github.com/pivotal-legacy/jsunit  
+git clone https://github.com/pivotal-legacy/jsunit  
+12 https://github.com/kiegroup/droolsjbpm-integration  
+git clone https://github.com/kiegroup/droolsjbpm-integration  
+13 https://github.com/jitlogic/zorka  
+git clone https://github.com/jitlogic/zorka  
+14 https://github.com/estatio/estatio  
+git clone https://github.com/estatio/estatio  
+15 https://github.com/jnr/jnr-posix  
+git clone https://github.com/jnr/jnr-posix  
+16 https://github.com/triplea-game/triplea  
+git clone https://github.com/triplea-game/triplea  
+17 https://github.com/hdiv/hdiv  
+git clone https://github.com/hdiv/hdiv  
+18 https://github.com/pircbotx/pircbotx  
+git clone https://github.com/pircbotx/pircbotx  
+19 https://github.com/raydac/netbeans-mmd-plugin  
+git clone https://github.com/raydac/netbeans-mmd-plugin  
+20 https://github.com/Multibit-Legacy/multibit-hd  
+git clone https://github.com/Multibit-Legacy/multibit-hd  
+21 https://github.com/theonedev/onedev  
+git clone https://github.com/theonedev/onedev  
+22 https://github.com/reasonml-editor/reasonml-idea-plugin  
+git clone https://github.com/reasonml-editor/reasonml-idea-plugin  
+23 https://github.com/ShifuML/shifu  
+git clone https://github.com/ShifuML/shifu  
+24 https://github.com/HtmlUnit/htmlunit  
+git clone https://github.com/HtmlUnit/htmlunit  
+25 https://github.com/bbossgroups/bboss-elasticsearch  
+git clone https://github.com/bbossgroups/bboss-elasticsearch  
+26 https://github.com/jamorham/xDrip-plus  
+git clone https://github.com/jamorham/xDrip-plus  
+27 https://github.com/dcm4che/dcm4chee-arc-light  
+git clone https://github.com/dcm4che/dcm4chee-arc-light  
+28 https://github.com/oci-pronghorn/GreenLightning  
+git clone https://github.com/oci-pronghorn/GreenLightning  
+29 https://github.com/matrix-org/matrix-android-sdk  
+git clone https://github.com/matrix-org/matrix-android-sdk  
+30 https://github.com/AuthMe/AuthMeReloaded  
+git clone https://github.com/AuthMe/AuthMeReloaded  
+31 https://github.com/dooApp/FXForm2  
+git clone https://github.com/dooApp/FXForm2  
+32 https://github.com/VelocityPowered/Velocity  
+git clone https://github.com/VelocityPowered/Velocity  
+33 https://github.com/gurkenlabs/litiengine  
+git clone https://github.com/gurkenlabs/litiengine  
+34 https://github.com/Asqatasun/Asqatasun  
+git clone https://github.com/Asqatasun/Asqatasun  
+35 https://github.com/aosp-mirror/platform_packages_apps_camera  
+git clone https://github.com/aosp-mirror/platform_packages_apps_camera  
+36 https://github.com/Scandit/barcodescanner-sdk-cordova  
+git clone https://github.com/Scandit/barcodescanner-sdk-cordova  
+37 https://github.com/j256/ormlite-jdbc  
+git clone https://github.com/j256/ormlite-jdbc  
+38 https://github.com/miho/VWorkflows  
+git clone https://github.com/miho/VWorkflows  
+39 https://github.com/cyberfox/jbidwatcher  
+git clone https://github.com/cyberfox/jbidwatcher  
+40 https://github.com/dbfit/dbfit  
+git clone https://github.com/dbfit/dbfit  
+41 https://github.com/stanfordnlp/phrasal  
+git clone https://github.com/stanfordnlp/phrasal  
+42 https://github.com/woorea/openstack-java-sdk  
+git clone https://github.com/woorea/openstack-java-sdk  
+43 https://github.com/mikera/vectorz  
+git clone https://github.com/mikera/vectorz  
+44 https://github.com/JavaMoney/jsr354-ri  
+git clone https://github.com/JavaMoney/jsr354-ri  
+45 https://github.com/Electrical-Age/ElectricalAge  
+git clone https://github.com/Electrical-Age/ElectricalAge  
+46 https://github.com/raoulvdberge/refinedstorage  
+git clone https://github.com/raoulvdberge/refinedstorage  
+47 https://github.com/ORCID/ORCID-Source  
+git clone https://github.com/ORCID/ORCID-Source  
+48 https://github.com/TryGhost/Ghost-Android  
+git clone https://github.com/TryGhost/Ghost-Android  
+49 https://github.com/lmco/eurekastreams  
+git clone https://github.com/lmco/eurekastreams  
+50 https://github.com/LiveRamp/hank  
+git clone https://github.com/LiveRamp/hank  
+50

@@ -1,0 +1,159 @@
+nohup: ignoring input
+Cloning into '/root/repos/repos33/mayocat-shop'...
+Cloning into '/root/repos/repos33/Citizens2'...
+Cloning into '/root/repos/repos33/tnoodle'...
+Cloning into '/root/repos/repos33/doma'...
+Cloning into '/root/repos/repos33/devicehive-java-server'...
+Cloning into '/root/repos/repos33/teiid'...
+Checking out files:  67% (2276/3351)   Checking out files:  68% (2279/3351)   Checking out files:  69% (2313/3351)   Checking out files:  70% (2346/3351)   Checking out files:  71% (2380/3351)   Checking out files:  72% (2413/3351)   Checking out files:  73% (2447/3351)   Checking out files:  74% (2480/3351)   Checking out files:  75% (2514/3351)   Checking out files:  76% (2547/3351)   Checking out files:  77% (2581/3351)   Checking out files:  78% (2614/3351)   Checking out files:  79% (2648/3351)   Checking out files:  80% (2681/3351)   Checking out files:  81% (2715/3351)   Checking out files:  82% (2748/3351)   Checking out files:  83% (2782/3351)   Checking out files:  84% (2815/3351)   Checking out files:  85% (2849/3351)   Checking out files:  86% (2882/3351)   Checking out files:  87% (2916/3351)   Checking out files:  88% (2949/3351)   Checking out files:  89% (2983/3351)   Checking out files:  90% (3016/3351)   Checking out files:  91% (3050/3351)   Checking out files:  92% (3083/3351)   Checking out files:  93% (3117/3351)   Checking out files:  94% (3150/3351)   Checking out files:  95% (3184/3351)   Checking out files:  96% (3217/3351)   Checking out files:  97% (3251/3351)   Checking out files:  98% (3284/3351)   Checking out files:  99% (3318/3351)   Checking out files: 100% (3351/3351)   Checking out files: 100% (3351/3351), done.
+Cloning into '/root/repos/repos33/popcorn-android-legacy'...
+Checking out files: 100% (916/916)   Checking out files: 100% (916/916), done.
+Cloning into '/root/repos/repos33/JGAAP'...
+Checking out files:  79% (604/764)   Checking out files:  80% (612/764)   Checking out files:  81% (619/764)   Checking out files:  81% (620/764)   Checking out files:  82% (627/764)   Checking out files:  83% (635/764)   Checking out files:  84% (642/764)   Checking out files:  85% (650/764)   Checking out files:  86% (658/764)   Checking out files:  87% (665/764)   Checking out files:  88% (673/764)   Checking out files:  89% (680/764)   Checking out files:  90% (688/764)   Checking out files:  91% (696/764)   Checking out files:  92% (703/764)   Checking out files:  93% (711/764)   Checking out files:  94% (719/764)   Checking out files:  95% (726/764)   Checking out files:  96% (734/764)   Checking out files:  97% (742/764)   Checking out files:  98% (749/764)   Checking out files:  99% (757/764)   Checking out files: 100% (764/764)   Checking out files: 100% (764/764), done.
+Cloning into '/root/repos/repos33/Hibernate-SpringBoot'...
+Cloning into '/root/repos/repos33/gerrit-trigger-plugin'...
+Cloning into '/root/repos/repos33/overthere'...
+Cloning into '/root/repos/repos33/transistor'...
+Cloning into '/root/repos/repos33/incubator-ratis'...
+Cloning into '/root/repos/repos33/biweekly'...
+Cloning into '/root/repos/repos33/maps'...
+Cloning into '/root/repos/repos33/commons-imaging'...
+Cloning into '/root/repos/repos33/podam'...
+Cloning into '/root/repos/repos33/Volley-OkHttp-Android'...
+Cloning into '/root/repos/repos33/concordion'...
+Cloning into '/root/repos/repos33/MachineMusePowersuits'...
+Cloning into '/root/repos/repos33/rcloneExplorer'...
+Checking out files:   4% (19/384)   Checking out files:   5% (20/384)   Checking out files:   6% (24/384)   Checking out files:   7% (27/384)   Checking out files:   8% (31/384)   Checking out files:   9% (35/384)   Checking out files:  10% (39/384)   Checking out files:  11% (43/384)   Checking out files:  12% (47/384)   Checking out files:  13% (50/384)   Checking out files:  14% (54/384)   Checking out files:  15% (58/384)   Checking out files:  16% (62/384)   Checking out files:  17% (66/384)   Checking out files:  18% (70/384)   Checking out files:  19% (73/384)   Checking out files:  20% (77/384)   Checking out files:  21% (81/384)   Checking out files:  22% (85/384)   Checking out files:  23% (89/384)   Checking out files:  24% (93/384)   Checking out files:  25% (96/384)   Checking out files:  26% (100/384)   Checking out files:  27% (104/384)   Checking out files:  28% (108/384)   Checking out files:  29% (112/384)   Checking out files:  30% (116/384)   Checking out files:  31% (120/384)   Checking out files:  32% (123/384)   Checking out files:  33% (127/384)   Checking out files:  34% (131/384)   Checking out files:  35% (135/384)   Checking out files:  36% (139/384)   Checking out files:  37% (143/384)   Checking out files:  38% (146/384)   Checking out files:  39% (150/384)   Checking out files:  40% (154/384)   Checking out files:  41% (158/384)   Checking out files:  42% (162/384)   Checking out files:  43% (166/384)   Checking out files:  44% (169/384)   Checking out files:  45% (173/384)   Checking out files:  46% (177/384)   Checking out files:  47% (181/384)   Checking out files:  48% (185/384)   Checking out files:  49% (189/384)   Checking out files:  50% (192/384)   Checking out files:  51% (196/384)   Checking out files:  52% (200/384)   Checking out files:  53% (204/384)   Checking out files:  54% (208/384)   Checking out files:  55% (212/384)   Checking out files:  56% (216/384)   Checking out files:  57% (219/384)   Checking out files:  58% (223/384)   Checking out files:  59% (227/384)   Checking out files:  60% (231/384)   Checking out files:  61% (235/384)   Checking out files:  62% (239/384)   Checking out files:  63% (242/384)   Checking out files:  64% (246/384)   Checking out files:  65% (250/384)   Checking out files:  66% (254/384)   Checking out files:  67% (258/384)   Checking out files:  68% (262/384)   Checking out files:  69% (265/384)   Checking out files:  70% (269/384)   Checking out files:  71% (273/384)   Checking out files:  72% (277/384)   Checking out files:  73% (281/384)   Checking out files:  74% (285/384)   Checking out files:  75% (288/384)   Checking out files:  76% (292/384)   Checking out files:  77% (296/384)   Checking out files:  78% (300/384)   Checking out files:  79% (304/384)   Checking out files:  80% (308/384)   Checking out files:  81% (312/384)   Checking out files:  82% (315/384)   Checking out files:  83% (319/384)   Checking out files:  84% (323/384)   Checking out files:  85% (327/384)   Checking out files:  86% (331/384)   Checking out files:  87% (335/384)   Checking out files:  88% (338/384)   Checking out files:  89% (342/384)   Checking out files:  90% (346/384)   Checking out files:  91% (350/384)   Checking out files:  92% (354/384)   Checking out files:  93% (358/384)   Checking out files:  94% (361/384)   Checking out files:  95% (365/384)   Checking out files:  96% (369/384)   Checking out files:  97% (373/384)   Checking out files:  98% (377/384)   Checking out files:  99% (381/384)   Checking out files: 100% (384/384)   Checking out files: 100% (384/384), done.
+Cloning into '/root/repos/repos33/verdictdb'...
+Cloning into '/root/repos/repos33/ATLauncher'...
+Cloning into '/root/repos/repos33/jackson'...
+Cloning into '/root/repos/repos33/Spoutcraft'...
+Cloning into '/root/repos/repos33/midpoint'...
+Checking out files:  31% (2718/8667)   Checking out files:  32% (2774/8667)   Checking out files:  33% (2861/8667)   Checking out files:  34% (2947/8667)   Checking out files:  35% (3034/8667)   Checking out files:  36% (3121/8667)   Checking out files:  37% (3207/8667)   Checking out files:  38% (3294/8667)   Checking out files:  39% (3381/8667)   Checking out files:  39% (3414/8667)   Checking out files:  40% (3467/8667)   Checking out files:  41% (3554/8667)   Checking out files:  42% (3641/8667)   Checking out files:  43% (3727/8667)   Checking out files:  44% (3814/8667)   Checking out files:  45% (3901/8667)   Checking out files:  46% (3987/8667)   Checking out files:  46% (4024/8667)   Checking out files:  47% (4074/8667)   Checking out files:  48% (4161/8667)   Checking out files:  49% (4247/8667)   Checking out files:  50% (4334/8667)   Checking out files:  51% (4421/8667)   Checking out files:  52% (4507/8667)   Checking out files:  53% (4594/8667)   Checking out files:  54% (4681/8667)   Checking out files:  55% (4767/8667)   Checking out files:  56% (4854/8667)   Checking out files:  57% (4941/8667)   Checking out files:  58% (5027/8667)   Checking out files:  59% (5114/8667)   Checking out files:  60% (5201/8667)   Checking out files:  61% (5287/8667)   Checking out files:  62% (5374/8667)   Checking out files:  63% (5461/8667)   Checking out files:  64% (5547/8667)   Checking out files:  65% (5634/8667)   Checking out files:  65% (5661/8667)   Checking out files:  66% (5721/8667)   Checking out files:  67% (5807/8667)   Checking out files:  68% (5894/8667)   Checking out files:  69% (5981/8667)   Checking out files:  70% (6067/8667)   Checking out files:  71% (6154/8667)   Checking out files:  72% (6241/8667)   Checking out files:  73% (6327/8667)   Checking out files:  74% (6414/8667)   Checking out files:  75% (6501/8667)   Checking out files:  76% (6587/8667)   Checking out files:  77% (6674/8667)   Checking out files:  78% (6761/8667)   Checking out files:  79% (6847/8667)   Checking out files:  80% (6934/8667)   Checking out files:  81% (7021/8667)   Checking out files:  82% (7107/8667)   Checking out files:  83% (7194/8667)   Checking out files:  84% (7281/8667)   Checking out files:  85% (7367/8667)   Checking out files:  86% (7454/8667)   Checking out files:  86% (7487/8667)   Checking out files:  87% (7541/8667)   Checking out files:  88% (7627/8667)   Checking out files:  89% (7714/8667)   Checking out files:  90% (7801/8667)   Checking out files:  91% (7887/8667)   Checking out files:  92% (7974/8667)   Checking out files:  93% (8061/8667)   Checking out files:  94% (8147/8667)   Checking out files:  95% (8234/8667)   Checking out files:  96% (8321/8667)   Checking out files:  97% (8407/8667)   Checking out files:  98% (8494/8667)   Checking out files:  99% (8581/8667)   Checking out files: 100% (8667/8667)   Checking out files: 100% (8667/8667), done.
+Cloning into '/root/repos/repos33/WurstScript'...
+Checking out files:  88% (1011/1136)   Checking out files:  89% (1012/1136)   Checking out files:  90% (1023/1136)   Checking out files:  91% (1034/1136)   Checking out files:  92% (1046/1136)   Checking out files:  93% (1057/1136)   Checking out files:  94% (1068/1136)   Checking out files:  95% (1080/1136)   Checking out files:  96% (1091/1136)   Checking out files:  97% (1102/1136)   Checking out files:  98% (1114/1136)   Checking out files:  99% (1125/1136)   Checking out files: 100% (1136/1136)   Checking out files: 100% (1136/1136), done.
+Cloning into '/root/repos/repos33/asta4d'...
+Cloning into '/root/repos/repos33/asciidoctor-intellij-plugin'...
+Cloning into '/root/repos/repos33/NewXmPluginSDK'...
+Cloning into '/root/repos/repos33/Chronicle-Bytes'...
+Cloning into '/root/repos/repos33/DeviceControl'...
+Cloning into '/root/repos/repos33/lorsource'...
+Cloning into '/root/repos/repos33/bobo'...
+Cloning into '/root/repos/repos33/FirefoxLite'...
+Cloning into '/root/repos/repos33/api'...
+Cloning into '/root/repos/repos33/panda'...
+Cloning into '/root/repos/repos33/rest-driver'...
+Cloning into '/root/repos/repos33/commons-csv'...
+Cloning into '/root/repos/repos33/tyrus'...
+Cloning into '/root/repos/repos33/brisk'...
+Cloning into '/root/repos/repos33/quartz-mongodb'...
+Cloning into '/root/repos/repos33/dronekit-android'...
+Cloning into '/root/repos/repos33/DDF'...
+Cloning into '/root/repos/repos33/ccnx'...
+Cloning into '/root/repos/repos33/rdf4j'...
+Checking out files:  29% (2500/8376)   Checking out files:  30% (2513/8376)   Checking out files:  31% (2597/8376)   Checking out files:  32% (2681/8376)   Checking out files:  33% (2765/8376)   Checking out files:  34% (2848/8376)   Checking out files:  35% (2932/8376)   Checking out files:  36% (3016/8376)   Checking out files:  37% (3100/8376)   Checking out files:  38% (3183/8376)   Checking out files:  39% (3267/8376)   Checking out files:  40% (3351/8376)   Checking out files:  41% (3435/8376)   Checking out files:  42% (3518/8376)   Checking out files:  43% (3602/8376)   Checking out files:  44% (3686/8376)   Checking out files:  45% (3770/8376)   Checking out files:  46% (3853/8376)   Checking out files:  47% (3937/8376)   Checking out files:  48% (4021/8376)   Checking out files:  49% (4105/8376)   Checking out files:  50% (4188/8376)   Checking out files:  51% (4272/8376)   Checking out files:  52% (4356/8376)   Checking out files:  53% (4440/8376)   Checking out files:  54% (4524/8376)   Checking out files:  55% (4607/8376)   Checking out files:  56% (4691/8376)   Checking out files:  57% (4775/8376)   Checking out files:  58% (4859/8376)   Checking out files:  59% (4942/8376)   Checking out files:  60% (5026/8376)   Checking out files:  61% (5110/8376)   Checking out files:  62% (5194/8376)   Checking out files:  63% (5277/8376)   Checking out files:  64% (5361/8376)   Checking out files:  65% (5445/8376)   Checking out files:  66% (5529/8376)   Checking out files:  67% (5612/8376)   Checking out files:  68% (5696/8376)   Checking out files:  69% (5780/8376)   Checking out files:  70% (5864/8376)   Checking out files:  71% (5947/8376)   Checking out files:  72% (6031/8376)   Checking out files:  73% (6115/8376)   Checking out files:  74% (6199/8376)   Checking out files:  75% (6282/8376)   Checking out files:  76% (6366/8376)   Checking out files:  77% (6450/8376)   Checking out files:  78% (6534/8376)   Checking out files:  79% (6618/8376)   Checking out files:  80% (6701/8376)   Checking out files:  81% (6785/8376)   Checking out files:  82% (6869/8376)   Checking out files:  83% (6953/8376)   Checking out files:  84% (7036/8376)   Checking out files:  85% (7120/8376)   Checking out files:  86% (7204/8376)   Checking out files:  87% (7288/8376)   Checking out files:  88% (7371/8376)   Checking out files:  89% (7455/8376)   Checking out files:  90% (7539/8376)   Checking out files:  91% (7623/8376)   Checking out files:  92% (7706/8376)   Checking out files:  93% (7790/8376)   Checking out files:  94% (7874/8376)   Checking out files:  95% (7958/8376)   Checking out files:  96% (8041/8376)   Checking out files:  97% (8125/8376)   Checking out files:  98% (8209/8376)   Checking out files:  99% (8293/8376)   Checking out files: 100% (8376/8376)   Checking out files: 100% (8376/8376), done.
+Cloning into '/root/repos/repos33/cloud-bigtable-examples'...
+Cloning into '/root/repos/repos33/MOEAFramework'...
+Cloning into '/root/repos/repos33/LWC'...
+Cloning into '/root/repos/repos33/sevntu.checkstyle'...
+1 https://github.com/jvelo/mayocat-shop  
+git clone https://github.com/jvelo/mayocat-shop  
+2 https://github.com/CitizensDev/Citizens2  
+git clone https://github.com/CitizensDev/Citizens2  
+3 https://github.com/thewca/tnoodle  
+git clone https://github.com/thewca/tnoodle  
+4 https://github.com/domaframework/doma  
+git clone https://github.com/domaframework/doma  
+5 https://github.com/devicehive/devicehive-java-server  
+git clone https://github.com/devicehive/devicehive-java-server  
+6 https://github.com/teiid/teiid  
+git clone https://github.com/teiid/teiid  
+7 https://github.com/popcorn-official/popcorn-android-legacy  
+git clone https://github.com/popcorn-official/popcorn-android-legacy  
+8 https://github.com/evllabs/JGAAP  
+git clone https://github.com/evllabs/JGAAP  
+9 https://github.com/AnghelLeonard/Hibernate-SpringBoot  
+git clone https://github.com/AnghelLeonard/Hibernate-SpringBoot  
+10 https://github.com/jenkinsci/gerrit-trigger-plugin  
+git clone https://github.com/jenkinsci/gerrit-trigger-plugin  
+11 https://github.com/xebialabs/overthere  
+git clone https://github.com/xebialabs/overthere  
+12 https://github.com/y20k/transistor  
+git clone https://github.com/y20k/transistor  
+13 https://github.com/apache/incubator-ratis  
+git clone https://github.com/apache/incubator-ratis  
+14 https://github.com/mangstadt/biweekly  
+git clone https://github.com/mangstadt/biweekly  
+15 https://github.com/react-native-mapbox-gl/maps  
+git clone https://github.com/react-native-mapbox-gl/maps  
+16 https://github.com/apache/commons-imaging  
+git clone https://github.com/apache/commons-imaging  
+17 https://github.com/mtedone/podam  
+git clone https://github.com/mtedone/podam  
+18 https://github.com/lxdvs/Volley-OkHttp-Android  
+git clone https://github.com/lxdvs/Volley-OkHttp-Android  
+19 https://github.com/concordion/concordion  
+git clone https://github.com/concordion/concordion  
+20 https://github.com/MachineMuse/MachineMusePowersuits  
+git clone https://github.com/MachineMuse/MachineMusePowersuits  
+21 https://github.com/kaczmarkiewiczp/rcloneExplorer  
+git clone https://github.com/kaczmarkiewiczp/rcloneExplorer  
+22 https://github.com/mozafari/verdictdb  
+git clone https://github.com/mozafari/verdictdb  
+23 https://github.com/ATLauncher/ATLauncher  
+git clone https://github.com/ATLauncher/ATLauncher  
+24 https://github.com/codehaus/jackson  
+git clone https://github.com/codehaus/jackson  
+25 https://github.com/Spoutcraft/Spoutcraft  
+git clone https://github.com/Spoutcraft/Spoutcraft  
+26 https://github.com/Evolveum/midpoint  
+git clone https://github.com/Evolveum/midpoint  
+27 https://github.com/wurstscript/WurstScript  
+git clone https://github.com/wurstscript/WurstScript  
+28 https://github.com/astamuse/asta4d  
+git clone https://github.com/astamuse/asta4d  
+29 https://github.com/asciidoctor/asciidoctor-intellij-plugin  
+git clone https://github.com/asciidoctor/asciidoctor-intellij-plugin  
+30 https://github.com/MiEcosystem/NewXmPluginSDK  
+git clone https://github.com/MiEcosystem/NewXmPluginSDK  
+31 https://github.com/OpenHFT/Chronicle-Bytes  
+git clone https://github.com/OpenHFT/Chronicle-Bytes  
+32 https://github.com/amartinz/DeviceControl  
+git clone https://github.com/amartinz/DeviceControl  
+33 https://github.com/maxcom/lorsource  
+git clone https://github.com/maxcom/lorsource  
+34 https://github.com/senseidb/bobo  
+git clone https://github.com/senseidb/bobo  
+35 https://github.com/mozilla-tw/FirefoxLite  
+git clone https://github.com/mozilla-tw/FirefoxLite  
+36 https://github.com/jax-rs/api  
+git clone https://github.com/jax-rs/api  
+37 https://github.com/panda-lang/panda  
+git clone https://github.com/panda-lang/panda  
+38 https://github.com/rest-driver/rest-driver  
+git clone https://github.com/rest-driver/rest-driver  
+39 https://github.com/apache/commons-csv  
+git clone https://github.com/apache/commons-csv  
+40 https://github.com/tyrus-project/tyrus  
+git clone https://github.com/tyrus-project/tyrus  
+41 https://github.com/riptano/brisk  
+git clone https://github.com/riptano/brisk  
+42 https://github.com/michaelklishin/quartz-mongodb  
+git clone https://github.com/michaelklishin/quartz-mongodb  
+43 https://github.com/dronekit/dronekit-android  
+git clone https://github.com/dronekit/dronekit-android  
+44 https://github.com/ddf-project/DDF  
+git clone https://github.com/ddf-project/DDF  
+45 https://github.com/ProjectCCNx/ccnx  
+git clone https://github.com/ProjectCCNx/ccnx  
+46 https://github.com/eclipse/rdf4j  
+git clone https://github.com/eclipse/rdf4j  
+47 https://github.com/GoogleCloudPlatform/cloud-bigtable-examples  
+git clone https://github.com/GoogleCloudPlatform/cloud-bigtable-examples  
+48 https://github.com/MOEAFramework/MOEAFramework  
+git clone https://github.com/MOEAFramework/MOEAFramework  
+49 https://github.com/Hidendra/LWC  
+git clone https://github.com/Hidendra/LWC  
+50 https://github.com/sevntu-checkstyle/sevntu.checkstyle  
+git clone https://github.com/sevntu-checkstyle/sevntu.checkstyle  
+50

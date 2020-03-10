@@ -1,0 +1,156 @@
+nohup: ignoring input
+Cloning into '/root/repos/repos30/openrocket'...
+Checking out files:  86% (2163/2501)   Checking out files:  87% (2176/2501)   Checking out files:  88% (2201/2501)   Checking out files:  89% (2226/2501)   Checking out files:  90% (2251/2501)   Checking out files:  91% (2276/2501)   Checking out files:  92% (2301/2501)   Checking out files:  93% (2326/2501)   Checking out files:  94% (2351/2501)   Checking out files:  95% (2376/2501)   Checking out files:  96% (2401/2501)   Checking out files:  97% (2426/2501)   Checking out files:  98% (2451/2501)   Checking out files:  99% (2476/2501)   Checking out files: 100% (2501/2501)   Checking out files: 100% (2501/2501), done.
+Cloning into '/root/repos/repos30/trackr-backend'...
+Cloning into '/root/repos/repos30/ec2-plugin'...
+Cloning into '/root/repos/repos30/zerocode'...
+Cloning into '/root/repos/repos30/Makelangelo-software'...
+Cloning into '/root/repos/repos30/wsc'...
+Cloning into '/root/repos/repos30/MiMangaNu'...
+Cloning into '/root/repos/repos30/modeshape'...
+Cloning into '/root/repos/repos30/floobits-intellij'...
+Cloning into '/root/repos/repos30/MantaroBot'...
+Cloning into '/root/repos/repos30/admiral'...
+Cloning into '/root/repos/repos30/movsim'...
+Cloning into '/root/repos/repos30/TerrainControl'...
+Cloning into '/root/repos/repos30/andstatus'...
+Cloning into '/root/repos/repos30/PanicButton'...
+Cloning into '/root/repos/repos30/deep-spark'...
+Cloning into '/root/repos/repos30/erlide_eclipse'...
+Cloning into '/root/repos/repos30/ObscuraCam'...
+Cloning into '/root/repos/repos30/RadioDroid'...
+Cloning into '/root/repos/repos30/jboss-modules'...
+Cloning into '/root/repos/repos30/Maxine-VM'...
+Checking out files:  72% (3097/4297)   Checking out files:  73% (3137/4297)   Checking out files:  74% (3180/4297)   Checking out files:  75% (3223/4297)   Checking out files:  76% (3266/4297)   Checking out files:  77% (3309/4297)   Checking out files:  78% (3352/4297)   Checking out files:  79% (3395/4297)   Checking out files:  80% (3438/4297)   Checking out files:  81% (3481/4297)   Checking out files:  82% (3524/4297)   Checking out files:  83% (3567/4297)   Checking out files:  84% (3610/4297)   Checking out files:  85% (3653/4297)   Checking out files:  86% (3696/4297)   Checking out files:  87% (3739/4297)   Checking out files:  88% (3782/4297)   Checking out files:  89% (3825/4297)   Checking out files:  90% (3868/4297)   Checking out files:  91% (3911/4297)   Checking out files:  92% (3954/4297)   Checking out files:  93% (3997/4297)   Checking out files:  94% (4040/4297)   Checking out files:  95% (4083/4297)   Checking out files:  96% (4126/4297)   Checking out files:  97% (4169/4297)   Checking out files:  98% (4212/4297)   Checking out files:  99% (4255/4297)   Checking out files: 100% (4297/4297)   Checking out files: 100% (4297/4297), done.
+Cloning into '/root/repos/repos30/playn'...
+Cloning into '/root/repos/repos30/RFTools'...
+Cloning into '/root/repos/repos30/openxc-android'...
+Cloning into '/root/repos/repos30/AndroidMvc'...
+Cloning into '/root/repos/repos30/Paguro'...
+Cloning into '/root/repos/repos30/ovirt-engine'...
+Checking out files:  65% (7919/12117)   Checking out files:  66% (7998/12117)   Checking out files:  67% (8119/12117)   Checking out files:  68% (8240/12117)   Checking out files:  69% (8361/12117)   Checking out files:  70% (8482/12117)   Checking out files:  71% (8604/12117)   Checking out files:  72% (8725/12117)   Checking out files:  73% (8846/12117)   Checking out files:  74% (8967/12117)   Checking out files:  75% (9088/12117)   Checking out files:  76% (9209/12117)   Checking out files:  77% (9331/12117)   Checking out files:  78% (9452/12117)   Checking out files:  79% (9573/12117)   Checking out files:  80% (9694/12117)   Checking out files:  81% (9815/12117)   Checking out files:  82% (9936/12117)   Checking out files:  83% (10058/12117)   Checking out files:  84% (10179/12117)   Checking out files:  85% (10300/12117)   Checking out files:  86% (10421/12117)   Checking out files:  87% (10542/12117)   Checking out files:  88% (10663/12117)   Checking out files:  89% (10785/12117)   Checking out files:  90% (10906/12117)   Checking out files:  91% (11027/12117)   Checking out files:  92% (11148/12117)   Checking out files:  93% (11269/12117)   Checking out files:  94% (11390/12117)   Checking out files:  95% (11512/12117)   Checking out files:  96% (11633/12117)   Checking out files:  97% (11754/12117)   Checking out files:  98% (11875/12117)   Checking out files:  99% (11996/12117)   Checking out files: 100% (12117/12117)   Checking out files: 100% (12117/12117), done.
+Cloning into '/root/repos/repos30/searchcode-server'...
+Cloning into '/root/repos/repos30/opennars'...
+Cloning into '/root/repos/repos30/fluent-http'...
+Cloning into '/root/repos/repos30/HotSUploader'...
+Cloning into '/root/repos/repos30/sonarlint-eclipse'...
+Cloning into '/root/repos/repos30/and-bible'...
+Cloning into '/root/repos/repos30/derby'...
+Cloning into '/root/repos/repos30/imglib2'...
+Cloning into '/root/repos/repos30/cloud-slang'...
+Cloning into '/root/repos/repos30/SpongeCommon'...
+Cloning into '/root/repos/repos30/JikesRVM'...
+Cloning into '/root/repos/repos30/sdk'...
+Cloning into '/root/repos/repos30/minio-java'...
+Cloning into '/root/repos/repos30/microMathematics'...
+Cloning into '/root/repos/repos30/nrjavaserial'...
+Cloning into '/root/repos/repos30/spring-ws'...
+Cloning into '/root/repos/repos30/TestMod3'...
+Cloning into '/root/repos/repos30/suite'...
+Cloning into '/root/repos/repos30/oxAuth'...
+Cloning into '/root/repos/repos30/bioformats'...
+Cloning into '/root/repos/repos30/Quark'...
+Cloning into '/root/repos/repos30/stratosphere'...
+Cloning into '/root/repos/repos30/cdk'...
+Checking out files:  96% (3093/3192)   Checking out files:  97% (3097/3192)   Checking out files:  98% (3129/3192)   Checking out files:  99% (3161/3192)   Checking out files: 100% (3192/3192)   Checking out files: 100% (3192/3192), done.
+1 https://github.com/openrocket/openrocket  
+git clone https://github.com/openrocket/openrocket  
+2 https://github.com/techdev-solutions/trackr-backend  
+git clone https://github.com/techdev-solutions/trackr-backend  
+3 https://github.com/jenkinsci/ec2-plugin  
+git clone https://github.com/jenkinsci/ec2-plugin  
+4 https://github.com/authorjapps/zerocode  
+git clone https://github.com/authorjapps/zerocode  
+5 https://github.com/MarginallyClever/Makelangelo-software  
+git clone https://github.com/MarginallyClever/Makelangelo-software  
+6 https://github.com/forcedotcom/wsc  
+git clone https://github.com/forcedotcom/wsc  
+7 https://github.com/raulhaag/MiMangaNu  
+git clone https://github.com/raulhaag/MiMangaNu  
+8 https://github.com/ModeShape/modeshape  
+git clone https://github.com/ModeShape/modeshape  
+9 https://github.com/Floobits/floobits-intellij  
+git clone https://github.com/Floobits/floobits-intellij  
+10 https://github.com/Mantaro/MantaroBot  
+git clone https://github.com/Mantaro/MantaroBot  
+11 https://github.com/vmware/admiral  
+git clone https://github.com/vmware/admiral  
+12 https://github.com/movsim/movsim  
+git clone https://github.com/movsim/movsim  
+13 https://github.com/MCTCP/TerrainControl  
+git clone https://github.com/MCTCP/TerrainControl  
+14 https://github.com/andstatus/andstatus  
+git clone https://github.com/andstatus/andstatus  
+15 https://github.com/PanicInitiative/PanicButton  
+git clone https://github.com/PanicInitiative/PanicButton  
+16 https://github.com/Stratio/deep-spark  
+git clone https://github.com/Stratio/deep-spark  
+17 https://github.com/erlang/erlide_eclipse  
+git clone https://github.com/erlang/erlide_eclipse  
+18 https://github.com/guardianproject/ObscuraCam  
+git clone https://github.com/guardianproject/ObscuraCam  
+19 https://github.com/segler-alex/RadioDroid  
+git clone https://github.com/segler-alex/RadioDroid  
+20 https://github.com/jboss-modules/jboss-modules  
+git clone https://github.com/jboss-modules/jboss-modules  
+21 https://github.com/beehive-lab/Maxine-VM  
+git clone https://github.com/beehive-lab/Maxine-VM  
+22 https://github.com/threerings/playn  
+git clone https://github.com/threerings/playn  
+23 https://github.com/McJtyMods/RFTools  
+git clone https://github.com/McJtyMods/RFTools  
+24 https://github.com/openxc/openxc-android  
+git clone https://github.com/openxc/openxc-android  
+25 https://github.com/kejunxia/AndroidMvc  
+git clone https://github.com/kejunxia/AndroidMvc  
+26 https://github.com/GlenKPeterson/Paguro  
+git clone https://github.com/GlenKPeterson/Paguro  
+27 https://github.com/oVirt/ovirt-engine  
+git clone https://github.com/oVirt/ovirt-engine  
+28 https://github.com/boyter/searchcode-server  
+git clone https://github.com/boyter/searchcode-server  
+29 https://github.com/opennars/opennars  
+git clone https://github.com/opennars/opennars  
+30 https://github.com/CodeStory/fluent-http  
+git clone https://github.com/CodeStory/fluent-http  
+31 https://github.com/eivindveg/HotSUploader  
+git clone https://github.com/eivindveg/HotSUploader  
+32 https://github.com/SonarSource/sonarlint-eclipse  
+git clone https://github.com/SonarSource/sonarlint-eclipse  
+33 https://github.com/AndBible/and-bible  
+git clone https://github.com/AndBible/and-bible  
+34 https://github.com/apache/derby  
+git clone https://github.com/apache/derby  
+35 https://github.com/imglib/imglib2  
+git clone https://github.com/imglib/imglib2  
+36 https://github.com/CloudSlang/cloud-slang  
+git clone https://github.com/CloudSlang/cloud-slang  
+37 https://github.com/SpongePowered/SpongeCommon  
+git clone https://github.com/SpongePowered/SpongeCommon  
+38 https://github.com/JikesRVM/JikesRVM  
+git clone https://github.com/JikesRVM/JikesRVM  
+39 https://github.com/jMonkeyEngine/sdk  
+git clone https://github.com/jMonkeyEngine/sdk  
+40 https://github.com/minio/minio-java  
+git clone https://github.com/minio/minio-java  
+41 https://github.com/mkulesh/microMathematics  
+git clone https://github.com/mkulesh/microMathematics  
+42 https://github.com/NeuronRobotics/nrjavaserial  
+git clone https://github.com/NeuronRobotics/nrjavaserial  
+43 https://github.com/spring-projects/spring-ws  
+git clone https://github.com/spring-projects/spring-ws  
+44 https://github.com/Choonster-Minecraft-Mods/TestMod3  
+git clone https://github.com/Choonster-Minecraft-Mods/TestMod3  
+45 https://github.com/boundlessgeo/suite  
+git clone https://github.com/boundlessgeo/suite  
+46 https://github.com/GluuFederation/oxAuth  
+git clone https://github.com/GluuFederation/oxAuth  
+47 https://github.com/openmicroscopy/bioformats  
+git clone https://github.com/openmicroscopy/bioformats  
+48 https://github.com/Vazkii/Quark  
+git clone https://github.com/Vazkii/Quark  
+49 https://github.com/stratosphere/stratosphere  
+git clone https://github.com/stratosphere/stratosphere  
+50 https://github.com/cdk/cdk  
+git clone https://github.com/cdk/cdk  
+50
