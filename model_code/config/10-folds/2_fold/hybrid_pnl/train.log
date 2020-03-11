@@ -1,0 +1,574 @@
+nohup: ignoring input
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:516: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:541: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:542: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:543: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:544: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:545: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:550: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+WARNING:tensorflow:From /root/icpc/icpc/translate/rnn.py:107: The name tf.nn.rnn_cell.RNNCell is deprecated. Please use tf.compat.v1.nn.rnn_cell.RNNCell instead.
+
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:30: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+12/26 03:03:16 label: default
+12/26 03:03:16 description:
+  default configuration
+  next line of description
+  last line
+12/26 03:03:16 /root/icpc/icpc/translate/__main__.py config/10-folds/2_fold/hybrid_pnl/config.yaml --train -v
+12/26 03:03:16 commit hash 74e0554cb3eb5df835cef993ad570ff8de651f71
+12/26 03:03:16 tensorflow version: 1.14.0
+12/26 03:03:16 program arguments
+12/26 03:03:16   aggregation_method   'sum'
+12/26 03:03:16   align_encoder_id     0
+12/26 03:03:16   allow_growth         True
+12/26 03:03:16   attention_type       'global'
+12/26 03:03:16   attn_filter_length   0
+12/26 03:03:16   attn_filters         0
+12/26 03:03:16   attn_prev_word       False
+12/26 03:03:16   attn_size            128
+12/26 03:03:16   attn_temperature     1.0
+12/26 03:03:16   attn_window_size     0
+12/26 03:03:16   average              False
+12/26 03:03:16   baseline_activation  None
+12/26 03:03:16   baseline_learning_rate 0.001
+12/26 03:03:16   baseline_optimizer   'adam'
+12/26 03:03:16   baseline_steps       0
+12/26 03:03:16   batch_mode           'standard'
+12/26 03:03:16   batch_size           64
+12/26 03:03:16   beam_size            5
+12/26 03:03:16   bidir                True
+12/26 03:03:16   bidir_projection     False
+12/26 03:03:16   binary               False
+12/26 03:03:16   cell_size            256
+12/26 03:03:16   cell_type            'GRU'
+12/26 03:03:16   character_level      False
+12/26 03:03:16   checkpoints          []
+12/26 03:03:16   conditional_rnn      False
+12/26 03:03:16   config               'config/10-folds/2_fold/hybrid_pnl/config.yaml'
+12/26 03:03:16   convolutions         None
+12/26 03:03:16   data_dir             'data/gooddata/2_fold'
+12/26 03:03:16   debug                False
+12/26 03:03:16   decay_after_n_epoch  1
+12/26 03:03:16   decay_every_n_epoch  1
+12/26 03:03:16   decay_if_no_progress None
+12/26 03:03:16   decoders             [{'max_len': 40, 'name': 'nl'}]
+12/26 03:03:16   description          'default configuration\nnext line of description\nlast line\n'
+12/26 03:03:16   dev_prefix           'test'
+12/26 03:03:16   early_stopping       True
+12/26 03:03:16   embedding_dropout    0.0
+12/26 03:03:16   embedding_initializer None
+12/26 03:03:16   embedding_size       256
+12/26 03:03:16   embedding_weight_scale None
+12/26 03:03:16   embeddings_on_cpu    True
+12/26 03:03:16   encoders             [{'attention_type': 'global', 'max_len': 200, 'name': 'code'},
+ {'attention_type': 'global', 'max_len': 80, 'name': 'pnl'}]
+12/26 03:03:16   ensemble             False
+12/26 03:03:16   eval_burn_in         0
+12/26 03:03:16   feed_previous        0.0
+12/26 03:03:16   final_state          'last'
+12/26 03:03:16   freeze_variables     []
+12/26 03:03:16   generate_first       True
+12/26 03:03:16   gpu_id               3
+12/26 03:03:16   highway_layers       0
+12/26 03:03:16   initial_state_dropout 0.0
+12/26 03:03:16   initializer          None
+12/26 03:03:16   input_layer_dropout  0.0
+12/26 03:03:16   input_layers         None
+12/26 03:03:16   keep_best            5
+12/26 03:03:16   keep_every_n_hours   0
+12/26 03:03:16   label                'default'
+12/26 03:03:16   layer_norm           False
+12/26 03:03:16   layers               1
+12/26 03:03:16   learning_rate        0.5
+12/26 03:03:16   learning_rate_decay_factor 0.95
+12/26 03:03:16   len_normalization    1.0
+12/26 03:03:16   log_file             'log.txt'
+12/26 03:03:16   loss_function        'xent'
+12/26 03:03:16   max_dev_size         0
+12/26 03:03:16   max_epochs           100
+12/26 03:03:16   max_gradient_norm    5.0
+12/26 03:03:16   max_len              50
+12/26 03:03:16   max_steps            600000
+12/26 03:03:16   max_test_size        0
+12/26 03:03:16   max_to_keep          1
+12/26 03:03:16   max_train_size       0
+12/26 03:03:16   maxout_stride        None
+12/26 03:03:16   mem_fraction         1.0
+12/26 03:03:16   min_learning_rate    1e-06
+12/26 03:03:16   model_dir            'models/2_fold_hybrid_pnl'
+12/26 03:03:16   moving_average       None
+12/26 03:03:16   no_gpu               False
+12/26 03:03:16   optimizer            'sgd'
+12/26 03:03:16   orthogonal_init      False
+12/26 03:03:16   output               None
+12/26 03:03:16   output_dropout       0.0
+12/26 03:03:16   parallel_iterations  16
+12/26 03:03:16   pervasive_dropout    False
+12/26 03:03:16   pooling_avg          True
+12/26 03:03:16   post_process_script  None
+12/26 03:03:16   pred_deep_layer      False
+12/26 03:03:16   pred_edits           False
+12/26 03:03:16   pred_embed_proj      True
+12/26 03:03:16   pred_maxout_layer    True
+12/26 03:03:16   purge                False
+12/26 03:03:16   raw_output           False
+12/26 03:03:16   read_ahead           1
+12/26 03:03:16   reconstruction_attn_weight 0.05
+12/26 03:03:16   reconstruction_decoders False
+12/26 03:03:16   reconstruction_weight 1.0
+12/26 03:03:16   reinforce_after_n_epoch None
+12/26 03:03:16   remove_unk           False
+12/26 03:03:16   reverse              False
+12/26 03:03:16   reverse_input        True
+12/26 03:03:16   reward_function      'sentence_bleu'
+12/26 03:03:16   rnn_feed_attn        True
+12/26 03:03:16   rnn_input_dropout    0.0
+12/26 03:03:16   rnn_output_dropout   0.0
+12/26 03:03:16   rnn_state_dropout    0.0
+12/26 03:03:16   save                 False
+12/26 03:03:16   score_function       'corpus_bleu'
+12/26 03:03:16   score_functions      ['bleu', 'loss']
+12/26 03:03:16   script_dir           'scripts'
+12/26 03:03:16   sgd_after_n_epoch    None
+12/26 03:03:16   sgd_learning_rate    1.0
+12/26 03:03:16   shuffle              True
+12/26 03:03:16   softmax_temperature  1.0
+12/26 03:03:16   steps_per_checkpoint 2000
+12/26 03:03:16   steps_per_eval       2000
+12/26 03:03:16   swap_memory          True
+12/26 03:03:16   tie_embeddings       False
+12/26 03:03:16   time_pooling         None
+12/26 03:03:16   train                True
+12/26 03:03:16   train_initial_states True
+12/26 03:03:16   train_prefix         'train'
+12/26 03:03:16   truncate_lines       True
+12/26 03:03:16   update_first         False
+12/26 03:03:16   use_baseline         False
+12/26 03:03:16   use_dropout          False
+12/26 03:03:16   use_lstm_full_state  False
+12/26 03:03:16   use_previous_word    True
+12/26 03:03:16   verbose              True
+12/26 03:03:16   vocab_prefix         'vocab'
+12/26 03:03:16   weight_scale         None
+12/26 03:03:16   word_dropout         0.0
+12/26 03:03:16 python random seed: 883993157502917737
+12/26 03:03:16 tf random seed:     8026313174026457893
+WARNING:tensorflow:From /root/icpc/icpc/translate/__main__.py:203: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
+
+12/26 03:03:16 creating model
+12/26 03:03:16 using device: /gpu:3
+WARNING:tensorflow:From /root/icpc/icpc/translate/__main__.py:230: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+12/26 03:03:16 reading vocabularies
+12/26 03:03:16 creating model
+WARNING:tensorflow:From /root/icpc/icpc/translate/seq2seq_model.py:60: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /root/.local/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:111: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING:tensorflow:From /root/icpc/icpc/translate/rnn.py:33: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+WARNING:tensorflow:From /root/.local/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:464: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+WARNING:tensorflow:Entity <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc23b9ee4e0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc23b9ee4e0>>: AttributeError: module 'gast' has no attribute 'Num'
+WARNING:tensorflow:From /root/icpc/icpc/translate/rnn.py:226: calling Constant.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /root/.local/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:244: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Entity <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc23b9ee710>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc23b9ee710>>: AttributeError: module 'gast' has no attribute 'Num'
+WARNING:tensorflow:Entity <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc2be47c588>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc2be47c588>>: AttributeError: module 'gast' has no attribute 'Num'
+WARNING:tensorflow:Entity <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc2be47c6d8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc2be47c6d8>>: AttributeError: module 'gast' has no attribute 'Num'
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:20: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2be489ef0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2be489ef0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:838: to_int64 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2be17ab70>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2be17ab70>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2be11ca20>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2be11ca20>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:432: calling reduce_max_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:435: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2be011eb8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2be011eb8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2be040a58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2be040a58>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2bdea0eb8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2bdea0eb8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2bdea0f28>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2bdea0f28>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2b7c5dfd0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2b7c5dfd0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2b7c01c18>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2b7c01c18>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2b7bdef28>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2b7bdef28>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2b7bdefd0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2b7bdefd0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2b7bf0a58>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc2b7bf0a58>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:919: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+WARNING:tensorflow:Entity <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc2b7a5f240>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc2b7a5f240>>: AttributeError: module 'gast' has no attribute 'Num'
+WARNING:tensorflow:From /root/icpc/icpc/translate/beam_search.py:10: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+WARNING:tensorflow:From /root/icpc/icpc/translate/seq2seq_model.py:131: The name tf.train.GradientDescentOptimizer is deprecated. Please use tf.compat.v1.train.GradientDescentOptimizer instead.
+
+WARNING:tensorflow:From /root/icpc/icpc/translate/beam_search.py:223: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+WARNING:tensorflow:Entity <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc25f706ef0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fc25f706ef0>>: AttributeError: module 'gast' has no attribute 'Num'
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f623ef0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f623ef0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f5d4cc0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f5d4cc0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f58d5c0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f58d5c0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f603ba8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f603ba8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f603f98>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f603f98>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f52d320>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f52d320>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f52d320>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fc25f52d320>>: AssertionError: Bad argument number for Name: 3, expecting 4
+12/26 03:03:23 model parameters (45)
+12/26 03:03:23   baseline_step:0 ()
+12/26 03:03:23   decoder_nl/attention_code/U_a/kernel:0 (512, 128)
+12/26 03:03:23   decoder_nl/attention_code/W_a/bias:0 (128,)
+12/26 03:03:23   decoder_nl/attention_code/W_a/kernel:0 (256, 128)
+12/26 03:03:23   decoder_nl/attention_code/v_a:0 (128,)
+12/26 03:03:23   decoder_nl/attention_pnl/U_a/kernel:0 (512, 128)
+12/26 03:03:23   decoder_nl/attention_pnl/W_a/bias:0 (128,)
+12/26 03:03:23   decoder_nl/attention_pnl/W_a/kernel:0 (256, 128)
+12/26 03:03:23   decoder_nl/attention_pnl/v_a:0 (128,)
+12/26 03:03:23   decoder_nl/code_pnl/initial_state_projection/bias:0 (256,)
+12/26 03:03:23   decoder_nl/code_pnl/initial_state_projection/kernel:0 (512, 256)
+12/26 03:03:23   decoder_nl/gru_cell/candidate/bias:0 (256,)
+12/26 03:03:23   decoder_nl/gru_cell/candidate/kernel:0 (1024, 256)
+12/26 03:03:23   decoder_nl/gru_cell/gates/bias:0 (512,)
+12/26 03:03:23   decoder_nl/gru_cell/gates/kernel:0 (1024, 512)
+12/26 03:03:23   decoder_nl/maxout/bias:0 (256,)
+12/26 03:03:23   decoder_nl/maxout/kernel:0 (1024, 256)
+12/26 03:03:23   decoder_nl/softmax0/kernel:0 (128, 256)
+12/26 03:03:23   decoder_nl/softmax1/bias:0 (37939,)
+12/26 03:03:23   decoder_nl/softmax1/kernel:0 (256, 37939)
+12/26 03:03:23   embedding_code:0 (50000, 256)
+12/26 03:03:23   embedding_nl:0 (37939, 256)
+12/26 03:03:23   embedding_pnl:0 (37461, 256)
+12/26 03:03:23   encoder_code/initial_state_bw:0 (256,)
+12/26 03:03:23   encoder_code/initial_state_fw:0 (256,)
+12/26 03:03:23   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/candidate/bias:0 (256,)
+12/26 03:03:23   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/candidate/kernel:0 (512, 256)
+12/26 03:03:23   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/gates/bias:0 (512,)
+12/26 03:03:23   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/gates/kernel:0 (512, 512)
+12/26 03:03:23   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/candidate/bias:0 (256,)
+12/26 03:03:23   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/candidate/kernel:0 (512, 256)
+12/26 03:03:23   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/gates/bias:0 (512,)
+12/26 03:03:23   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/gates/kernel:0 (512, 512)
+12/26 03:03:23   encoder_pnl/initial_state_bw:0 (256,)
+12/26 03:03:23   encoder_pnl/initial_state_fw:0 (256,)
+12/26 03:03:23   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/candidate/bias:0 (256,)
+12/26 03:03:23   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/candidate/kernel:0 (512, 256)
+12/26 03:03:23   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/gates/bias:0 (512,)
+12/26 03:03:23   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/gates/kernel:0 (512, 512)
+12/26 03:03:23   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/candidate/bias:0 (256,)
+12/26 03:03:23   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/candidate/kernel:0 (512, 256)
+12/26 03:03:23   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/gates/bias:0 (512,)
+12/26 03:03:23   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/gates/kernel:0 (512, 512)
+12/26 03:03:23   global_step:0 ()
+12/26 03:03:23   learning_rate:0 ()
+12/26 03:03:23 number of parameters: 44.84M
+WARNING:tensorflow:From /root/icpc/icpc/translate/translation_model.py:666: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+12/26 03:03:24 reading model parameters from models/2_fold_hybrid_pnl/checkpoints/translate-172000
+WARNING:tensorflow:From /root/.local/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+12/26 03:03:26 retrieved parameters (45)
+12/26 03:03:26   baseline_step:0 ()
+12/26 03:03:26   decoder_nl/attention_code/U_a/kernel:0 (512, 128)
+12/26 03:03:26   decoder_nl/attention_code/W_a/bias:0 (128,)
+12/26 03:03:26   decoder_nl/attention_code/W_a/kernel:0 (256, 128)
+12/26 03:03:26   decoder_nl/attention_code/v_a:0 (128,)
+12/26 03:03:26   decoder_nl/attention_pnl/U_a/kernel:0 (512, 128)
+12/26 03:03:26   decoder_nl/attention_pnl/W_a/bias:0 (128,)
+12/26 03:03:26   decoder_nl/attention_pnl/W_a/kernel:0 (256, 128)
+12/26 03:03:26   decoder_nl/attention_pnl/v_a:0 (128,)
+12/26 03:03:26   decoder_nl/code_pnl/initial_state_projection/bias:0 (256,)
+12/26 03:03:26   decoder_nl/code_pnl/initial_state_projection/kernel:0 (512, 256)
+12/26 03:03:26   decoder_nl/gru_cell/candidate/bias:0 (256,)
+12/26 03:03:26   decoder_nl/gru_cell/candidate/kernel:0 (1024, 256)
+12/26 03:03:26   decoder_nl/gru_cell/gates/bias:0 (512,)
+12/26 03:03:26   decoder_nl/gru_cell/gates/kernel:0 (1024, 512)
+12/26 03:03:26   decoder_nl/maxout/bias:0 (256,)
+12/26 03:03:26   decoder_nl/maxout/kernel:0 (1024, 256)
+12/26 03:03:26   decoder_nl/softmax0/kernel:0 (128, 256)
+12/26 03:03:26   decoder_nl/softmax1/bias:0 (37939,)
+12/26 03:03:26   decoder_nl/softmax1/kernel:0 (256, 37939)
+12/26 03:03:26   embedding_code:0 (50000, 256)
+12/26 03:03:26   embedding_nl:0 (37939, 256)
+12/26 03:03:26   embedding_pnl:0 (37461, 256)
+12/26 03:03:26   encoder_code/initial_state_bw:0 (256,)
+12/26 03:03:26   encoder_code/initial_state_fw:0 (256,)
+12/26 03:03:26   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/candidate/bias:0 (256,)
+12/26 03:03:26   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/candidate/kernel:0 (512, 256)
+12/26 03:03:26   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/gates/bias:0 (512,)
+12/26 03:03:26   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/gates/kernel:0 (512, 512)
+12/26 03:03:26   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/candidate/bias:0 (256,)
+12/26 03:03:26   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/candidate/kernel:0 (512, 256)
+12/26 03:03:26   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/gates/bias:0 (512,)
+12/26 03:03:26   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/gates/kernel:0 (512, 512)
+12/26 03:03:26   encoder_pnl/initial_state_bw:0 (256,)
+12/26 03:03:26   encoder_pnl/initial_state_fw:0 (256,)
+12/26 03:03:26   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/candidate/bias:0 (256,)
+12/26 03:03:26   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/candidate/kernel:0 (512, 256)
+12/26 03:03:26   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/gates/bias:0 (512,)
+12/26 03:03:26   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/gates/kernel:0 (512, 512)
+12/26 03:03:26   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/candidate/bias:0 (256,)
+12/26 03:03:26   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/candidate/kernel:0 (512, 256)
+12/26 03:03:26   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/gates/bias:0 (512,)
+12/26 03:03:26   encoder_pnl/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/gates/kernel:0 (512, 512)
+12/26 03:03:26   global_step:0 ()
+12/26 03:03:26   learning_rate:0 ()
+12/26 03:03:26 global step: 172000
+12/26 03:03:26 baseline step: 0
+12/26 03:03:26 reading training data
+12/26 03:03:26 total line count: 156721
+12/26 03:03:32   lines read: 100000
+12/26 03:03:35 files: data/gooddata/2_fold/train.code data/gooddata/2_fold/train.pnl data/gooddata/2_fold/train.nl
+12/26 03:03:35 lines reads: 156721
+12/26 03:03:35 reading development data
+12/26 03:03:36 files: data/gooddata/2_fold/test.code data/gooddata/2_fold/test.pnl data/gooddata/2_fold/test.nl
+12/26 03:03:36 lines reads: 17413
+12/26 03:03:36 starting training
+12/26 03:31:49 step 174000 epoch 72 learning rate 0.0138 step-time 0.844 loss 0.100
+12/26 03:31:49 starting evaluation
+12/26 03:36:15 test bleu=37.66 loss=105.85 penalty=0.996 ratio=0.996
+12/26 03:36:15 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 03:36:15 finished saving model
+12/26 03:42:34   decaying learning rate to: 0.0131
+12/26 04:04:23 step 176000 epoch 72 learning rate 0.0131 step-time 0.841 loss 0.101
+12/26 04:04:23 starting evaluation
+12/26 04:08:46 test bleu=37.63 loss=106.10 penalty=0.997 ratio=0.997
+12/26 04:08:46 saving model to models/2_fold_hybrid_pnl/checkpoints
+WARNING:tensorflow:From /root/.local/lib/python3.6/site-packages/tensorflow/python/training/saver.py:960: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+12/26 04:08:46 finished saving model
+12/26 04:21:22   decaying learning rate to: 0.0124
+12/26 04:36:39 step 178000 epoch 73 learning rate 0.0124 step-time 0.834 loss 0.098
+12/26 04:36:39 starting evaluation
+12/26 04:41:10 test bleu=37.54 loss=106.09 penalty=0.994 ratio=0.994
+12/26 04:41:10 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 04:41:10 finished saving model
+12/26 05:00:01   decaying learning rate to: 0.0118
+12/26 05:09:13 step 180000 epoch 74 learning rate 0.0118 step-time 0.838 loss 0.096
+12/26 05:09:13 starting evaluation
+12/26 05:13:32 test bleu=37.34 loss=106.17 penalty=1.000 ratio=1.007
+12/26 05:13:32 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 05:13:32 finished saving model
+12/26 05:38:33   decaying learning rate to: 0.0112
+12/26 05:41:24 step 182000 epoch 75 learning rate 0.0112 step-time 0.833 loss 0.098
+12/26 05:41:24 starting evaluation
+12/26 05:45:39 test bleu=37.42 loss=106.48 penalty=1.000 ratio=1.005
+12/26 05:45:39 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 05:45:39 finished saving model
+12/26 06:13:29 step 184000 epoch 76 learning rate 0.0112 step-time 0.831 loss 0.092
+12/26 06:13:29 starting evaluation
+12/26 06:17:42 test bleu=37.63 loss=106.37 penalty=0.995 ratio=0.995
+12/26 06:17:42 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 06:17:42 finished saving model
+12/26 06:21:07   decaying learning rate to: 0.0107
+12/26 06:45:29 step 186000 epoch 76 learning rate 0.0107 step-time 0.830 loss 0.086
+12/26 06:45:29 starting evaluation
+12/26 06:49:45 test bleu=37.52 loss=106.80 penalty=1.000 ratio=1.003
+12/26 06:49:45 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 06:49:45 finished saving model
+12/26 06:59:26   decaying learning rate to: 0.0101
+12/26 07:17:40 step 188000 epoch 77 learning rate 0.0101 step-time 0.834 loss 0.088
+12/26 07:17:40 starting evaluation
+12/26 07:21:53 test bleu=37.51 loss=106.85 penalty=1.000 ratio=1.005
+12/26 07:21:53 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 07:21:53 finished saving model
+12/26 07:37:44   decaying learning rate to: 0.00963
+12/26 07:49:35 step 190000 epoch 78 learning rate 0.00963 step-time 0.828 loss 0.088
+12/26 07:49:35 starting evaluation
+12/26 07:53:51 test bleu=37.58 loss=107.18 penalty=1.000 ratio=1.001
+12/26 07:53:51 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 07:53:51 finished saving model
+12/26 08:15:56   decaying learning rate to: 0.00915
+12/26 08:21:33 step 192000 epoch 79 learning rate 0.00915 step-time 0.828 loss 0.085
+12/26 08:21:33 starting evaluation
+12/26 08:25:49 test bleu=37.75 loss=107.17 penalty=0.997 ratio=0.997
+12/26 08:25:49 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 08:25:49 finished saving model
+12/26 08:53:38 step 194000 epoch 80 learning rate 0.00915 step-time 0.832 loss 0.086
+12/26 08:53:38 starting evaluation
+12/26 08:57:55 test bleu=37.51 loss=107.12 penalty=1.000 ratio=1.003
+12/26 08:57:55 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 08:57:55 finished saving model
+12/26 08:58:30   decaying learning rate to: 0.00869
+12/26 09:25:49 step 196000 epoch 81 learning rate 0.00869 step-time 0.834 loss 0.081
+12/26 09:25:49 starting evaluation
+12/26 09:30:04 test bleu=37.51 loss=107.34 penalty=1.000 ratio=1.006
+12/26 09:30:04 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 09:30:04 finished saving model
+12/26 09:36:57   decaying learning rate to: 0.00826
+12/26 09:58:08 step 198000 epoch 81 learning rate 0.00826 step-time 0.839 loss 0.079
+12/26 09:58:08 starting evaluation
+12/26 10:02:24 test bleu=37.51 loss=107.63 penalty=1.000 ratio=1.005
+12/26 10:02:24 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 10:02:24 finished saving model
+12/26 10:15:29   decaying learning rate to: 0.00784
+12/26 10:30:16 step 200000 epoch 82 learning rate 0.00784 step-time 0.833 loss 0.079
+12/26 10:30:16 starting evaluation
+12/26 10:34:31 test bleu=37.48 loss=107.55 penalty=1.000 ratio=1.005
+12/26 10:34:31 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 10:34:31 finished saving model
+12/26 10:53:52   decaying learning rate to: 0.00745
+12/26 11:02:24 step 202000 epoch 83 learning rate 0.00745 step-time 0.833 loss 0.079
+12/26 11:02:24 starting evaluation
+12/26 11:06:35 test bleu=37.26 loss=107.78 penalty=1.000 ratio=1.012
+12/26 11:06:35 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 11:06:35 finished saving model
+12/26 11:31:48   decaying learning rate to: 0.00708
+12/26 11:34:08 step 204000 epoch 84 learning rate 0.00708 step-time 0.825 loss 0.078
+12/26 11:34:08 starting evaluation
+12/26 11:39:15 test bleu=37.46 loss=107.65 penalty=1.000 ratio=1.005
+12/26 11:39:15 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 11:39:16 finished saving model
+12/26 12:07:43 step 206000 epoch 85 learning rate 0.00708 step-time 0.852 loss 0.075
+12/26 12:07:43 starting evaluation
+12/26 12:12:50 test bleu=37.68 loss=107.87 penalty=0.990 ratio=0.990
+12/26 12:12:50 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 12:12:50 finished saving model
+12/26 12:16:41   decaying learning rate to: 0.00673
+12/26 12:41:16 step 208000 epoch 85 learning rate 0.00673 step-time 0.851 loss 0.073
+12/26 12:41:16 starting evaluation
+12/26 12:46:25 test bleu=37.21 loss=108.30 penalty=1.000 ratio=1.010
+12/26 12:46:25 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 12:46:25 finished saving model
+12/26 12:56:38   decaying learning rate to: 0.00639
+12/26 13:14:47 step 210000 epoch 86 learning rate 0.00639 step-time 0.849 loss 0.074
+12/26 13:14:47 starting evaluation
+12/26 13:19:55 test bleu=37.69 loss=108.12 penalty=1.000 ratio=1.001
+12/26 13:19:55 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 13:19:55 finished saving model
+12/26 13:36:35   decaying learning rate to: 0.00607
+12/26 13:48:20 step 212000 epoch 87 learning rate 0.00607 step-time 0.850 loss 0.072
+12/26 13:48:20 starting evaluation
+12/26 13:53:27 test bleu=37.59 loss=108.37 penalty=1.000 ratio=1.000
+12/26 13:53:27 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 13:53:27 finished saving model
+12/26 14:16:38   decaying learning rate to: 0.00577
+12/26 14:21:55 step 214000 epoch 88 learning rate 0.00577 step-time 0.852 loss 0.073
+12/26 14:21:55 starting evaluation
+12/26 14:27:02 test bleu=37.71 loss=108.30 penalty=0.999 ratio=0.999
+12/26 14:27:02 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 14:27:02 finished saving model
+12/26 14:55:29 step 216000 epoch 89 learning rate 0.00577 step-time 0.851 loss 0.072
+12/26 14:55:29 starting evaluation
+12/26 15:00:37 test bleu=37.50 loss=108.42 penalty=1.000 ratio=1.002
+12/26 15:00:37 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 15:00:37 finished saving model
+12/26 15:01:44   decaying learning rate to: 0.00548
+12/26 15:29:04 step 218000 epoch 90 learning rate 0.00548 step-time 0.852 loss 0.069
+12/26 15:29:04 starting evaluation
+12/26 15:34:13 test bleu=37.37 loss=108.62 penalty=1.000 ratio=1.008
+12/26 15:34:13 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 15:34:13 finished saving model
+12/26 15:41:31   decaying learning rate to: 0.0052
+12/26 16:02:40 step 220000 epoch 90 learning rate 0.0052 step-time 0.852 loss 0.069
+12/26 16:02:40 starting evaluation
+12/26 16:07:49 test bleu=37.44 loss=108.51 penalty=1.000 ratio=1.006
+12/26 16:07:49 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 16:07:49 finished saving model
+12/26 16:21:35   decaying learning rate to: 0.00494
+12/26 16:36:15 step 222000 epoch 91 learning rate 0.00494 step-time 0.851 loss 0.068
+12/26 16:36:15 starting evaluation
+12/26 16:41:24 test bleu=37.30 loss=108.77 penalty=1.000 ratio=1.010
+12/26 16:41:24 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 16:41:25 finished saving model
+12/26 17:01:37   decaying learning rate to: 0.0047
+12/26 17:09:47 step 224000 epoch 92 learning rate 0.0047 step-time 0.849 loss 0.069
+12/26 17:09:47 starting evaluation
+12/26 17:14:53 test bleu=37.47 loss=108.87 penalty=1.000 ratio=1.005
+12/26 17:14:53 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 17:14:53 finished saving model
+12/26 17:41:35   decaying learning rate to: 0.00446
+12/26 17:43:20 step 226000 epoch 93 learning rate 0.00446 step-time 0.852 loss 0.068
+12/26 17:43:20 starting evaluation
+12/26 17:48:25 test bleu=37.59 loss=108.76 penalty=1.000 ratio=1.002
+12/26 17:48:25 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 17:48:26 finished saving model
+12/26 18:16:55 step 228000 epoch 94 learning rate 0.00446 step-time 0.853 loss 0.066
+12/26 18:16:55 starting evaluation
+12/26 18:22:02 test bleu=37.18 loss=108.91 penalty=1.000 ratio=1.012
+12/26 18:22:02 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 18:22:02 finished saving model
+12/26 18:26:26   decaying learning rate to: 0.00424
+12/26 18:50:32 step 230000 epoch 94 learning rate 0.00424 step-time 0.853 loss 0.066
+12/26 18:50:32 starting evaluation
+12/26 18:55:37 test bleu=37.64 loss=109.05 penalty=1.000 ratio=1.001
+12/26 18:55:37 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 18:55:37 finished saving model
+12/26 19:06:29   decaying learning rate to: 0.00403
+12/26 19:24:04 step 232000 epoch 95 learning rate 0.00403 step-time 0.852 loss 0.064
+12/26 19:24:04 starting evaluation
+12/26 19:29:09 test bleu=37.48 loss=109.21 penalty=1.000 ratio=1.005
+12/26 19:29:09 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 19:29:09 finished saving model
+12/26 19:46:29   decaying learning rate to: 0.00383
+12/26 19:57:38 step 234000 epoch 96 learning rate 0.00383 step-time 0.852 loss 0.066
+12/26 19:57:38 starting evaluation
+12/26 20:02:41 test bleu=37.47 loss=109.28 penalty=1.000 ratio=1.005
+12/26 20:02:41 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 20:02:41 finished saving model
+12/26 20:26:31   decaying learning rate to: 0.00363
+12/26 20:31:13 step 236000 epoch 97 learning rate 0.00363 step-time 0.854 loss 0.066
+12/26 20:31:13 starting evaluation
+12/26 20:36:17 test bleu=37.42 loss=109.32 penalty=1.000 ratio=1.005
+12/26 20:36:17 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 20:36:17 finished saving model
+12/26 21:04:46 step 238000 epoch 98 learning rate 0.00363 step-time 0.853 loss 0.065
+12/26 21:04:46 starting evaluation
+12/26 21:09:47 test bleu=37.64 loss=109.35 penalty=1.000 ratio=1.001
+12/26 21:09:47 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 21:09:48 finished saving model
+12/26 21:11:26   decaying learning rate to: 0.00345
+12/26 21:38:19 step 240000 epoch 99 learning rate 0.00345 step-time 0.854 loss 0.062
+12/26 21:38:19 starting evaluation
+12/26 21:43:19 test bleu=37.68 loss=109.44 penalty=0.998 ratio=0.998
+12/26 21:43:19 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 21:43:19 finished saving model
+12/26 21:51:22   decaying learning rate to: 0.00328
+12/26 22:11:51 step 242000 epoch 99 learning rate 0.00328 step-time 0.854 loss 0.063
+12/26 22:11:51 starting evaluation
+12/26 22:16:53 test bleu=37.33 loss=109.45 penalty=1.000 ratio=1.006
+12/26 22:16:53 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 22:16:53 finished saving model
+12/26 22:31:17   decaying learning rate to: 0.00312
+12/26 22:45:22 step 244000 epoch 100 learning rate 0.00312 step-time 0.853 loss 0.062
+12/26 22:45:22 starting evaluation
+12/26 22:50:23 test bleu=37.51 loss=109.59 penalty=1.000 ratio=1.003
+12/26 22:50:23 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 22:50:23 finished saving model
+12/26 23:02:46 finished training
+12/26 23:02:46 exiting...
+12/26 23:02:46 saving model to models/2_fold_hybrid_pnl/checkpoints
+12/26 23:02:46 finished saving model

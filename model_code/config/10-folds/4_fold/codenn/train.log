@@ -1,0 +1,1036 @@
+nohup: ignoring input
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:516: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/root/.local/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:541: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:542: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:543: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:544: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:545: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/root/.local/lib/python3.6/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:550: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+WARNING:tensorflow:From /root/icpc/icpc/translate/rnn.py:107: The name tf.nn.rnn_cell.RNNCell is deprecated. Please use tf.compat.v1.nn.rnn_cell.RNNCell instead.
+
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:30: The name tf.get_variable is deprecated. Please use tf.compat.v1.get_variable instead.
+
+12/26 11:12:00 label: default
+12/26 11:12:00 description:
+  default configuration
+  next line of description
+  last line
+12/26 11:12:00 /root/icpc/icpc/translate/__main__.py config/10-folds/4_fold/codenn/config.yaml --train -v
+12/26 11:12:00 commit hash 74e0554cb3eb5df835cef993ad570ff8de651f71
+12/26 11:12:00 tensorflow version: 1.14.0
+12/26 11:12:00 program arguments
+12/26 11:12:00   aggregation_method   'sum'
+12/26 11:12:00   align_encoder_id     0
+12/26 11:12:00   allow_growth         True
+12/26 11:12:00   attention_type       'global'
+12/26 11:12:00   attn_filter_length   0
+12/26 11:12:00   attn_filters         0
+12/26 11:12:00   attn_prev_word       False
+12/26 11:12:00   attn_size            128
+12/26 11:12:00   attn_temperature     1.0
+12/26 11:12:00   attn_window_size     0
+12/26 11:12:00   average              False
+12/26 11:12:00   baseline_activation  None
+12/26 11:12:00   baseline_learning_rate 0.001
+12/26 11:12:00   baseline_optimizer   'adam'
+12/26 11:12:00   baseline_steps       0
+12/26 11:12:00   batch_mode           'standard'
+12/26 11:12:00   batch_size           64
+12/26 11:12:00   beam_size            5
+12/26 11:12:00   bidir                True
+12/26 11:12:00   bidir_projection     False
+12/26 11:12:00   binary               False
+12/26 11:12:00   cell_size            256
+12/26 11:12:00   cell_type            'GRU'
+12/26 11:12:00   character_level      False
+12/26 11:12:00   checkpoints          []
+12/26 11:12:00   conditional_rnn      False
+12/26 11:12:00   config               'config/10-folds/4_fold/codenn/config.yaml'
+12/26 11:12:00   convolutions         None
+12/26 11:12:00   data_dir             'data/gooddata/4_fold'
+12/26 11:12:00   debug                False
+12/26 11:12:00   decay_after_n_epoch  1
+12/26 11:12:00   decay_every_n_epoch  1
+12/26 11:12:00   decay_if_no_progress None
+12/26 11:12:00   decoders             [{'max_len': 40, 'name': 'nl'}]
+12/26 11:12:00   description          'default configuration\nnext line of description\nlast line\n'
+12/26 11:12:00   dev_prefix           'test'
+12/26 11:12:00   early_stopping       True
+12/26 11:12:00   embedding_dropout    0.0
+12/26 11:12:00   embedding_initializer None
+12/26 11:12:00   embedding_size       256
+12/26 11:12:00   embedding_weight_scale None
+12/26 11:12:00   embeddings_on_cpu    True
+12/26 11:12:00   encoders             [{'attention_type': 'global', 'max_len': 200, 'name': 'code'}]
+12/26 11:12:00   ensemble             False
+12/26 11:12:00   eval_burn_in         0
+12/26 11:12:00   feed_previous        0.0
+12/26 11:12:00   final_state          'last'
+12/26 11:12:00   freeze_variables     []
+12/26 11:12:00   generate_first       True
+12/26 11:12:00   gpu_id               2
+12/26 11:12:00   highway_layers       0
+12/26 11:12:00   initial_state_dropout 0.0
+12/26 11:12:00   initializer          None
+12/26 11:12:00   input_layer_dropout  0.0
+12/26 11:12:00   input_layers         None
+12/26 11:12:00   keep_best            5
+12/26 11:12:00   keep_every_n_hours   0
+12/26 11:12:00   label                'default'
+12/26 11:12:00   layer_norm           False
+12/26 11:12:00   layers               1
+12/26 11:12:00   learning_rate        0.5
+12/26 11:12:00   learning_rate_decay_factor 0.95
+12/26 11:12:00   len_normalization    1.0
+12/26 11:12:00   log_file             'log.txt'
+12/26 11:12:00   loss_function        'xent'
+12/26 11:12:00   max_dev_size         0
+12/26 11:12:00   max_epochs           100
+12/26 11:12:00   max_gradient_norm    5.0
+12/26 11:12:00   max_len              50
+12/26 11:12:00   max_steps            600000
+12/26 11:12:00   max_test_size        0
+12/26 11:12:00   max_to_keep          1
+12/26 11:12:00   max_train_size       0
+12/26 11:12:00   maxout_stride        None
+12/26 11:12:00   mem_fraction         1.0
+12/26 11:12:00   min_learning_rate    1e-06
+12/26 11:12:00   model_dir            'models/4_fold_codenn'
+12/26 11:12:00   moving_average       None
+12/26 11:12:00   no_gpu               False
+12/26 11:12:00   optimizer            'sgd'
+12/26 11:12:00   orthogonal_init      False
+12/26 11:12:00   output               None
+12/26 11:12:00   output_dropout       0.0
+12/26 11:12:00   parallel_iterations  16
+12/26 11:12:00   pervasive_dropout    False
+12/26 11:12:00   pooling_avg          True
+12/26 11:12:00   post_process_script  None
+12/26 11:12:00   pred_deep_layer      False
+12/26 11:12:00   pred_edits           False
+12/26 11:12:00   pred_embed_proj      True
+12/26 11:12:00   pred_maxout_layer    True
+12/26 11:12:00   purge                False
+12/26 11:12:00   raw_output           False
+12/26 11:12:00   read_ahead           1
+12/26 11:12:00   reconstruction_attn_weight 0.05
+12/26 11:12:00   reconstruction_decoders False
+12/26 11:12:00   reconstruction_weight 1.0
+12/26 11:12:00   reinforce_after_n_epoch None
+12/26 11:12:00   remove_unk           False
+12/26 11:12:00   reverse              False
+12/26 11:12:00   reverse_input        True
+12/26 11:12:00   reward_function      'sentence_bleu'
+12/26 11:12:00   rnn_feed_attn        True
+12/26 11:12:00   rnn_input_dropout    0.0
+12/26 11:12:00   rnn_output_dropout   0.0
+12/26 11:12:00   rnn_state_dropout    0.0
+12/26 11:12:00   save                 False
+12/26 11:12:00   score_function       'corpus_bleu'
+12/26 11:12:00   score_functions      ['bleu', 'loss']
+12/26 11:12:00   script_dir           'scripts'
+12/26 11:12:00   sgd_after_n_epoch    None
+12/26 11:12:00   sgd_learning_rate    1.0
+12/26 11:12:00   shuffle              True
+12/26 11:12:00   softmax_temperature  1.0
+12/26 11:12:00   steps_per_checkpoint 2000
+12/26 11:12:00   steps_per_eval       2000
+12/26 11:12:00   swap_memory          True
+12/26 11:12:00   tie_embeddings       False
+12/26 11:12:00   time_pooling         None
+12/26 11:12:00   train                True
+12/26 11:12:00   train_initial_states True
+12/26 11:12:00   train_prefix         'train'
+12/26 11:12:00   truncate_lines       True
+12/26 11:12:00   update_first         False
+12/26 11:12:00   use_baseline         False
+12/26 11:12:00   use_dropout          False
+12/26 11:12:00   use_lstm_full_state  False
+12/26 11:12:00   use_previous_word    True
+12/26 11:12:00   verbose              True
+12/26 11:12:00   vocab_prefix         'vocab'
+12/26 11:12:00   weight_scale         None
+12/26 11:12:00   word_dropout         0.0
+12/26 11:12:00 python random seed: 6900355176792225556
+12/26 11:12:00 tf random seed:     3137888469550022518
+WARNING:tensorflow:From /root/icpc/icpc/translate/__main__.py:203: The name tf.set_random_seed is deprecated. Please use tf.compat.v1.set_random_seed instead.
+
+12/26 11:12:00 creating model
+12/26 11:12:00 using device: /gpu:2
+WARNING:tensorflow:From /root/icpc/icpc/translate/__main__.py:230: The name tf.get_variable_scope is deprecated. Please use tf.compat.v1.get_variable_scope instead.
+
+12/26 11:12:00 copying vocab to models/4_fold_codenn/data/vocab.code
+12/26 11:12:00 copying vocab to models/4_fold_codenn/data/vocab.nl
+12/26 11:12:00 reading vocabularies
+12/26 11:12:00 creating model
+WARNING:tensorflow:From /root/icpc/icpc/translate/seq2seq_model.py:60: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:From /root/.local/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:111: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+WARNING:tensorflow:From /root/icpc/icpc/translate/rnn.py:33: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+WARNING:tensorflow:From /root/.local/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:464: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+WARNING:tensorflow:Entity <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fd3e3429588>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fd3e3429588>>: AttributeError: module 'gast' has no attribute 'Num'
+WARNING:tensorflow:From /root/icpc/icpc/translate/rnn.py:226: calling Constant.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /root/.local/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:244: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+WARNING:tensorflow:Entity <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fd3e3429b70>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fd3e3429b70>>: AttributeError: module 'gast' has no attribute 'Num'
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:20: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd3e34350b8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd3e34350b8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:838: to_int64 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd46a26a860>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd46a26a860>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd46a215d30>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd46a215d30>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:432: calling reduce_max_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:435: calling reduce_sum_v1 (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd4660b66d8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd4660b66d8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd466060518>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd466060518>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd46a241908>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd46a241908>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd46a25d0b8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd46a25d0b8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd46a25d0b8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd46a25d0b8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:From /root/icpc/icpc/translate/models.py:919: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+WARNING:tensorflow:Entity <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fd465d652e8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fd465d652e8>>: AttributeError: module 'gast' has no attribute 'Num'
+WARNING:tensorflow:From /root/icpc/icpc/translate/beam_search.py:10: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+WARNING:tensorflow:From /root/icpc/icpc/translate/seq2seq_model.py:131: The name tf.train.GradientDescentOptimizer is deprecated. Please use tf.compat.v1.train.GradientDescentOptimizer instead.
+
+WARNING:tensorflow:From /root/icpc/icpc/translate/beam_search.py:223: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+WARNING:tensorflow:Entity <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fd40e8cddd8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method GRUCell.call of <translate.rnn.GRUCell object at 0x7fd40e8cddd8>>: AttributeError: module 'gast' has no attribute 'Num'
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd40e8076d8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd40e8076d8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd40e7aad68>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd40e7aad68>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd40e8b0ef0>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd40e8b0ef0>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd40e763cf8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd40e763cf8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+WARNING:tensorflow:Entity <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd40e763cf8>> could not be transformed and will be executed as-is. Please report this to the AutgoGraph team. When filing the bug, set the verbosity to 10 (on Linux, `export AUTOGRAPH_VERBOSITY=10`) and attach the full output. Cause: converting <bound method Dense.call of <tensorflow.python.layers.core.Dense object at 0x7fd40e763cf8>>: AssertionError: Bad argument number for Name: 3, expecting 4
+12/26 11:12:05 model parameters (30)
+12/26 11:12:05   baseline_step:0 ()
+12/26 11:12:05   decoder_nl/attention_code/U_a/kernel:0 (512, 128)
+12/26 11:12:05   decoder_nl/attention_code/W_a/bias:0 (128,)
+12/26 11:12:05   decoder_nl/attention_code/W_a/kernel:0 (256, 128)
+12/26 11:12:05   decoder_nl/attention_code/v_a:0 (128,)
+12/26 11:12:05   decoder_nl/code/initial_state_projection/bias:0 (256,)
+12/26 11:12:05   decoder_nl/code/initial_state_projection/kernel:0 (256, 256)
+12/26 11:12:05   decoder_nl/gru_cell/candidate/bias:0 (256,)
+12/26 11:12:05   decoder_nl/gru_cell/candidate/kernel:0 (1024, 256)
+12/26 11:12:05   decoder_nl/gru_cell/gates/bias:0 (512,)
+12/26 11:12:05   decoder_nl/gru_cell/gates/kernel:0 (1024, 512)
+12/26 11:12:05   decoder_nl/maxout/bias:0 (256,)
+12/26 11:12:05   decoder_nl/maxout/kernel:0 (1024, 256)
+12/26 11:12:05   decoder_nl/softmax0/kernel:0 (128, 256)
+12/26 11:12:05   decoder_nl/softmax1/bias:0 (37998,)
+12/26 11:12:05   decoder_nl/softmax1/kernel:0 (256, 37998)
+12/26 11:12:05   embedding_code:0 (50000, 256)
+12/26 11:12:05   embedding_nl:0 (37998, 256)
+12/26 11:12:05   encoder_code/initial_state_bw:0 (256,)
+12/26 11:12:05   encoder_code/initial_state_fw:0 (256,)
+12/26 11:12:05   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/candidate/bias:0 (256,)
+12/26 11:12:05   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/candidate/kernel:0 (512, 256)
+12/26 11:12:05   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/gates/bias:0 (512,)
+12/26 11:12:05   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/bw/gru_cell/gates/kernel:0 (512, 512)
+12/26 11:12:05   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/candidate/bias:0 (256,)
+12/26 11:12:05   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/candidate/kernel:0 (512, 256)
+12/26 11:12:05   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/gates/bias:0 (512,)
+12/26 11:12:05   encoder_code/stack_bidirectional_rnn/cell_0/bidirectional_rnn/fw/gru_cell/gates/kernel:0 (512, 512)
+12/26 11:12:05   global_step:0 ()
+12/26 11:12:05   learning_rate:0 ()
+12/26 11:12:05 number of parameters: 34.33M
+WARNING:tensorflow:From /root/icpc/icpc/translate/translation_model.py:666: The name tf.train.Saver is deprecated. Please use tf.compat.v1.train.Saver instead.
+
+12/26 11:12:06 global step: 0
+12/26 11:12:06 baseline step: 0
+12/26 11:12:06 reading training data
+12/26 11:12:06 total line count: 156721
+12/26 11:12:10   lines read: 100000
+12/26 11:12:12 files: data/gooddata/4_fold/train.code data/gooddata/4_fold/train.nl
+12/26 11:12:12 lines reads: 156721
+12/26 11:12:12 reading development data
+12/26 11:12:13 files: data/gooddata/4_fold/test.code data/gooddata/4_fold/test.nl
+12/26 11:12:13 lines reads: 17413
+12/26 11:12:14 starting training
+12/26 11:28:56 step 2000 epoch 1 learning rate 0.5 step-time 0.499 loss 77.792
+12/26 11:28:56 starting evaluation
+12/26 11:31:39 test bleu=1.56 loss=65.36 penalty=1.000 ratio=1.050
+12/26 11:31:39 saving model to models/4_fold_codenn/checkpoints
+12/26 11:31:40 finished saving model
+12/26 11:31:40 new best model
+12/26 11:35:28   decaying learning rate to: 0.475
+12/26 11:48:40 step 4000 epoch 2 learning rate 0.475 step-time 0.508 loss 58.841
+12/26 11:48:40 starting evaluation
+12/26 11:51:21 test bleu=2.92 loss=55.77 penalty=1.000 ratio=1.561
+12/26 11:51:21 saving model to models/4_fold_codenn/checkpoints
+WARNING:tensorflow:From /root/.local/lib/python3.6/site-packages/tensorflow/python/training/saver.py:960: remove_checkpoint (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to delete files with this prefix.
+12/26 11:51:22 finished saving model
+12/26 11:51:22 new best model
+12/26 11:59:01   decaying learning rate to: 0.451
+12/26 12:08:26 step 6000 epoch 3 learning rate 0.451 step-time 0.510 loss 52.354
+12/26 12:08:26 starting evaluation
+12/26 12:11:06 test bleu=7.37 loss=51.10 penalty=0.886 ratio=0.892
+12/26 12:11:06 saving model to models/4_fold_codenn/checkpoints
+12/26 12:11:06 finished saving model
+12/26 12:11:06 new best model
+12/26 12:22:29   decaying learning rate to: 0.429
+12/26 12:28:04 step 8000 epoch 4 learning rate 0.429 step-time 0.507 loss 47.767
+12/26 12:28:04 starting evaluation
+12/26 12:30:44 test bleu=9.60 loss=47.37 penalty=0.856 ratio=0.866
+12/26 12:30:44 saving model to models/4_fold_codenn/checkpoints
+12/26 12:30:44 finished saving model
+12/26 12:30:44 new best model
+12/26 12:45:57   decaying learning rate to: 0.407
+12/26 12:47:41 step 10000 epoch 5 learning rate 0.407 step-time 0.507 loss 44.135
+12/26 12:47:41 starting evaluation
+12/26 12:50:18 test bleu=11.18 loss=45.49 penalty=0.836 ratio=0.848
+12/26 12:50:18 saving model to models/4_fold_codenn/checkpoints
+12/26 12:50:19 finished saving model
+12/26 12:50:19 new best model
+12/26 13:07:19 step 12000 epoch 5 learning rate 0.407 step-time 0.508 loss 40.863
+12/26 13:07:19 starting evaluation
+12/26 13:09:51 test bleu=12.42 loss=43.39 penalty=0.764 ratio=0.788
+12/26 13:09:51 saving model to models/4_fold_codenn/checkpoints
+12/26 13:09:51 finished saving model
+12/26 13:09:51 new best model
+12/26 13:11:56   decaying learning rate to: 0.387
+12/26 13:26:48 step 14000 epoch 6 learning rate 0.387 step-time 0.507 loss 37.790
+12/26 13:26:48 starting evaluation
+12/26 13:29:32 test bleu=15.08 loss=42.35 penalty=1.000 ratio=1.001
+12/26 13:29:32 saving model to models/4_fold_codenn/checkpoints
+12/26 13:29:32 finished saving model
+12/26 13:29:32 new best model
+12/26 13:35:26   decaying learning rate to: 0.368
+12/26 13:46:33 step 16000 epoch 7 learning rate 0.368 step-time 0.508 loss 35.235
+12/26 13:46:33 starting evaluation
+12/26 13:49:15 test bleu=15.90 loss=41.55 penalty=1.000 ratio=1.044
+12/26 13:49:15 saving model to models/4_fold_codenn/checkpoints
+12/26 13:49:15 finished saving model
+12/26 13:49:15 new best model
+12/26 13:58:59   decaying learning rate to: 0.349
+12/26 14:06:15 step 18000 epoch 8 learning rate 0.349 step-time 0.508 loss 33.249
+12/26 14:06:15 starting evaluation
+12/26 14:08:49 test bleu=17.96 loss=40.69 penalty=0.905 ratio=0.909
+12/26 14:08:49 saving model to models/4_fold_codenn/checkpoints
+12/26 14:08:49 finished saving model
+12/26 14:08:49 new best model
+12/26 14:22:23   decaying learning rate to: 0.332
+12/26 14:25:50 step 20000 epoch 9 learning rate 0.332 step-time 0.508 loss 31.224
+12/26 14:25:50 starting evaluation
+12/26 14:28:28 test bleu=19.39 loss=40.45 penalty=0.927 ratio=0.929
+12/26 14:28:28 saving model to models/4_fold_codenn/checkpoints
+12/26 14:28:28 finished saving model
+12/26 14:28:28 new best model
+12/26 14:45:28 step 22000 epoch 9 learning rate 0.332 step-time 0.508 loss 29.283
+12/26 14:45:28 starting evaluation
+12/26 14:48:10 test bleu=20.49 loss=39.50 penalty=1.000 ratio=1.000
+12/26 14:48:10 saving model to models/4_fold_codenn/checkpoints
+12/26 14:48:10 finished saving model
+12/26 14:48:10 new best model
+12/26 14:48:31   decaying learning rate to: 0.315
+12/26 15:05:08 step 24000 epoch 10 learning rate 0.315 step-time 0.507 loss 26.754
+12/26 15:05:08 starting evaluation
+12/26 15:07:45 test bleu=21.11 loss=39.63 penalty=0.892 ratio=0.898
+12/26 15:07:45 saving model to models/4_fold_codenn/checkpoints
+12/26 15:07:45 finished saving model
+12/26 15:07:45 new best model
+12/26 15:11:57   decaying learning rate to: 0.299
+12/26 15:24:45 step 26000 epoch 11 learning rate 0.299 step-time 0.508 loss 25.060
+12/26 15:24:45 starting evaluation
+12/26 15:27:22 test bleu=22.12 loss=40.31 penalty=0.866 ratio=0.874
+12/26 15:27:22 saving model to models/4_fold_codenn/checkpoints
+12/26 15:27:22 finished saving model
+12/26 15:27:22 new best model
+12/26 15:35:19   decaying learning rate to: 0.284
+12/26 15:44:19 step 28000 epoch 12 learning rate 0.284 step-time 0.506 loss 23.513
+12/26 15:44:19 starting evaluation
+12/26 15:46:59 test bleu=23.50 loss=40.46 penalty=0.911 ratio=0.915
+12/26 15:46:59 saving model to models/4_fold_codenn/checkpoints
+12/26 15:46:59 finished saving model
+12/26 15:46:59 new best model
+12/26 15:58:49   decaying learning rate to: 0.27
+12/26 16:04:03 step 30000 epoch 13 learning rate 0.27 step-time 0.510 loss 22.030
+12/26 16:04:03 starting evaluation
+12/26 16:06:43 test bleu=24.05 loss=41.35 penalty=0.915 ratio=0.918
+12/26 16:06:43 saving model to models/4_fold_codenn/checkpoints
+12/26 16:06:43 finished saving model
+12/26 16:06:43 new best model
+12/26 16:22:17   decaying learning rate to: 0.257
+12/26 16:23:40 step 32000 epoch 14 learning rate 0.257 step-time 0.506 loss 20.829
+12/26 16:23:40 starting evaluation
+12/26 16:26:15 test bleu=24.86 loss=41.99 penalty=0.884 ratio=0.891
+12/26 16:26:15 saving model to models/4_fold_codenn/checkpoints
+12/26 16:26:15 finished saving model
+12/26 16:26:15 new best model
+12/26 16:43:15 step 34000 epoch 14 learning rate 0.257 step-time 0.508 loss 18.972
+12/26 16:43:15 starting evaluation
+12/26 16:45:52 test bleu=25.24 loss=41.18 penalty=0.919 ratio=0.922
+12/26 16:45:52 saving model to models/4_fold_codenn/checkpoints
+12/26 16:45:52 finished saving model
+12/26 16:45:52 new best model
+12/26 16:48:18   decaying learning rate to: 0.244
+12/26 17:02:55 step 36000 epoch 15 learning rate 0.244 step-time 0.509 loss 17.485
+12/26 17:02:55 starting evaluation
+12/26 17:05:26 test bleu=25.80 loss=42.58 penalty=0.857 ratio=0.866
+12/26 17:05:26 saving model to models/4_fold_codenn/checkpoints
+12/26 17:05:26 finished saving model
+12/26 17:05:26 new best model
+12/26 17:11:36   decaying learning rate to: 0.232
+12/26 17:22:21 step 38000 epoch 16 learning rate 0.232 step-time 0.506 loss 16.254
+12/26 17:22:21 starting evaluation
+12/26 17:24:59 test bleu=26.93 loss=43.60 penalty=0.922 ratio=0.925
+12/26 17:24:59 saving model to models/4_fold_codenn/checkpoints
+12/26 17:25:00 finished saving model
+12/26 17:25:00 new best model
+12/26 17:35:04   decaying learning rate to: 0.22
+12/26 17:41:58 step 40000 epoch 17 learning rate 0.22 step-time 0.507 loss 15.294
+12/26 17:41:58 starting evaluation
+12/26 17:44:36 test bleu=27.20 loss=45.17 penalty=0.935 ratio=0.937
+12/26 17:44:36 saving model to models/4_fold_codenn/checkpoints
+12/26 17:44:36 finished saving model
+12/26 17:44:36 new best model
+12/26 17:58:30   decaying learning rate to: 0.209
+12/26 18:01:37 step 42000 epoch 18 learning rate 0.209 step-time 0.508 loss 14.285
+12/26 18:01:37 starting evaluation
+12/26 18:04:14 test bleu=27.54 loss=46.20 penalty=0.971 ratio=0.971
+12/26 18:04:15 saving model to models/4_fold_codenn/checkpoints
+12/26 18:04:15 finished saving model
+12/26 18:04:15 new best model
+12/26 18:21:20 step 44000 epoch 18 learning rate 0.209 step-time 0.510 loss 13.251
+12/26 18:21:20 starting evaluation
+12/26 18:23:58 test bleu=28.15 loss=46.36 penalty=0.926 ratio=0.928
+12/26 18:23:58 saving model to models/4_fold_codenn/checkpoints
+12/26 18:23:59 finished saving model
+12/26 18:23:59 new best model
+12/26 18:24:40   decaying learning rate to: 0.199
+12/26 18:41:00 step 46000 epoch 19 learning rate 0.199 step-time 0.508 loss 11.720
+12/26 18:41:00 starting evaluation
+12/26 18:43:40 test bleu=28.89 loss=47.63 penalty=0.982 ratio=0.982
+12/26 18:43:40 saving model to models/4_fold_codenn/checkpoints
+12/26 18:43:40 finished saving model
+12/26 18:43:40 new best model
+12/26 18:48:15   decaying learning rate to: 0.189
+12/26 19:00:39 step 48000 epoch 20 learning rate 0.189 step-time 0.508 loss 10.952
+12/26 19:00:39 starting evaluation
+12/26 19:03:22 test bleu=28.28 loss=49.69 penalty=1.000 ratio=1.014
+12/26 19:03:22 saving model to models/4_fold_codenn/checkpoints
+12/26 19:03:22 finished saving model
+12/26 19:11:43   decaying learning rate to: 0.179
+12/26 19:20:25 step 50000 epoch 21 learning rate 0.179 step-time 0.510 loss 10.216
+12/26 19:20:25 starting evaluation
+12/26 19:23:02 test bleu=29.30 loss=52.24 penalty=0.962 ratio=0.962
+12/26 19:23:02 saving model to models/4_fold_codenn/checkpoints
+12/26 19:23:02 finished saving model
+12/26 19:23:02 new best model
+12/26 19:35:09   decaying learning rate to: 0.17
+12/26 19:40:02 step 52000 epoch 22 learning rate 0.17 step-time 0.508 loss 9.524
+12/26 19:40:02 starting evaluation
+12/26 19:42:43 test bleu=28.76 loss=53.84 penalty=1.000 ratio=1.031
+12/26 19:42:43 saving model to models/4_fold_codenn/checkpoints
+12/26 19:42:43 finished saving model
+12/26 19:58:38   decaying learning rate to: 0.162
+12/26 19:59:40 step 54000 epoch 23 learning rate 0.162 step-time 0.507 loss 8.820
+12/26 19:59:40 starting evaluation
+12/26 20:02:19 test bleu=30.12 loss=55.16 penalty=0.953 ratio=0.954
+12/26 20:02:19 saving model to models/4_fold_codenn/checkpoints
+12/26 20:02:19 finished saving model
+12/26 20:02:19 new best model
+12/26 20:19:17 step 56000 epoch 23 learning rate 0.162 step-time 0.507 loss 7.882
+12/26 20:19:17 starting evaluation
+12/26 20:21:59 test bleu=30.12 loss=56.18 penalty=0.977 ratio=0.977
+12/26 20:21:59 saving model to models/4_fold_codenn/checkpoints
+12/26 20:21:59 finished saving model
+12/26 20:24:46   decaying learning rate to: 0.154
+12/26 20:39:00 step 58000 epoch 24 learning rate 0.154 step-time 0.508 loss 7.173
+12/26 20:39:00 starting evaluation
+12/26 20:41:37 test bleu=30.59 loss=58.52 penalty=0.960 ratio=0.960
+12/26 20:41:37 saving model to models/4_fold_codenn/checkpoints
+12/26 20:41:37 finished saving model
+12/26 20:41:37 new best model
+12/26 20:48:15   decaying learning rate to: 0.146
+12/26 20:58:42 step 60000 epoch 25 learning rate 0.146 step-time 0.510 loss 6.669
+12/26 20:58:42 starting evaluation
+12/26 21:01:24 test bleu=30.60 loss=61.32 penalty=0.996 ratio=0.996
+12/26 21:01:24 saving model to models/4_fold_codenn/checkpoints
+12/26 21:01:24 finished saving model
+12/26 21:01:24 new best model
+12/26 21:11:45   decaying learning rate to: 0.139
+12/26 21:18:21 step 62000 epoch 26 learning rate 0.139 step-time 0.506 loss 6.182
+12/26 21:18:21 starting evaluation
+12/26 21:21:02 test bleu=30.28 loss=63.54 penalty=1.000 ratio=1.015
+12/26 21:21:02 saving model to models/4_fold_codenn/checkpoints
+12/26 21:21:02 finished saving model
+12/26 21:35:15   decaying learning rate to: 0.132
+12/26 21:38:02 step 64000 epoch 27 learning rate 0.132 step-time 0.508 loss 5.803
+12/26 21:38:02 starting evaluation
+12/26 21:40:40 test bleu=31.40 loss=64.25 penalty=0.965 ratio=0.966
+12/26 21:40:40 saving model to models/4_fold_codenn/checkpoints
+12/26 21:40:40 finished saving model
+12/26 21:40:40 new best model
+12/26 21:57:43 step 66000 epoch 27 learning rate 0.132 step-time 0.509 loss 5.263
+12/26 21:57:43 starting evaluation
+12/26 22:00:21 test bleu=31.26 loss=65.60 penalty=1.000 ratio=1.008
+12/26 22:00:22 saving model to models/4_fold_codenn/checkpoints
+12/26 22:00:22 finished saving model
+12/26 22:01:23   decaying learning rate to: 0.125
+12/26 22:17:20 step 68000 epoch 28 learning rate 0.125 step-time 0.507 loss 4.610
+12/26 22:17:20 starting evaluation
+12/26 22:20:00 test bleu=30.22 loss=68.04 penalty=1.000 ratio=1.044
+12/26 22:20:00 saving model to models/4_fold_codenn/checkpoints
+12/26 22:20:01 finished saving model
+12/26 22:24:52   decaying learning rate to: 0.119
+12/26 22:37:00 step 70000 epoch 29 learning rate 0.119 step-time 0.508 loss 4.320
+12/26 22:37:00 starting evaluation
+12/26 22:39:40 test bleu=31.82 loss=70.29 penalty=0.992 ratio=0.992
+12/26 22:39:40 saving model to models/4_fold_codenn/checkpoints
+12/26 22:39:41 finished saving model
+12/26 22:39:41 new best model
+12/26 22:48:21   decaying learning rate to: 0.113
+12/26 22:56:36 step 72000 epoch 30 learning rate 0.113 step-time 0.506 loss 4.019
+12/26 22:56:36 starting evaluation
+12/26 22:59:17 test bleu=31.65 loss=73.26 penalty=0.993 ratio=0.993
+12/26 22:59:17 saving model to models/4_fold_codenn/checkpoints
+12/26 22:59:17 finished saving model
+12/26 23:11:34   decaying learning rate to: 0.107
+12/26 23:15:58 step 74000 epoch 31 learning rate 0.107 step-time 0.499 loss 3.712
+12/26 23:15:58 starting evaluation
+12/26 23:18:35 test bleu=31.88 loss=75.23 penalty=1.000 ratio=1.003
+12/26 23:18:35 saving model to models/4_fold_codenn/checkpoints
+12/26 23:18:35 finished saving model
+12/26 23:18:35 new best model
+12/26 23:34:29   decaying learning rate to: 0.102
+12/26 23:35:10 step 76000 epoch 32 learning rate 0.102 step-time 0.495 loss 3.482
+12/26 23:35:10 starting evaluation
+12/26 23:37:49 test bleu=30.18 loss=76.23 penalty=1.000 ratio=1.069
+12/26 23:37:49 saving model to models/4_fold_codenn/checkpoints
+12/26 23:37:49 finished saving model
+12/26 23:54:19 step 78000 epoch 32 learning rate 0.102 step-time 0.493 loss 3.046
+12/26 23:54:19 starting evaluation
+12/26 23:56:55 test bleu=31.97 loss=78.34 penalty=1.000 ratio=1.005
+12/26 23:56:55 saving model to models/4_fold_codenn/checkpoints
+12/26 23:56:56 finished saving model
+12/26 23:56:56 new best model
+12/27 00:00:00   decaying learning rate to: 0.0969
+12/27 00:13:31 step 80000 epoch 33 learning rate 0.0969 step-time 0.496 loss 2.773
+12/27 00:13:31 starting evaluation
+12/27 00:16:06 test bleu=31.12 loss=81.24 penalty=1.000 ratio=1.034
+12/27 00:16:06 saving model to models/4_fold_codenn/checkpoints
+12/27 00:16:07 finished saving model
+12/27 00:22:56   decaying learning rate to: 0.092
+12/27 00:32:46 step 82000 epoch 34 learning rate 0.092 step-time 0.498 loss 2.597
+12/27 00:32:46 starting evaluation
+12/27 00:35:22 test bleu=32.33 loss=83.17 penalty=0.993 ratio=0.993
+12/27 00:35:22 saving model to models/4_fold_codenn/checkpoints
+12/27 00:35:22 finished saving model
+12/27 00:35:22 new best model
+12/27 00:45:50   decaying learning rate to: 0.0874
+12/27 00:51:57 step 84000 epoch 35 learning rate 0.0874 step-time 0.495 loss 2.418
+12/27 00:51:57 starting evaluation
+12/27 00:54:35 test bleu=31.04 loss=85.13 penalty=1.000 ratio=1.047
+12/27 00:54:35 saving model to models/4_fold_codenn/checkpoints
+12/27 00:54:35 finished saving model
+12/27 01:08:45   decaying learning rate to: 0.083
+12/27 01:11:09 step 86000 epoch 36 learning rate 0.083 step-time 0.495 loss 2.269
+12/27 01:11:09 starting evaluation
+12/27 01:13:47 test bleu=31.57 loss=87.22 penalty=1.000 ratio=1.031
+12/27 01:13:47 saving model to models/4_fold_codenn/checkpoints
+12/27 01:13:47 finished saving model
+12/27 01:30:23 step 88000 epoch 36 learning rate 0.083 step-time 0.496 loss 2.051
+12/27 01:30:23 starting evaluation
+12/27 01:32:57 test bleu=32.55 loss=88.80 penalty=0.993 ratio=0.993
+12/27 01:32:57 saving model to models/4_fold_codenn/checkpoints
+12/27 01:32:58 finished saving model
+12/27 01:32:58 new best model
+12/27 01:34:18   decaying learning rate to: 0.0789
+12/27 01:49:36 step 90000 epoch 37 learning rate 0.0789 step-time 0.497 loss 1.828
+12/27 01:49:36 starting evaluation
+12/27 01:52:14 test bleu=31.13 loss=91.02 penalty=1.000 ratio=1.050
+12/27 01:52:14 saving model to models/4_fold_codenn/checkpoints
+12/27 01:52:14 finished saving model
+12/27 01:57:17   decaying learning rate to: 0.0749
+12/27 02:08:46 step 92000 epoch 38 learning rate 0.0749 step-time 0.494 loss 1.697
+12/27 02:08:46 starting evaluation
+12/27 02:11:24 test bleu=32.45 loss=93.40 penalty=1.000 ratio=1.010
+12/27 02:11:24 saving model to models/4_fold_codenn/checkpoints
+12/27 02:11:24 finished saving model
+12/27 02:20:15   decaying learning rate to: 0.0712
+12/27 02:27:59 step 94000 epoch 39 learning rate 0.0712 step-time 0.495 loss 1.614
+12/27 02:27:59 starting evaluation
+12/27 02:30:37 test bleu=31.65 loss=94.85 penalty=1.000 ratio=1.039
+12/27 02:30:37 saving model to models/4_fold_codenn/checkpoints
+12/27 02:30:37 finished saving model
+12/27 02:43:12   decaying learning rate to: 0.0676
+12/27 02:47:16 step 96000 epoch 40 learning rate 0.0676 step-time 0.497 loss 1.484
+12/27 02:47:16 starting evaluation
+12/27 02:49:52 test bleu=31.79 loss=96.80 penalty=1.000 ratio=1.032
+12/27 02:49:52 saving model to models/4_fold_codenn/checkpoints
+12/27 02:49:53 finished saving model
+12/27 03:06:07   decaying learning rate to: 0.0643
+12/27 03:06:27 step 98000 epoch 41 learning rate 0.0643 step-time 0.496 loss 1.408
+12/27 03:06:27 starting evaluation
+12/27 03:09:05 test bleu=31.60 loss=98.96 penalty=1.000 ratio=1.038
+12/27 03:09:05 saving model to models/4_fold_codenn/checkpoints
+12/27 03:09:05 finished saving model
+12/27 03:25:39 step 100000 epoch 41 learning rate 0.0643 step-time 0.495 loss 1.231
+12/27 03:25:39 starting evaluation
+12/27 03:28:18 test bleu=31.36 loss=100.07 penalty=1.000 ratio=1.044
+12/27 03:28:18 saving model to models/4_fold_codenn/checkpoints
+12/27 03:28:18 finished saving model
+12/27 03:31:41   decaying learning rate to: 0.061
+12/27 03:44:52 step 102000 epoch 42 learning rate 0.061 step-time 0.495 loss 1.160
+12/27 03:44:52 starting evaluation
+12/27 03:47:47 test bleu=31.78 loss=101.56 penalty=1.000 ratio=1.035
+12/27 03:47:48 saving model to models/4_fold_codenn/checkpoints
+12/27 03:47:48 finished saving model
+12/27 03:57:38   decaying learning rate to: 0.058
+12/27 04:10:36 step 104000 epoch 43 learning rate 0.058 step-time 0.682 loss 1.085
+12/27 04:10:36 starting evaluation
+12/27 04:14:44 test bleu=32.11 loss=103.95 penalty=1.000 ratio=1.027
+12/27 04:14:44 saving model to models/4_fold_codenn/checkpoints
+12/27 04:14:45 finished saving model
+12/27 04:29:41   decaying learning rate to: 0.0551
+12/27 04:37:31 step 106000 epoch 44 learning rate 0.0551 step-time 0.681 loss 1.028
+12/27 04:37:31 starting evaluation
+12/27 04:41:40 test bleu=32.32 loss=105.53 penalty=1.000 ratio=1.023
+12/27 04:41:40 saving model to models/4_fold_codenn/checkpoints
+12/27 04:41:40 finished saving model
+12/27 05:01:47   decaying learning rate to: 0.0523
+12/27 05:04:28 step 108000 epoch 45 learning rate 0.0523 step-time 0.682 loss 0.970
+12/27 05:04:28 starting evaluation
+12/27 05:08:40 test bleu=31.95 loss=106.68 penalty=1.000 ratio=1.033
+12/27 05:08:40 saving model to models/4_fold_codenn/checkpoints
+12/27 05:08:40 finished saving model
+12/27 05:31:26 step 110000 epoch 45 learning rate 0.0523 step-time 0.681 loss 0.896
+12/27 05:31:26 starting evaluation
+12/27 05:35:36 test bleu=32.24 loss=107.13 penalty=1.000 ratio=1.025
+12/27 05:35:36 saving model to models/4_fold_codenn/checkpoints
+12/27 05:35:37 finished saving model
+12/27 05:37:58   decaying learning rate to: 0.0497
+12/27 05:58:24 step 112000 epoch 46 learning rate 0.0497 step-time 0.682 loss 0.812
+12/27 05:58:24 starting evaluation
+12/27 06:02:38 test bleu=31.59 loss=109.20 penalty=1.000 ratio=1.046
+12/27 06:02:38 saving model to models/4_fold_codenn/checkpoints
+12/27 06:02:38 finished saving model
+12/27 06:10:09   decaying learning rate to: 0.0472
+12/27 06:25:23 step 114000 epoch 47 learning rate 0.0472 step-time 0.681 loss 0.779
+12/27 06:25:23 starting evaluation
+12/27 06:29:39 test bleu=32.17 loss=110.73 penalty=1.000 ratio=1.026
+12/27 06:29:39 saving model to models/4_fold_codenn/checkpoints
+12/27 06:29:39 finished saving model
+12/27 06:42:13   decaying learning rate to: 0.0449
+12/27 06:52:18 step 116000 epoch 48 learning rate 0.0449 step-time 0.678 loss 0.735
+12/27 06:52:18 starting evaluation
+12/27 06:56:34 test bleu=31.92 loss=112.27 penalty=1.000 ratio=1.033
+12/27 06:56:34 saving model to models/4_fold_codenn/checkpoints
+12/27 06:56:34 finished saving model
+12/27 07:14:21   decaying learning rate to: 0.0426
+12/27 07:19:17 step 118000 epoch 49 learning rate 0.0426 step-time 0.679 loss 0.706
+12/27 07:19:17 starting evaluation
+12/27 07:23:31 test bleu=32.14 loss=113.46 penalty=1.000 ratio=1.029
+12/27 07:23:31 saving model to models/4_fold_codenn/checkpoints
+12/27 07:23:31 finished saving model
+12/27 07:46:12 step 120000 epoch 50 learning rate 0.0426 step-time 0.679 loss 0.679
+12/27 07:46:12 starting evaluation
+12/27 07:50:27 test bleu=31.66 loss=113.33 penalty=1.000 ratio=1.048
+12/27 07:50:27 saving model to models/4_fold_codenn/checkpoints
+12/27 07:50:28 finished saving model
+12/27 07:50:28   decaying learning rate to: 0.0405
+12/27 08:13:12 step 122000 epoch 50 learning rate 0.0405 step-time 0.680 loss 0.605
+12/27 08:13:12 starting evaluation
+12/27 08:17:24 test bleu=32.06 loss=115.03 penalty=1.000 ratio=1.031
+12/27 08:17:24 saving model to models/4_fold_codenn/checkpoints
+12/27 08:17:24 finished saving model
+12/27 08:22:31   decaying learning rate to: 0.0385
+12/27 08:40:01 step 124000 epoch 51 learning rate 0.0385 step-time 0.677 loss 0.580
+12/27 08:40:01 starting evaluation
+12/27 08:44:15 test bleu=31.79 loss=115.59 penalty=1.000 ratio=1.041
+12/27 08:44:15 saving model to models/4_fold_codenn/checkpoints
+12/27 08:44:15 finished saving model
+12/27 08:54:31   decaying learning rate to: 0.0365
+12/27 09:06:53 step 126000 epoch 52 learning rate 0.0365 step-time 0.677 loss 0.563
+12/27 09:06:53 starting evaluation
+12/27 09:11:06 test bleu=32.09 loss=116.94 penalty=1.000 ratio=1.034
+12/27 09:11:06 saving model to models/4_fold_codenn/checkpoints
+12/27 09:11:06 finished saving model
+12/27 09:26:32   decaying learning rate to: 0.0347
+12/27 09:33:43 step 128000 epoch 53 learning rate 0.0347 step-time 0.677 loss 0.536
+12/27 09:33:43 starting evaluation
+12/27 09:37:53 test bleu=32.28 loss=117.69 penalty=1.000 ratio=1.029
+12/27 09:37:53 saving model to models/4_fold_codenn/checkpoints
+12/27 09:37:54 finished saving model
+12/27 09:58:21   decaying learning rate to: 0.033
+12/27 10:00:30 step 130000 epoch 54 learning rate 0.033 step-time 0.676 loss 0.522
+12/27 10:00:30 starting evaluation
+12/27 10:04:41 test bleu=31.70 loss=118.95 penalty=1.000 ratio=1.044
+12/27 10:04:41 saving model to models/4_fold_codenn/checkpoints
+12/27 10:04:41 finished saving model
+12/27 10:27:19 step 132000 epoch 54 learning rate 0.033 step-time 0.677 loss 0.491
+12/27 10:27:19 starting evaluation
+12/27 10:31:31 test bleu=31.67 loss=118.62 penalty=1.000 ratio=1.052
+12/27 10:31:31 saving model to models/4_fold_codenn/checkpoints
+12/27 10:31:31 finished saving model
+12/27 10:34:19   decaying learning rate to: 0.0313
+12/27 10:54:10 step 134000 epoch 55 learning rate 0.0313 step-time 0.678 loss 0.454
+12/27 10:54:10 starting evaluation
+12/27 10:58:20 test bleu=32.07 loss=119.29 penalty=1.000 ratio=1.034
+12/27 10:58:20 saving model to models/4_fold_codenn/checkpoints
+12/27 10:58:20 finished saving model
+12/27 11:06:19   decaying learning rate to: 0.0298
+12/27 11:20:56 step 136000 epoch 56 learning rate 0.0298 step-time 0.676 loss 0.445
+12/27 11:20:56 starting evaluation
+12/27 11:25:06 test bleu=32.21 loss=120.16 penalty=1.000 ratio=1.031
+12/27 11:25:06 saving model to models/4_fold_codenn/checkpoints
+12/27 11:25:06 finished saving model
+12/27 11:38:13   decaying learning rate to: 0.0283
+12/27 11:47:40 step 138000 epoch 57 learning rate 0.0283 step-time 0.675 loss 0.430
+12/27 11:47:40 starting evaluation
+12/27 11:51:49 test bleu=32.25 loss=120.75 penalty=1.000 ratio=1.026
+12/27 11:51:49 saving model to models/4_fold_codenn/checkpoints
+12/27 11:51:49 finished saving model
+12/27 12:10:08   decaying learning rate to: 0.0269
+12/27 12:14:27 step 140000 epoch 58 learning rate 0.0269 step-time 0.677 loss 0.417
+12/27 12:14:27 starting evaluation
+12/27 12:18:35 test bleu=32.20 loss=121.62 penalty=1.000 ratio=1.030
+12/27 12:18:35 saving model to models/4_fold_codenn/checkpoints
+12/27 12:18:35 finished saving model
+12/27 12:41:16 step 142000 epoch 58 learning rate 0.0269 step-time 0.679 loss 0.406
+12/27 12:41:16 starting evaluation
+12/27 12:45:25 test bleu=32.32 loss=121.60 penalty=1.000 ratio=1.032
+12/27 12:45:25 saving model to models/4_fold_codenn/checkpoints
+12/27 12:45:25 finished saving model
+12/27 12:45:54   decaying learning rate to: 0.0255
+12/27 13:08:00 step 144000 epoch 59 learning rate 0.0255 step-time 0.676 loss 0.361
+12/27 13:08:00 starting evaluation
+12/27 13:12:08 test bleu=32.07 loss=121.99 penalty=1.000 ratio=1.036
+12/27 13:12:08 saving model to models/4_fold_codenn/checkpoints
+12/27 13:12:09 finished saving model
+12/27 13:17:47   decaying learning rate to: 0.0242
+12/27 13:34:44 step 146000 epoch 60 learning rate 0.0242 step-time 0.676 loss 0.362
+12/27 13:34:44 starting evaluation
+12/27 13:38:54 test bleu=32.01 loss=122.37 penalty=1.000 ratio=1.039
+12/27 13:38:54 saving model to models/4_fold_codenn/checkpoints
+12/27 13:38:54 finished saving model
+12/27 13:49:42   decaying learning rate to: 0.023
+12/27 14:01:27 step 148000 epoch 61 learning rate 0.023 step-time 0.674 loss 0.350
+12/27 14:01:27 starting evaluation
+12/27 14:05:36 test bleu=31.99 loss=123.12 penalty=1.000 ratio=1.041
+12/27 14:05:36 saving model to models/4_fold_codenn/checkpoints
+12/27 14:05:36 finished saving model
+12/27 14:21:35   decaying learning rate to: 0.0219
+12/27 14:28:18 step 150000 epoch 62 learning rate 0.0219 step-time 0.679 loss 0.347
+12/27 14:28:18 starting evaluation
+12/27 14:32:25 test bleu=32.26 loss=123.69 penalty=1.000 ratio=1.032
+12/27 14:32:25 saving model to models/4_fold_codenn/checkpoints
+12/27 14:32:25 finished saving model
+12/27 14:53:16   decaying learning rate to: 0.0208
+12/27 14:54:58 step 152000 epoch 63 learning rate 0.0208 step-time 0.675 loss 0.332
+12/27 14:54:58 starting evaluation
+12/27 14:59:09 test bleu=31.70 loss=124.02 penalty=1.000 ratio=1.046
+12/27 14:59:09 saving model to models/4_fold_codenn/checkpoints
+12/27 14:59:09 finished saving model
+12/27 15:21:47 step 154000 epoch 63 learning rate 0.0208 step-time 0.677 loss 0.316
+12/27 15:21:47 starting evaluation
+12/27 15:25:56 test bleu=32.09 loss=124.41 penalty=1.000 ratio=1.036
+12/27 15:25:56 saving model to models/4_fold_codenn/checkpoints
+12/27 15:25:57 finished saving model
+12/27 15:29:12   decaying learning rate to: 0.0197
+12/27 15:48:31 step 156000 epoch 64 learning rate 0.0197 step-time 0.676 loss 0.299
+12/27 15:48:31 starting evaluation
+12/27 15:52:40 test bleu=32.56 loss=124.34 penalty=1.000 ratio=1.024
+12/27 15:52:40 saving model to models/4_fold_codenn/checkpoints
+12/27 15:52:41 finished saving model
+12/27 15:52:41 new best model
+12/27 16:01:08   decaying learning rate to: 0.0188
+12/27 16:15:16 step 158000 epoch 65 learning rate 0.0188 step-time 0.675 loss 0.299
+12/27 16:15:16 starting evaluation
+12/27 16:19:25 test bleu=31.92 loss=124.88 penalty=1.000 ratio=1.038
+12/27 16:19:25 saving model to models/4_fold_codenn/checkpoints
+12/27 16:19:25 finished saving model
+12/27 16:33:03   decaying learning rate to: 0.0178
+12/27 16:42:07 step 160000 epoch 66 learning rate 0.0178 step-time 0.679 loss 0.288
+12/27 16:42:07 starting evaluation
+12/27 16:46:16 test bleu=32.25 loss=124.97 penalty=1.000 ratio=1.032
+12/27 16:46:16 saving model to models/4_fold_codenn/checkpoints
+12/27 16:46:16 finished saving model
+12/27 17:04:59   decaying learning rate to: 0.0169
+12/27 17:08:53 step 162000 epoch 67 learning rate 0.0169 step-time 0.676 loss 0.280
+12/27 17:08:53 starting evaluation
+12/27 17:13:02 test bleu=32.08 loss=125.09 penalty=1.000 ratio=1.035
+12/27 17:13:02 saving model to models/4_fold_codenn/checkpoints
+12/27 17:13:02 finished saving model
+12/27 17:35:39 step 164000 epoch 67 learning rate 0.0169 step-time 0.677 loss 0.278
+12/27 17:35:39 starting evaluation
+12/27 17:39:48 test bleu=32.32 loss=125.30 penalty=1.000 ratio=1.029
+12/27 17:39:48 saving model to models/4_fold_codenn/checkpoints
+12/27 17:39:48 finished saving model
+12/27 17:40:45   decaying learning rate to: 0.0161
+12/27 18:02:26 step 166000 epoch 68 learning rate 0.0161 step-time 0.677 loss 0.255
+12/27 18:02:26 starting evaluation
+12/27 18:06:35 test bleu=32.15 loss=125.51 penalty=1.000 ratio=1.031
+12/27 18:06:35 saving model to models/4_fold_codenn/checkpoints
+12/27 18:06:35 finished saving model
+12/27 18:12:43   decaying learning rate to: 0.0153
+12/27 18:29:15 step 168000 epoch 69 learning rate 0.0153 step-time 0.678 loss 0.250
+12/27 18:29:15 starting evaluation
+12/27 18:33:24 test bleu=31.88 loss=125.80 penalty=1.000 ratio=1.041
+12/27 18:33:24 saving model to models/4_fold_codenn/checkpoints
+12/27 18:33:24 finished saving model
+12/27 18:44:40   decaying learning rate to: 0.0145
+12/27 18:56:04 step 170000 epoch 70 learning rate 0.0145 step-time 0.678 loss 0.243
+12/27 18:56:04 starting evaluation
+12/27 19:00:12 test bleu=32.20 loss=126.36 penalty=1.000 ratio=1.031
+12/27 19:00:13 saving model to models/4_fold_codenn/checkpoints
+12/27 19:00:13 finished saving model
+12/27 19:16:34   decaying learning rate to: 0.0138
+12/27 19:22:48 step 172000 epoch 71 learning rate 0.0138 step-time 0.676 loss 0.249
+12/27 19:22:48 starting evaluation
+12/27 19:26:59 test bleu=31.79 loss=126.68 penalty=1.000 ratio=1.045
+12/27 19:26:59 saving model to models/4_fold_codenn/checkpoints
+12/27 19:26:59 finished saving model
+12/27 19:48:17   decaying learning rate to: 0.0131
+12/27 19:49:36 step 174000 epoch 72 learning rate 0.0131 step-time 0.676 loss 0.239
+12/27 19:49:36 starting evaluation
+12/27 19:53:45 test bleu=32.11 loss=126.83 penalty=1.000 ratio=1.035
+12/27 19:53:45 saving model to models/4_fold_codenn/checkpoints
+12/27 19:53:45 finished saving model
+12/27 20:16:21 step 176000 epoch 72 learning rate 0.0131 step-time 0.676 loss 0.226
+12/27 20:16:21 starting evaluation
+12/27 20:20:31 test bleu=31.99 loss=127.14 penalty=1.000 ratio=1.038
+12/27 20:20:31 saving model to models/4_fold_codenn/checkpoints
+12/27 20:20:31 finished saving model
+12/27 20:24:17   decaying learning rate to: 0.0124
+12/27 20:43:11 step 178000 epoch 73 learning rate 0.0124 step-time 0.678 loss 0.221
+12/27 20:43:11 starting evaluation
+12/27 20:47:19 test bleu=32.25 loss=127.40 penalty=1.000 ratio=1.026
+12/27 20:47:20 saving model to models/4_fold_codenn/checkpoints
+12/27 20:47:20 finished saving model
+12/27 20:56:12   decaying learning rate to: 0.0118
+12/27 21:09:56 step 180000 epoch 74 learning rate 0.0118 step-time 0.676 loss 0.215
+12/27 21:09:56 starting evaluation
+12/27 21:14:07 test bleu=31.96 loss=127.56 penalty=1.000 ratio=1.039
+12/27 21:14:07 saving model to models/4_fold_codenn/checkpoints
+12/27 21:14:07 finished saving model
+12/27 21:28:08   decaying learning rate to: 0.0112
+12/27 21:36:44 step 182000 epoch 75 learning rate 0.0112 step-time 0.677 loss 0.215
+12/27 21:36:44 starting evaluation
+12/27 21:40:56 test bleu=31.95 loss=127.75 penalty=1.000 ratio=1.038
+12/27 21:40:56 saving model to models/4_fold_codenn/checkpoints
+12/27 21:40:56 finished saving model
+12/27 22:00:02   decaying learning rate to: 0.0107
+12/27 22:03:29 step 184000 epoch 76 learning rate 0.0107 step-time 0.675 loss 0.212
+12/27 22:03:29 starting evaluation
+12/27 22:07:40 test bleu=32.11 loss=128.48 penalty=1.000 ratio=1.033
+12/27 22:07:40 saving model to models/4_fold_codenn/checkpoints
+12/27 22:07:41 finished saving model
+12/27 22:30:19 step 186000 epoch 76 learning rate 0.0107 step-time 0.677 loss 0.207
+12/27 22:30:19 starting evaluation
+12/27 22:34:29 test bleu=32.18 loss=127.85 penalty=1.000 ratio=1.032
+12/27 22:34:29 saving model to models/4_fold_codenn/checkpoints
+12/27 22:34:29 finished saving model
+12/27 22:35:54   decaying learning rate to: 0.0101
+12/27 22:57:10 step 188000 epoch 77 learning rate 0.0101 step-time 0.679 loss 0.194
+12/27 22:57:10 starting evaluation
+12/27 23:01:21 test bleu=31.92 loss=128.50 penalty=1.000 ratio=1.038
+12/27 23:01:21 saving model to models/4_fold_codenn/checkpoints
+12/27 23:01:21 finished saving model
+12/27 23:07:51   decaying learning rate to: 0.00963
+12/27 23:23:59 step 190000 epoch 78 learning rate 0.00963 step-time 0.677 loss 0.194
+12/27 23:23:59 starting evaluation
+12/27 23:28:09 test bleu=31.88 loss=128.54 penalty=1.000 ratio=1.042
+12/27 23:28:09 saving model to models/4_fold_codenn/checkpoints
+12/27 23:28:09 finished saving model
+12/27 23:39:48   decaying learning rate to: 0.00915
+12/27 23:50:46 step 192000 epoch 79 learning rate 0.00915 step-time 0.677 loss 0.191
+12/27 23:50:46 starting evaluation
+12/27 23:54:57 test bleu=31.80 loss=128.97 penalty=1.000 ratio=1.044
+12/27 23:54:57 saving model to models/4_fold_codenn/checkpoints
+12/27 23:54:57 finished saving model
+12/28 00:11:47   decaying learning rate to: 0.00869
+12/28 00:17:33 step 194000 epoch 80 learning rate 0.00869 step-time 0.676 loss 0.188
+12/28 00:17:33 starting evaluation
+12/28 00:21:43 test bleu=32.12 loss=128.83 penalty=1.000 ratio=1.032
+12/28 00:21:43 saving model to models/4_fold_codenn/checkpoints
+12/28 00:21:43 finished saving model
+12/28 00:43:30   decaying learning rate to: 0.00826
+12/28 00:44:21 step 196000 epoch 81 learning rate 0.00826 step-time 0.677 loss 0.189
+12/28 00:44:21 starting evaluation
+12/28 00:48:32 test bleu=31.93 loss=129.16 penalty=1.000 ratio=1.039
+12/28 00:48:32 saving model to models/4_fold_codenn/checkpoints
+12/28 00:48:32 finished saving model
+12/28 01:11:10 step 198000 epoch 81 learning rate 0.00826 step-time 0.677 loss 0.178
+12/28 01:11:10 starting evaluation
+12/28 01:15:20 test bleu=32.30 loss=129.44 penalty=1.000 ratio=1.028
+12/28 01:15:20 saving model to models/4_fold_codenn/checkpoints
+12/28 01:15:20 finished saving model
+12/28 01:19:31   decaying learning rate to: 0.00784
+12/28 01:37:56 step 200000 epoch 82 learning rate 0.00784 step-time 0.676 loss 0.175
+12/28 01:37:56 starting evaluation
+12/28 01:42:08 test bleu=31.81 loss=129.67 penalty=1.000 ratio=1.043
+12/28 01:42:08 saving model to models/4_fold_codenn/checkpoints
+12/28 01:42:08 finished saving model
+12/28 01:51:31   decaying learning rate to: 0.00745
+12/28 02:05:15 step 202000 epoch 83 learning rate 0.00745 step-time 0.691 loss 0.172
+12/28 02:05:15 starting evaluation
+12/28 02:09:30 test bleu=32.14 loss=129.97 penalty=1.000 ratio=1.030
+12/28 02:09:30 saving model to models/4_fold_codenn/checkpoints
+12/28 02:09:30 finished saving model
+12/28 02:24:32   decaying learning rate to: 0.00708
+12/28 02:33:00 step 204000 epoch 84 learning rate 0.00708 step-time 0.703 loss 0.172
+12/28 02:33:00 starting evaluation
+12/28 02:37:15 test bleu=31.70 loss=130.05 penalty=1.000 ratio=1.046
+12/28 02:37:15 saving model to models/4_fold_codenn/checkpoints
+12/28 02:37:16 finished saving model
+12/28 02:57:37   decaying learning rate to: 0.00673
+12/28 03:00:54 step 206000 epoch 85 learning rate 0.00673 step-time 0.707 loss 0.172
+12/28 03:00:54 starting evaluation
+12/28 03:05:09 test bleu=32.05 loss=130.08 penalty=1.000 ratio=1.033
+12/28 03:05:09 saving model to models/4_fold_codenn/checkpoints
+12/28 03:05:10 finished saving model
+12/28 03:28:34 step 208000 epoch 85 learning rate 0.00673 step-time 0.700 loss 0.167
+12/28 03:28:34 starting evaluation
+12/28 03:32:51 test bleu=31.95 loss=130.42 penalty=1.000 ratio=1.040
+12/28 03:32:51 saving model to models/4_fold_codenn/checkpoints
+12/28 03:32:51 finished saving model
+12/28 03:34:49   decaying learning rate to: 0.00639
+12/28 03:56:26 step 210000 epoch 86 learning rate 0.00639 step-time 0.705 loss 0.158
+12/28 03:56:26 starting evaluation
+12/28 04:00:43 test bleu=32.36 loss=130.75 penalty=1.000 ratio=1.026
+12/28 04:00:43 saving model to models/4_fold_codenn/checkpoints
+12/28 04:00:43 finished saving model
+12/28 04:08:02   decaying learning rate to: 0.00607
+12/28 04:24:18 step 212000 epoch 87 learning rate 0.00607 step-time 0.705 loss 0.161
+12/28 04:24:18 starting evaluation
+12/28 04:28:34 test bleu=32.10 loss=130.53 penalty=1.000 ratio=1.034
+12/28 04:28:34 saving model to models/4_fold_codenn/checkpoints
+12/28 04:28:34 finished saving model
+12/28 04:41:03   decaying learning rate to: 0.00577
+12/28 04:51:30 step 214000 epoch 88 learning rate 0.00577 step-time 0.686 loss 0.158
+12/28 04:51:30 starting evaluation
+12/28 04:55:41 test bleu=32.10 loss=131.15 penalty=1.000 ratio=1.036
+12/28 04:55:41 saving model to models/4_fold_codenn/checkpoints
+12/28 04:55:42 finished saving model
+12/28 05:13:00   decaying learning rate to: 0.00548
+12/28 05:18:19 step 216000 epoch 89 learning rate 0.00548 step-time 0.677 loss 0.158
+12/28 05:18:19 starting evaluation
+12/28 05:22:31 test bleu=32.22 loss=131.27 penalty=1.000 ratio=1.031
+12/28 05:22:31 saving model to models/4_fold_codenn/checkpoints
+12/28 05:22:31 finished saving model
+12/28 05:44:43   decaying learning rate to: 0.0052
+12/28 05:45:09 step 218000 epoch 90 learning rate 0.0052 step-time 0.677 loss 0.157
+12/28 05:45:09 starting evaluation
+12/28 05:49:19 test bleu=31.97 loss=131.06 penalty=1.000 ratio=1.036
+12/28 05:49:19 saving model to models/4_fold_codenn/checkpoints
+12/28 05:49:19 finished saving model
+12/28 06:11:58 step 220000 epoch 90 learning rate 0.0052 step-time 0.677 loss 0.149
+12/28 06:11:58 starting evaluation
+12/28 06:16:10 test bleu=32.12 loss=131.21 penalty=1.000 ratio=1.034
+12/28 06:16:10 saving model to models/4_fold_codenn/checkpoints
+12/28 06:16:10 finished saving model
+12/28 06:20:54   decaying learning rate to: 0.00494
+12/28 06:39:06 step 222000 epoch 91 learning rate 0.00494 step-time 0.686 loss 0.149
+12/28 06:39:06 starting evaluation
+12/28 06:43:19 test bleu=31.82 loss=131.42 penalty=1.000 ratio=1.044
+12/28 06:43:19 saving model to models/4_fold_codenn/checkpoints
+12/28 06:43:19 finished saving model
+12/28 06:53:17   decaying learning rate to: 0.0047
+12/28 07:06:15 step 224000 epoch 92 learning rate 0.0047 step-time 0.686 loss 0.148
+12/28 07:06:15 starting evaluation
+12/28 07:10:27 test bleu=31.97 loss=131.79 penalty=1.000 ratio=1.037
+12/28 07:10:27 saving model to models/4_fold_codenn/checkpoints
+12/28 07:10:27 finished saving model
+12/28 07:25:39   decaying learning rate to: 0.00446
+12/28 07:33:27 step 226000 epoch 93 learning rate 0.00446 step-time 0.688 loss 0.147
+12/28 07:33:27 starting evaluation
+12/28 07:37:41 test bleu=32.07 loss=131.96 penalty=1.000 ratio=1.037
+12/28 07:37:41 saving model to models/4_fold_codenn/checkpoints
+12/28 07:37:41 finished saving model
+12/28 07:57:58   decaying learning rate to: 0.00424
+12/28 08:00:37 step 228000 epoch 94 learning rate 0.00424 step-time 0.686 loss 0.148
+12/28 08:00:37 starting evaluation
+12/28 08:04:51 test bleu=31.78 loss=131.88 penalty=1.000 ratio=1.041
+12/28 08:04:51 saving model to models/4_fold_codenn/checkpoints
+12/28 08:04:51 finished saving model
+12/28 08:27:46 step 230000 epoch 94 learning rate 0.00424 step-time 0.685 loss 0.144
+12/28 08:27:46 starting evaluation
+12/28 08:32:00 test bleu=31.76 loss=131.87 penalty=1.000 ratio=1.043
+12/28 08:32:00 saving model to models/4_fold_codenn/checkpoints
+12/28 08:32:01 finished saving model
+12/28 08:34:24   decaying learning rate to: 0.00403
+12/28 08:54:58 step 232000 epoch 95 learning rate 0.00403 step-time 0.687 loss 0.139
+12/28 08:54:58 starting evaluation
+12/28 08:59:13 test bleu=31.76 loss=132.04 penalty=1.000 ratio=1.045
+12/28 08:59:13 saving model to models/4_fold_codenn/checkpoints
+12/28 08:59:13 finished saving model
+12/28 09:06:50   decaying learning rate to: 0.00383
+12/28 09:22:15 step 234000 epoch 96 learning rate 0.00383 step-time 0.689 loss 0.140
+12/28 09:22:15 starting evaluation
+12/28 09:26:28 test bleu=31.94 loss=132.35 penalty=1.000 ratio=1.038
+12/28 09:26:28 saving model to models/4_fold_codenn/checkpoints
+12/28 09:26:28 finished saving model
+12/28 09:39:15   decaying learning rate to: 0.00363
+12/28 09:49:27 step 236000 epoch 97 learning rate 0.00363 step-time 0.688 loss 0.140
+12/28 09:49:27 starting evaluation
+12/28 09:53:40 test bleu=32.04 loss=132.46 penalty=1.000 ratio=1.036
+12/28 09:53:40 saving model to models/4_fold_codenn/checkpoints
+12/28 09:53:40 finished saving model
+12/28 10:11:40   decaying learning rate to: 0.00345
+12/28 10:16:37 step 238000 epoch 98 learning rate 0.00345 step-time 0.686 loss 0.138
+12/28 10:16:37 starting evaluation
+12/28 10:20:51 test bleu=31.83 loss=132.52 penalty=1.000 ratio=1.038
+12/28 10:20:51 saving model to models/4_fold_codenn/checkpoints
+12/28 10:20:52 finished saving model
+12/28 10:43:47 step 240000 epoch 99 learning rate 0.00345 step-time 0.686 loss 0.139
+12/28 10:43:47 starting evaluation
+12/28 10:48:02 test bleu=31.72 loss=132.58 penalty=1.000 ratio=1.046
+12/28 10:48:02 saving model to models/4_fold_codenn/checkpoints
+12/28 10:48:02 finished saving model
+12/28 10:48:04   decaying learning rate to: 0.00328
+12/28 11:10:59 step 242000 epoch 99 learning rate 0.00328 step-time 0.686 loss 0.133
+12/28 11:10:59 starting evaluation
+12/28 11:15:13 test bleu=32.08 loss=132.64 penalty=1.000 ratio=1.034
+12/28 11:15:13 saving model to models/4_fold_codenn/checkpoints
+12/28 11:15:13 finished saving model
+12/28 11:20:26   decaying learning rate to: 0.00312
+12/28 11:38:12 step 244000 epoch 100 learning rate 0.00312 step-time 0.688 loss 0.133
+12/28 11:38:12 starting evaluation
+12/28 11:42:25 test bleu=32.09 loss=132.85 penalty=1.000 ratio=1.033
+12/28 11:42:25 saving model to models/4_fold_codenn/checkpoints
+12/28 11:42:25 finished saving model
+12/28 11:52:34 finished training
+12/28 11:52:34 exiting...
+12/28 11:52:34 saving model to models/4_fold_codenn/checkpoints
+12/28 11:52:34 finished saving model
